@@ -5,7 +5,7 @@ permalink: /publication/JoDS16
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-06-01
 venue: 'Journal on Data Semantics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/JoDS16.pdf'
 citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana. <i> Journal on Data Semantics. </i> <b>JoDS 2016</b>.'
 
 ---
