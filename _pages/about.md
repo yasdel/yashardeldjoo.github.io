@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo3.jpg" alt="Photo" style=" width: 30%;"/>
+  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo3.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
 
 I currently have a research position under the supervision of <a href="http://www.deib.polimi.it/eng/people/details/159156">Prof. Gabriella Pasi</a> at the Università degli Studi di Milano-Bicocca / Department of Informatics, Systems, and Communication (DISCo) in Milan, Italy. My research interests include recommender systems and personalization, multimedia retrieval, multimedia processing and information retrieval.
