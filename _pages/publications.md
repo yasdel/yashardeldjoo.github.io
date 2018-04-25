@@ -9,9 +9,9 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2016 </i><b>(MMIR 2018)</b>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based video recommendation system based on stylistic visual features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i><b>(JoDS 2016)</b>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i><b>(JoDS 2016)</b>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">A low-cost infrared-optical head tracking solution for virtual 3d audio environment using the nintendo wii-remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i> <b>(JoEC 2016)</b>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i> <b>(JoEC 2016)</b>
 
 
 <h2>Conference Papers</h2>
@@ -29,7 +29,7 @@ author_profile: true
 
 <h2>Extended Abstracts/Workshop Papers</h2>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The effect of different video summarization models on the quality of video recommendation based <br> on low-level visual features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>
 
