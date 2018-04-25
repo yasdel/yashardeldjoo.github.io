@@ -3,7 +3,7 @@ title: "MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendatio
 collection: publications
 permalink: /publication/MMSys18
 date: 2018-06-12
-venue: 'Proceedings of the Eleventh ACM Conference on Recommender Systems'
+venue: 'Proceedings of the 9th ACM Multimedia Systems Conference'
 citation: 'Yashar Deldjoo, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i> Proceedings of the 9th ACM Multimedia Systems Conference 2018 </i><b>(MMSys 2018)</b>.'
 
 ---
