@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/JoDS16
 date: 2016-06-01
 venue: 'Journal on Data Semantics'
-citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana. <i> Journal on Data Semantics. </i> <b>JoDS 2016</b>.'
+citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <i>Journal on Data Semantics </i> <b>JoDS 2016</b>.'
 
 ---
 
