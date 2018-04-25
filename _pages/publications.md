@@ -29,7 +29,7 @@ author_profile: true
 
 <h2>Extended Abstracts/Workshop Papers</h2>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The effect of different video summarization models on the quality of video recommendation based on low-level visual features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The effect of different video summarization models on the quality of video recommendation based <br> on low-level visual features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>
 
