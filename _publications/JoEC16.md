@@ -10,7 +10,7 @@ citation: <b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> </i> <b>JoEC 2016</b>.
 
 ---
 
-[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ePqjjtsKrz4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWuCinxD7bCzpTFiwf63z_6UNBpEioB3R&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/entcom/DeldjooA16)
 
 
 ## Abstract

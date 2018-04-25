@@ -10,7 +10,7 @@ citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto,
 
 ---
 
-[[PDF]](http://yasdel.github.io/files/JoDS16.pdf)  [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:NG1BJjcxoJMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWt-fVPOU1dXxh3h6UGyOP0cFdC3uyjIM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+[[PDF]](http://yasdel.github.io/files/JoDS16.pdf)  [[bibtex]](http://dblp.uni-trier.de/rec/bibtex/journals/jodsn/DeldjooECGPQ16)
 
 
 ## Abstract
