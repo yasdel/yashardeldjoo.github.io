@@ -6,7 +6,7 @@ permalink: /publication/JoEC16
 date: 2016-01-01
 venue: 'International Journal of Entertainment Computing'
 #paperurl: 'http://yasdel.github.io/files/MMIR18_1.pdf'
-citation: '<b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> </i> <b>JoEC 2016</b>.'
+citation: '<b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> <i> International Journal on Entertainment Computing 2016 </i> <b>JoEC 2016</b>.'
 
 ---
 
