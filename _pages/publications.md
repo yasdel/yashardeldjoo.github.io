@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Journal Papers</h2>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2016 </i><b>(MMIR 2018)</b>
+<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i><b>(MMIR 2018)</b>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i><b>(JoDS 2016)</b>
 
