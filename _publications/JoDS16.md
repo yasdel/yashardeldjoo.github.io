@@ -2,10 +2,8 @@
 title: "Content-based video recommendation system based on stylistic visual features"
 collection: publications
 permalink: /publication/JoDS16
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-06-01
 venue: 'Journal on Data Semantics'
-#paperurl: 'http://yasdel.github.io/files/JoDS16.pdf'
 citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana. <i> Journal on Data Semantics. </i> <b>JoDS 2016</b>.'
 
 ---

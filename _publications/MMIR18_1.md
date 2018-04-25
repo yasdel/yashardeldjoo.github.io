@@ -2,10 +2,8 @@
 title: "Current Challenges and Visions in Music Recommender Systems Research"
 collection: publications
 permalink: /publication/MMIR18_1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018
 venue: 'International Journal of Multimedia Information Retrieval'
-#paperurl: 'http://yasdel.github.io/files/MMIR18_1.pdf'
 citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i> International Journal of Multimedia Information Retrieval </i> <b>MMIR 2018</b>.'
 
 ---
