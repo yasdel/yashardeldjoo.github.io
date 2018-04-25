@@ -23,7 +23,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Effective Movie Recommendations Based on Mise-en-Scène Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Building a Content-Based Video Recommendation System Based on Low-Level Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <br><i> International Conference on Electronic Commerce and Web Technologie 2015</i><b>(EC-Web 2015)</b>.
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Building a Content-Based Video Recommendation System Based on Low-Level Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <br><i> International Conference on Electronic Commerce and Web Technologie 2015 </i><b>(EC-Web 2015)</b>
 
 
 
@@ -31,8 +31,8 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The effect of different video summarization models on the quality of video recommendation based on low-level visual features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>.
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
-</i><b>(CHI Extended Abstracts 2016)</b>.
+</i><b> (CHI Extended Abstracts 2016)</b>
 
