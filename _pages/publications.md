@@ -20,6 +20,8 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad Bakhshandegan Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Effective Movie Recommendations Based on Mise-en-Scène Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
