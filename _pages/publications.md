@@ -35,7 +35,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Enhancing Children’s Experience with Recommendation Systems</a><br><b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa A. Tuncel, Franca Garzotto, Paolo Cremonesi <br><i> Workshop on Children and Recommender Systems </i><b>(KidRec 2017)</b>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Enhancing Children’s Experience with Recommendation Systems</a><br><b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa A. Tuncel, Franca Garzotto, Paolo Cremonesi <br><i> Workshop on Children and Recommender Systems </i><b>(KidRec@RecSys 2017)</b>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>
 
