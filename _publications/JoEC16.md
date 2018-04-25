@@ -1,16 +1,16 @@
 ---
 title: "Current Challenges and Visions in Music Recommender Systems Research"
 collection: publications
-permalink: /publication/MMIR18_1
+permalink: /publication/JoEC16
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
-venue: 'International Journal of Multimedia Information Retrieval'
+date: 2016-01-01
+venue: 'International Journal of Entertainment Computing'
 #paperurl: 'http://yasdel.github.io/files/MMIR18_1.pdf'
-citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i> International Journal of Multimedia Information Retrieval </i> <b>MMIR 2018</b>.'
+citation: <b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> </i> <b>JoEC 2016</b>.'
 
 ---
 
-[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](https://citation-needed.springer.com/v2/references/10.1007/s13735-018-0154-2?format=bibtex&flavour=citation)
+[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ePqjjtsKrz4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWuCinxD7bCzpTFiwf63z_6UNBpEioB3R&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 
 ## Abstract
