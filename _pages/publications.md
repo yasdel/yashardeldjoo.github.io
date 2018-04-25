@@ -18,12 +18,12 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of the 9th ACM Multimedia Systems Conference 2018 </i><b>(MMSys 2018)</b>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad Bakhshandegan Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Effective Movie Recommendations Based on Mise-en-Scène Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
 
@@ -34,6 +34,8 @@ author_profile: true
 <h2>Extended Abstracts/Workshop Papers</h2>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
+
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Enhancing Children’s Experience with Recommendation Systems</a><br><b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa A. Tuncel, Franca Garzotto, Paolo Cremonesi <br><i> Workshop on Children and Recommender Systems </i><b>(KidRec 2017)</b>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Letting Users Assist What to Watch: An Interactive Query-by-Example Movie Recommendation System</a><br><b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi <i> <br> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>
 
