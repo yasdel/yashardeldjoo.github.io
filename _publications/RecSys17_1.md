@@ -8,7 +8,7 @@ citation: 'Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Ce
 
 ---
 
-[[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:6bZiIHWhuMMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWuCqG4WIjmeDl5WCA22eehGnCQtHfuF_&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+[[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](http://yasdel.github.io/files/RecSys17_1.bib)
 
 
 ## Abstract
