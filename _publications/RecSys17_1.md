@@ -1,7 +1,7 @@
 ---
 title: "Exploring The Semantic Gap for Movie Recommendation"
 collection: publications
-permalink: /publication/RecSys17
+permalink: /publication/RecSys17_1
 date: 2017-08-27
 venue: 'Proceedings of the Eleventh ACM Conference on Recommender Systems'
 citation: 'Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi <i>Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>.'
