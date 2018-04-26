@@ -8,7 +8,7 @@ citation: 'Yashar Deldjoo, Mihai Gabriel Constantin, Markus Schedl, Bogdan Iones
 
 ---
 
-[[PDF]](https://drive.google.com/file/d/1wWEDxYLQbkDAbZJTWj6AbEpjEhL_r64W/view?usp=sharing)  [[bibtex]](http://yasdel.github.io/files/MMSys18.bib)
+[[PDF]](https://drive.google.com/file/d/1wWEDxYLQbkDAbZJTWj6AbEpjEhL_r64W/view?usp=sharing)  [[bibtex]](http://yasdel.github.io/_publications/MMSys18.bib)
 
 
 ## Abstract

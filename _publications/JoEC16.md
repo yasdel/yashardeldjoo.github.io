@@ -10,7 +10,7 @@ citation: '<b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> <i> International Jou
 
 ---
 
-[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](http://yasdel.github.io/files/JoEC16.bib)
+[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](http://yasdel.github.io/_publications/JoEC16.bib)
 
 
 ## Abstract
