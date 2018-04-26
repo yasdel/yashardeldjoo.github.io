@@ -8,7 +8,7 @@ citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, M
 
 ---
 
-[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](https://yasdel.github.io/publication/MMIR18_1.bib)
+[[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs13735-018-0154-2.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/MMIR18_1.bib)
 
 
 ## Abstract
