@@ -1,5 +1,5 @@
 ---
-title: "Toward effective movie recommendations based on mise-en-scène film styles"
+title: "Toward effective movie recommendations based on mise-en-scene film styles"
 collection: publications
 permalink: /publication/ChiItaly15
 date: 2015-9-28
