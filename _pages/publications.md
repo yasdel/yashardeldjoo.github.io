@@ -22,7 +22,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/ECWeb16" style="color: #2A5DB0">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Effective Movie Recommendations Based on Mise-en-Scène Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
+<a href="https://yasdel.github.io/publication/ChiItaly15" style="color: #2A5DB0">Toward Effective Movie Recommendations Based on Mise-en-Scène Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Toward Building a Content-Based Video Recommendation System Based on Low-Level Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <br><i> International Conference on Electronic Commerce and Web Technologie 2015 </i><b>(EC-Web 2015)</b>
 
