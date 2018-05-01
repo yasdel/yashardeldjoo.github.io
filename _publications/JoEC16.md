@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/JoEC16
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-01-01
-venue: 'International Journal of Entertainment Computing'
+venue: 'International Journal of Entertainment Computing Elsevier'
 #paperurl: 'http://yasdel.github.io/files/MMIR18_1.pdf'
 citation: '<b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br> <i> International Journal on Entertainment Computing 2016 </i> <b>JoEC 2016</b>.'
 
 ---
 
-[[PDF]](https://www.researchgate.net/publication/284119646_A_Low-Cost_Infrared-Optical_Head_Tracking_Solution_for_Virtual_3D_Audio_Environment_Using_the_Nintendo_Wii-Remote)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoEC16.bib)
+[[PDF]](https://www.researchgate.net/profile/Reza_Ebrahimi_Atani/publication/284119646_A_Low-Cost_Infrared-Optical_Head_Tracking_Solution_for_Virtual_3D_Audio_Environment_Using_the_Nintendo_Wii-Remote/links/59d77be5aca27213dfa51eb9/A-Low-Cost-Infrared-Optical-Head-Tracking-Solution-for-Virtual-3D-Audio-Environment-Using-the-Nintendo-Wii-Remote.pdf?_sg%5B0%5D=YZ4ySOk_g1xKdpw_l8ETklldRJH5ujE-Emyk8LFUn4polSEAU-7wpkBrcOT2hVRHYBmqkXvG1N2wBlHBBE5uJQ.QwhOZsHHTJlzSYS4oOs1-CsbF-XOBr6WcMIpsWXnukLJg5Tw2G8d7SL27IEQe9nSSjgQlB3cD-vYHfVMuYrp5w&_sg%5B1%5D=6uFw2z05xD_LOTazfA0wF1QnGYTmIp1QjdJEN1HeShXKtt4MRQOlf4M_Ldojp3zPWYoR25up3jS1yzhHYANipKPhOz9dMpKmVCp1iZYpw7xC.QwhOZsHHTJlzSYS4oOs1-CsbF-XOBr6WcMIpsWXnukLJg5Tw2G8d7SL27IEQe9nSSjgQlB3cD-vYHfVMuYrp5w&_iepl=)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoEC16.bib)
 
 
 ## Abstract

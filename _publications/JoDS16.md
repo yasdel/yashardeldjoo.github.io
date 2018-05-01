@@ -3,7 +3,7 @@ title: "Content-based video recommendation system based on stylistic visual feat
 collection: publications
 permalink: /publication/JoDS16
 date: 2016-06-01
-venue: 'Journal on Data Semantics'
+venue: 'International Journal on Data Semantics Springer'
 citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <i>Journal on Data Semantics </i> <b>JoDS 2016</b>.'
 
 ---
