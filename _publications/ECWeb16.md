@@ -8,7 +8,7 @@ citation: 'Yashar Deldjoo, Mehdi Elahi, Paolo Cremonesi, Farshad Bakhshandegan M
 
 ---
 
-[[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1031993/226566/Ec-Web2016-camera-ready.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ECWeb16.bib) 
+[[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-53676-7_3) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1031993/226566/Ec-Web2016-camera-ready.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ECWeb16.bib) 
 
 
 
