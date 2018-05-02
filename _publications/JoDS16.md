@@ -8,7 +8,7 @@ citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto,
 
 ---
 
-[[PDF]](http://yasdel.github.io/files/JoDS16.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoDS16.bib)
+[[DOI]](https://link.springer.com/article/10.1007/s13740-016-0060-9)  [[PDF]](http://yasdel.github.io/files/JoDS16.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoDS16.bib)
 
 
 ## Abstract
