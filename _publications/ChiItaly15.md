@@ -8,7 +8,7 @@ citation: 'Yashar Deldjoo, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi<i> Pro
 
 ---
 
-[[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/282504080_Toward_Effective_Movie_Recommendations_Based_on_Mise-en-Scene_Film_Styles/links/565eab1508ae1ef92983e2d7.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ChiItaly15.bib) 
+[[DOI]](https://dl.acm.org/citation.cfm?id=2808460) [[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/282504080_Toward_Effective_Movie_Recommendations_Based_on_Mise-en-Scene_Film_Styles/links/565eab1508ae1ef92983e2d7.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ChiItaly15.bib) 
 
 
 
