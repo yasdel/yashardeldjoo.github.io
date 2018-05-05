@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MMIR18_2
 date: 2018-06-04
 venue: 'International Journal of Multimedia Information Retrieval'
-citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i> International Journal of Multimedia Information Retrieval </i>.'
+citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i> International Journal of Multimedia Information Retrieval 2018 </i>.'
 
 ---
 

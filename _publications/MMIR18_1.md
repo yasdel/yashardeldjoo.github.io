@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MMIR18_1
 date: 2018-05-04
 venue: 'International Journal of Multimedia Information Retrieval'
-citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i> International Journal of Multimedia Information Retrieval </i>.'
+citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i> International Journal of Multimedia Information Retrieval 2018 </i>.'
 
 ---
 
