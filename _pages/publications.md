@@ -7,13 +7,13 @@ author_profile: true
 
 <h2>Journal Papers</h2>
 
-<a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #2A5DB0">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i><b>(MMIR 2018)</b>
+<a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #2A5DB0">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i>
 
-<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i><b>(MMIR 2018)</b>
+<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i><b>(JoDS 2016)</b>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i>
 
-<a href="https://yasdel.github.io/publication/JoEC16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i> <b>(JoEC 2016)</b>
+<a href="https://yasdel.github.io/publication/JoEC16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i>
 
 
 <h2>Conference Papers</h2>
