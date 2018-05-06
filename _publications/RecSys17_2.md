@@ -1,10 +1,10 @@
 ---
-title: "Recsys challenge 2017: Offline and online evaluation"
+title: "Recsys Challenge 2017: Offline and Online Evaluation"
 collection: publications
 permalink: /publication/RecSys17_2
 date: 2017-08-27
-venue: 'Proceedings of the 11th ACM Conference on Recommender Systems <b>(RecSys 2017)</b>'
-citation: 'Fabian Abel, Yashar Deldjoo, Mehdi Elahi, Daniel Kohlsdorf <i> In Proceedings of the Eleventh ACM Conference on Recommender Systems, pp. 372-373. ACM, 2017.'
+venue: 'Proceedings of the 11th ACM Conference on Recommender Systems'
+citation: 'Fabian Abel, Yashar Deldjoo, Mehdi Elahi, Daniel Kohlsdorf <i> In Proceedings of the Eleventh ACM Conference on Recommender Systems, (pp. 372-373). ACM, 2017.<b>(RecSys 2017)</b>'
 
 ---
 
