@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CBMI17
 date: 2017-6-19
 venue: 'Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing'
-citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.'
+citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing p. 20. </i><b>(CBMI 2017)</b>.'
 
 ---
 
