@@ -3,22 +3,15 @@ title: "Enhancing Children’s Experience with Recommendation Systems"
 collection: publications
 permalink: /publication/RecSys17_WS1
 date: 2017-08-27
-venue: 'Workshop on Children and Recommender Systems (KidRec) as part of the 11th ACM Conference on Recommender Systems <b>(KidRec@RecSys'17)</b>.'
-citation: 'Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi <i>CEUR Workshop Proceedings </i><b>(KidRec@RecSys'17)</b>.'
+venue: 'Workshop on Children and Recommender Systems (KidRec) as part of the 11th ACM Conference on Recommender Systems'
+citation: <b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa Anil Tuncel, Franca Garzotto, Paolo Cremonesi </i><b>(KidRec@RecSys'17)</b>.'
 
 ---
 
-[[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
+[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
 
 
 ## Abstract
 
-In the last years, there has been much attention given to the semantic gap problem in
-multimedia retrieval systems. Much effort has been devoted to bridge this gap by building
-tools for the extraction of high-level, semantics-based features from multimedia content, as
-low-level features are not considered useful because they deal primarily with representing
-the perceived content rather than the semantics of it. In this paper, we explore a different
-point of view by leveraging the gap between low-level and high-level features. We
-experiment with a recent approach for movie recommendation that extract low-level Mise-en-
-Scéne features from multimedia content and combine it with high-level features provided by
-the wisdom of the crowd.
+Recommender Systems (RSs) offer a personalized support in exploring large amounts of information, assisting users in decision making about products matching their taste and preferences. Most of the research todate on recommender systems have focused on traditional users, i.e., adult individuals who are able to o er explicit feedback, write reviews or purchase items themselves. However, children’s patterns of attention and interaction are quite di erent from those of adults.
+This paper presents the  rst results of a research-in-progress that can be suited to bridge the barrier between children and a recom- mender system by providing a child-friendly interaction paradigm. Speci cally, a web application is developed that employs real-time object recognition on movie thumbnails or DVD cover-photos in a real-time manner. The tangible object can be manipulated by the user and provide input to the system for the purpose of generating movie recommendations. We plan to extend this work to the scenario where the child could ask for a video content showing a related toy (e.g., a car, a plane, the doll of a character that she likes in a cartoon) and the system could generate the videos that matches these implicit preferences expressed by the child.
