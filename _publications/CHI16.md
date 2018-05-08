@@ -8,7 +8,7 @@ citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> I
 
 ---
 
-[[DOI]](https://dl.acm.org/citation.cfm?id=3095734) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1006623/227224/ea1540-deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/CHI16.bib)
+[[DOI]](https://dl.acm.org/citation.cfm?id=2892551) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1006623/227224/ea1540-deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/CHI16.bib)
 
 
 
