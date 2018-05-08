@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ISMIR17
 date: 2017-10-27
 venue: 'International Society for Music Information Retrieval'
-citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<i> International Society for Music Information Retrieval, 2017 </i><b>(IMSIR LBD 2017)</b>.'
+citation: 'Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i> International Society for Music Information Retrieval, 2017 </i><b>(IMSIR LBD 2017)</b>.'
 
 ---
 
