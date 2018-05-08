@@ -34,7 +34,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/CBMI17" style="color: #2A5DB0">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
 
-<a href="https://yasdel.github.io/publication/RecSys17_2" style="color: #2A5DB0">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+<a href="https://yasdel.github.io/publication/RecSys17_WS2" style="color: #2A5DB0">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
 <a href="https://yasdel.github.io/publication/RecSys17_WS1" style="color: #2A5DB0">Enhancing Children’s Experience with Recommendation Systems</a><br><b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa A. Tuncel, Franca Garzotto, Paolo Cremonesi <br><i> Workshop on Children and Recommender Systems </i><b>(KidRec@RecSys 2017)</b>
 

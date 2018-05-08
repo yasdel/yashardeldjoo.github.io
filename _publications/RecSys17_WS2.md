@@ -1,24 +1,16 @@
 ---
-title: "Enhancing Children’s Experience with Recommendation Systems"
+title: "Recsys Challenge 2017: Offline and Online Evaluation"
 collection: publications
-permalink: /publication/RecSys17_WS1
+permalink: /publication/RecSys17_2
 date: 2017-08-27
-venue: 'Workshop on Children and Recommender Systems (KidRec) as part of the 11th ACM Conference on Recommender Systems <b>(KidRec@RecSys'17)</b>.'
-citation: 'Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi <i>CEUR Workshop Proceedings </i><b>(KidRec@RecSys'17)</b>.'
+venue: 'Proceedings of the 11th ACM Conference on Recommender Systems'
+citation: 'Fabian Abel, Yashar Deldjoo, Mehdi Elahi, Daniel Kohlsdorf <i> In Proceedings of the Eleventh ACM Conference on Recommender Systems, (pp. 372-373). ACM, 2017 <b>(RecSys 2017)</b>.'
 
 ---
 
-[[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
+[[DOI]](https://dl.acm.org/citation.cfm?id=3109954) [[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/318394072_RecSys_Challenge_2017_Offline_and_Online_Evaluation/links/59f251550f7e9beabfcc615b/RecSys-Challenge-2017-Offline-and-Online-Evaluation.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_2.bib)
 
 
 ## Abstract
 
-In the last years, there has been much attention given to the semantic gap problem in
-multimedia retrieval systems. Much effort has been devoted to bridge this gap by building
-tools for the extraction of high-level, semantics-based features from multimedia content, as
-low-level features are not considered useful because they deal primarily with representing
-the perceived content rather than the semantics of it. In this paper, we explore a different
-point of view by leveraging the gap between low-level and high-level features. We
-experiment with a recent approach for movie recommendation that extract low-level Mise-en-
-Scéne features from multimedia content and combine it with high-level features provided by
-the wisdom of the crowd.
+The ACM Recommender Systems Challenge 20171 focused on the problem of job recommendations: given a new job advertisement, the goal was to identify those users who are both (a) interested in getting notified about the job advertisement, and (b) appropriate candidates for the given job. Participating teams had to balance between user interests and requirements for the given job as well as dealing with the cold-start situation. For the first time in the history of the conference, the RecSys challenge offered an online evaluation: teams first had to compete as part of a traditional offline evaluation and the top 25 teams were then invited to evaluate their algorithms in an online setting, where they could submit recommendations to real users. Overall, 262 teams registered for the challenge, 103 teams actively participated and submitted together more than 6100 solutions as part of the offline evaluation. Finally, 18 teams participated and rolled out recommendations to more than 900,000 users on XING.
