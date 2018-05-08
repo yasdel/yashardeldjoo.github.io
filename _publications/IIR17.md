@@ -8,7 +8,7 @@ citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<
 
 ---
 
-[[Proceedings]](http://ceur-ws.org/Vol-1911/) [[PDF]](http://ceur-ws.org/Vol-1911/10.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IIR2017.bib)
+[[Proceedings]](http://ceur-ws.org/Vol-1911/) [[PDF]](http://ceur-ws.org/Vol-1911/10.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IIR17.bib)
 
 
 
