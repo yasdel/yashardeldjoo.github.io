@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RecSys16_WS1
 date: 2016-09-16
 venue: 'Workshop on New Trends in Content-based Recommender Systems as part of the 10th ACM Conference of Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi <i>Workshop on New Trends in Content-based Recommender Systems </i><b>(CBRecSys@RecSys 2016)</b>.'
+citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi <i>Workshop on New Trends in Content-based Recommender Systems, 2016 </i><b>(CBRecSys@RecSys 2016)</b>.'
 
 ---
 
