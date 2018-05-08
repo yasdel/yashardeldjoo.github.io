@@ -42,7 +42,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Recsys Challenge 2018: Automatic Playlist Continuation</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, Yashar <b>Yashar Deldjoo</b>, Mehdi Elahi <br><i> Proceedings of the 18th International Society for Music Information Retrieval Conference 2017 </i><b>(ISMIR LBD 2017)</b>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Using Visual Features and Latent Factors for Movie Recommendation</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi<br><i> Workshop on New Trends in Content-based Recommender Systems</i><b> (CBRecSys@RecSys 2016)</b>
+<a href="https://yasdel.github.io/publication/RecSys16_WS1" style="color: #2A5DB0">Using Visual Features and Latent Factors for Movie Recommendation</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi<br><i> Workshop on New Trends in Content-based Recommender Systems</i><b> (CBRecSys@RecSys 2016)</b>
 
 <a href="https://yasdel.github.io/publication/CHI16" style="color: #2A5DB0">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 </i><b> (CHI Extended Abstracts 2016)</b>
