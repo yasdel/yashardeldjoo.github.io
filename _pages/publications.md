@@ -44,6 +44,6 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Using Visual Features and Latent Factors for Movie Recommendation</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi<br><i> Workshop on New Trends in Content-based Recommender Systems</i><b> (CBRecSys@RecSys 2016)</b>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
+<a href="https://yasdel.github.io/publication/CHI16" style="color: #2A5DB0">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 </i><b> (CHI Extended Abstracts 2016)</b>
 
