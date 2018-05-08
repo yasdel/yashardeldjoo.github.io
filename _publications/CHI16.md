@@ -3,7 +3,7 @@ title: "Recommending movies based on mise-en-scene design"
 collection: publications
 permalink: /publication/CHI16
 date: 2016-5-7
-venue: 'Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing'
+venue: 'Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems'
 citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (pp. 1540-1547). ACM. </i><b>(CHI Extended Abstracts 2016)</b>.'
 
 ---
