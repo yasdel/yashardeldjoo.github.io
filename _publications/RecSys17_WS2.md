@@ -1,14 +1,14 @@
 ---
 title: "Recsys Challenge 2017: Offline and Online Evaluation"
 collection: publications
-permalink: /publication/RecSys17_2
+permalink: /publication/RecSys17_WS2
 date: 2017-08-27
 venue: 'Proceedings of the 11th ACM Conference on Recommender Systems'
 citation: 'Fabian Abel, Yashar Deldjoo, Mehdi Elahi, Daniel Kohlsdorf <i> In Proceedings of the Eleventh ACM Conference on Recommender Systems, (pp. 372-373). ACM, 2017 <b>(RecSys 2017)</b>.'
 
 ---
 
-[[DOI]](https://dl.acm.org/citation.cfm?id=3109954) [[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/318394072_RecSys_Challenge_2017_Offline_and_Online_Evaluation/links/59f251550f7e9beabfcc615b/RecSys-Challenge-2017-Offline-and-Online-Evaluation.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_2.bib)
+[[DOI]](https://dl.acm.org/citation.cfm?id=3109954) [[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/318394072_RecSys_Challenge_2017_Offline_and_Online_Evaluation/links/59f251550f7e9beabfcc615b/RecSys-Challenge-2017-Offline-and-Online-Evaluation.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS2.bib)
 
 
 ## Abstract
