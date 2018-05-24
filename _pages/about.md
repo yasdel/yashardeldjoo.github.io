@@ -17,15 +17,10 @@ I am currently finalizing my Ph.D. within the field of Computer Science with spe
 
 <h3>Academic Services</h3>
 
-Organizer:
 <ul>
-  <li>ACM RecSys Challenge 2017, ACM RecSys Challenge 2018 (co-organizer)</li>
+  <li> Organizer: ACM RecSys Challenge 2017, ACM RecSys Challenge 2018 (co-organizer)</li>
+  <li> Reviewer: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
 
-
-Reviewer:
-<ul>
-  <li>Conference: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
-</ul>
 
 
