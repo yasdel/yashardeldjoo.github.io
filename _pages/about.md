@@ -28,8 +28,4 @@ Reviewer:
   <li>Conference: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
 
-#Program Committee Member:
-#<ul>
-#  <li>Workshops: RecSysChallenge @ RecSys 2017, RecSysChallenge @ RecSys 2018 </li>
-#</ul>
 
