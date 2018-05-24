@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yashar Deldjoo"
   avatar           : "yashar_avator.jpg"
-  bio              : "Research Scientist at University of Milano Biccoca"
+  bio              : "Research Scientist at University of Milano-Biccoca"
   location         : "Milan, Italy"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-C_x_hUAAAAJ&hl=en"
@@ -233,7 +233,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: reviewing
     values:
       layout: talk
       author_profile: true
