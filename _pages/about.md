@@ -18,9 +18,10 @@ I am currently finalizing my Ph.D. within the field of Computer Science with spe
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: ACM RecSys Challenge 2017, ACM RecSys Challenge 2018 (co-organizer)</li>
+  <li> Organizer: <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017 (Xing)</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">ACM RecSys Challenge 2018 (Spotify) (advisor)</a>
   <li> Reviewer: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
+
 
 
 
