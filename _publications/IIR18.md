@@ -8,7 +8,7 @@ citation: '<b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi
 
 ---
 
-[[Proceedings]]() [[PDF]](https://www.researchgate.net/publication/325115920_Content-Based_Multimedia_Recommendation_Systems_Definition_and_Application_Domains)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IIR18.bib)
+[[Proceedings]]() [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1054927/289061/iir2018-mmrs_camread_ver4.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IIR18.bib)
 
 
 
