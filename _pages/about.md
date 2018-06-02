@@ -16,7 +16,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017 (Spotify)</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 (Xing)</a> </li>
+  <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2018</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2017 (Xing)</a> </li>
   <li> Reviewer: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
 
