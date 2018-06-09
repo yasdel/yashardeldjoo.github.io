@@ -50,3 +50,13 @@ author_profile: true
 <a href="https://yasdel.github.io/publication/CHI16" style="color: #2A5DB0">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 </i><b> (CHI Extended Abstracts 2016)</b>
 
+<h2>Collaborators (co-authors)</h2>
+I have had the pleasure to work with several great researchers around the world:
+
+<ul>
+  <li>Paolo Cremonesi - Politecnico di Milano, Italy (PhD advisor)
+  <li>Markus Schedk   -  JKU Linz, Austria (PhD visiting period co-advisor)
+  <li>Gabriella Pasi  - University of Milano-Bicocca, Italy
+  <li>Mehdi Elahi     - University of Bozen-Bolzano, Italy
+
+<ul>
