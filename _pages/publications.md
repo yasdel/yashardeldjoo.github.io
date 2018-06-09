@@ -58,5 +58,19 @@ I have had the pleasure to work with several great researchers around the world:
   <li>Markus Schedk   -  JKU Linz, Austria (PhD visiting period co-advisor)
   <li>Gabriella Pasi  - University of Milano-Bicocca, Italy
   <li>Mehdi Elahi     - University of Bozen-Bolzano, Italy
+  <li>Massimo Quadrano - Politecnico di Milano, Italy
+  <li>Hamed Zamani  - University of Mass Amherst, USA
+  <li>Ching-Wei Chen  - Spotify, USA
+  <li>Fabian Abel   - Xing, Germany
+  <li>Daniel Kohlsdorf - Xing, Germany
+  <li>Franca Garzotto - Politecnico di Milano, Italy
+  <li>Pietro Piazzolla - Politecnico di Milano, Italy
+  <li>Pietro Piazzolla - Politecnico di Milano, Italy
+  <li>Cristina Frà     - JOL, Telecom Italia Milano, Italy
+  <li>Massimo Valla    - JOL, Telecom Italia Milano, Italy
+  <li>Reza Ebrahimi Atani  - University of Guilan, Iran
+  <li>Bahman Zanj      - University of Guilan, Iran
+  <li>Stefano Cereda   - Politecnico di Milano, Italy
+  <li>Leonardo Cella   - University of Degli Studi Milano, Italy
 
 <ul>
