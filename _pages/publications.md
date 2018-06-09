@@ -61,6 +61,7 @@ I have had the pleasure to work with several great researchers around the world:
   <li>Massimo Quadrano - Politecnico di Milano, Italy
   <li>Hamed Zamani  - University of Mass Amherst, USA
   <li>Ching-Wei Chen  - Spotify, USA
+  <li>Matteo Matteucci - Politecnico di Milano, Italy
   <li>Fabian Abel   - Xing, Germany
   <li>Daniel Kohlsdorf - Xing, Germany
   <li>Franca Garzotto - Politecnico di Milano, Italy
@@ -70,6 +71,7 @@ I have had the pleasure to work with several great researchers around the world:
   <li>Massimo Valla    - JOL, Telecom Italia Milano, Italy
   <li>Reza Ebrahimi Atani  - University of Guilan, Iran
   <li>Bahman Zanj      - University of Guilan, Iran
+  <li>Shengping Zhang  - Harbin Institute of Technology, China
   <li>Stefano Cereda   - Politecnico di Milano, Italy
   <li>Leonardo Cella   - University of Degli Studi Milano, Italy
 
