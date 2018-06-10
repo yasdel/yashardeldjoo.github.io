@@ -55,7 +55,7 @@ I have had the pleasure to work with several great researchers around the world:
 
 <ul>
   <li>Paolo Cremonesi - Politecnico di Milano, Italy (PhD advisor)
-  <li>Markus Schedk   -  JKU Linz, Austria (PhD visiting period co-advisor)
+  <li>Markus Schedl   -  JKU Linz, Austria (PhD visiting period co-advisor)
   <li>Gabriella Pasi  - University of Milano-Bicocca, Italy
   <li>Mehdi Elahi     - University of Bozen-Bolzano, Italy
   <li>Massimo Quadrano - Politecnico di Milano, Italy
