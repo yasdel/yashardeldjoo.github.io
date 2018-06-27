@@ -33,7 +33,7 @@ author_profile: true
 
 <h2>Extended Abstracts/Workshop Papers</h2>
 
-<a href="https://yasdel.github.io/publication/MediaEval18.md" style="color: #2A5DB0">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Dritsas Thanasis, Markus Schedl, Bogdan Ionescu<br><i>MediaEVal 2018 Workshop </i><b>(MediaEval 2018)</b>
+<a href="https://yasdel.github.io/publication/MediaEval18" style="color: #2A5DB0">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Dritsas Thanasis, Markus Schedl, Bogdan Ionescu<br><i>MediaEVal 2018 Workshop </i><b>(MediaEval 2018)</b>
 
 
 <a href="https://yasdel.github.io/publication/IIR18" style="color: #2A5DB0">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br> <i>Proceedings of the 9th Italian Information Retrieval Workshop </i><b>(IIR 2018)</b>
