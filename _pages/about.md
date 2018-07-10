@@ -32,6 +32,6 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
 </td>
 </tr>
-</div>
 
 </table>
+</div>
