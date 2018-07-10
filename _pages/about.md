@@ -39,7 +39,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 </colgroup>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
-    <th class="tg-xivq">My paper at RecSys 2018 accepted! See</th>
+    <th class="tg-xivq">My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a></th>
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
