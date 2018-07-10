@@ -40,3 +40,6 @@ A brand-new tutroial accepted for presentation at RecSys 2018 on Mulimtedia Reco
 </tr>
 </table>
 </div>
+
+
+<li>[2018-04] <a href="http://www.umuai.org/">UMUAI</a> paper on <a href="https://link.springer.com/article/10.1007%2Fs11257-018-9202-0#Bib1" target=_blank>Coherence and Inconsistencies in Rating Behavior- Estimating the Magic Barrier of Recommender Systems"</a> with <a href="http://ir.ii.uam.es/~alejandro/" target="_blank">Alejandro Bellogín</a> now available</li>
