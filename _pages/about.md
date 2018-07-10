@@ -43,7 +43,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
-    <td class="tg-xivq">A brand-new tutroial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! See homepgae</td>
+    <td class="tg-xivq">A brand-new tutroial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems!</td>
   </tr>
   <tr>
     <td class="tg-xivq"></td>
