@@ -24,22 +24,37 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 
 <div class="news">
 <h2>news</h2>
-<table>
 
-<tr>
-<td class="date">July 10, 2018</td>
-<td class="announcement">
-My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
-</td>
-</tr>
-<tr>
-<td class="date">June 16, 2018</td>
-<td class="announcement">
-A brand-new tutroial accepted for presentation at RecSys 2018 on Mulimtedia Recommender Systems! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
-</td>
-</tr>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-xivq{background-color:#ffffff;border-color:#ffffff}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-xivq">July 10, 2018</th>
+    <th class="tg-xivq">My paper at RecSys 2018 accepted! See</th>
+  </tr>
+  <tr>
+    <td class="tg-xivq">June 16, 2018</td>
+    <td class="tg-xivq">A brand-new tutroial accepted for presentation at RecSys 2018 on Mulimtedia Recommender Systems!</td>
+  </tr>
+  <tr>
+    <td class="tg-xivq"></td>
+    <td class="tg-xivq"></td>
+  </tr>
+  <tr>
+    <td class="tg-xivq"></td>
+    <td class="tg-xivq"></td>
+  </tr>
+  <tr>
+    <td class="tg-xivq"></td>
+    <td class="tg-xivq"></td>
+  </tr>
 </table>
+
 </div>
 
 
-<li>[2018-04] <a href="http://www.umuai.org/">UMUAI</a> paper on <a href="https://link.springer.com/article/10.1007%2Fs11257-018-9202-0#Bib1" target=_blank>Coherence and Inconsistencies in Rating Behavior- Estimating the Magic Barrier of Recommender Systems"</a> with <a href="http://ir.ii.uam.es/~alejandro/" target="_blank">Alejandro Bellogín</a> now available</li>
