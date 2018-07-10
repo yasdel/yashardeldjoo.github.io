@@ -24,12 +24,12 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 
 <div class="news">
 <h2>news</h2>
-<table>
+<table border = "0">
 
 <tr>
 <td class="date">July 10, 2018</td>
 <td class="announcement">
-My paper at RecSus 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
+My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
 </td>
 </tr>
 
