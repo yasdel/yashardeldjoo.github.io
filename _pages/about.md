@@ -24,7 +24,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 
 <div class="news">
 <h2>news</h2>
-<table border = "0">
+<table>
 
 <tr>
 <td class="date">July 10, 2018</td>
