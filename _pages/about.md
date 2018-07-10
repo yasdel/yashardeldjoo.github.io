@@ -32,14 +32,18 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-xivq{background-color:#ffffff;border-color:#ffffff}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 775px">
+<colgroup>
+<col style="width: 127px">
+<col style="width: 648px">
+</colgroup>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
     <th class="tg-xivq">My paper at RecSys 2018 accepted! See</th>
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
-    <td class="tg-xivq">A brand-new tutroial accepted for presentation at ACM RecSys 2018 on Mulimtedia Recommender Systems! Visit the RecSys tutorial homepage</td>
+    <td class="tg-xivq">A brand-new tutroial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! See homepgae</td>
   </tr>
   <tr>
     <td class="tg-xivq"></td>
