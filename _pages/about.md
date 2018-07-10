@@ -35,7 +35,7 @@ My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publicat
 <tr>
 <td class="date">June 16, 2018</td>
 <td class="announcement">
-A brand-new tutroial accepted for presentation at RecSys 2018 on Mulimtedia Recommender Systems! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
+A brand-new tutroial accepted at RecSys 2018 on Mulimtedia Recommender Systems! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
 </td>
 </tr>
 </table>
