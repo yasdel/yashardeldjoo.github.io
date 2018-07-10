@@ -19,6 +19,9 @@ author_profile: true
 <a href="https://yasdel.github.io/publication/RecSys18_1" style="color: #2A5DB0">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
 <h2>Conference Papers</h2>
+<a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
+
+
 <a href="https://yasdel.github.io/publication/MMSys18" style="color: #2A5DB0">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of the 9th ACM Multimedia Systems Conference 2018 </i><b>(MMSys 2018)</b>
 
 <a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
