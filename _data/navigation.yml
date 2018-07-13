@@ -3,14 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-
   - title: "Awards"
     url: /awards/
 
   - title: "Reviewing"
     url: /reviewing/
 
-  - title: "Organization Activities"
+  - title: "Organization"
       url: /organization/
 
   - title: "Teaching"
