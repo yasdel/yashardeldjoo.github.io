@@ -43,12 +43,14 @@ I completed my Ph.D. within the field of Computer Science with specialization on
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
-    <td class="tg-xivq">A brand-new tutroial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank">RecSys 2018 Tutorial page</a> </td>
+    <td class="tg-xivq">A brand-new tutorial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank">RecSys 2018 Tutorial page</a> </td>
   </tr>
   <tr>
-    <td class="tg-xivq"></td>
-    <td class="tg-xivq"></td>
-  </tr>
+    <td class="tg-xivq">June 7, 2018</td>
+    <td class="tg-xivq"> Me,  <a href="https://www.ifs.tuwien.ac.at/~knees/" target="\_blank">Peter Kness</a>  and  <a href="    https://scholar.google.com/citations?user=JPP5wWcAAAAJ&hl=en" target="\_blank">Farshad Bakhshandegan Moghaddam</a> will be the academic organizers of ACM Recommender System Challenge 2019, New information to come soon, stay tuned! </td>
+    
+
+      </tr>
   <tr>
     <td class="tg-xivq"></td>
     <td class="tg-xivq"></td>
