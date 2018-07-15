@@ -47,7 +47,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
   </tr>
   <tr>
     <td class="tg-xivq">June 7, 2018</td>
-    <td class="tg-xivq"> Me,  <a href="https://www.ifs.tuwien.ac.at/~knees/" target="\_blank">Peter Kness</a>  and  <a href="    https://scholar.google.com/citations?user=JPP5wWcAAAAJ&hl=en" target="\_blank">Farshad Bakhshandegan Moghaddam</a> will be the academic organizers of ACM Recommender System Challenge 2019, New information to come soon, stay tuned! </td>
+    <td class="tg-xivq"> Me,  <a href="https://www.ifs.tuwien.ac.at/~knees/" target="\_blank">Peter Kness</a>  and  <a href="    https://scholar.google.com/citations?user=JPP5wWcAAAAJ&hl=en" target="\_blank">Farshad Bakhshandegan Moghaddam</a> will be the academic organizers of ACM Recommender System Challenge 2019, new information to come soon, stay tuned! </td>
     
 
       </tr>
