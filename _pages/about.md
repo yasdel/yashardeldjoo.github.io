@@ -17,7 +17,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 
 <ul>
   <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 </a> </li>
-  <li> Reviewer: ACM MM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
+  <li> Reviewer: ACM MM, CIKM, SIGIR, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
 
 
@@ -38,6 +38,10 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 <col style="width: 648px">
 </colgroup>
   <tr>
+    <th class="tg-xivq">July 17, 2018</th>
+    <th class="tg-xivq">Has now a PhD title with the grade with honour (highest possible grade)</th>
+  </tr>
+  <tr>
     <th class="tg-xivq">July 10, 2018</th>
     <th class="tg-xivq">My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a></th>
   </tr>
@@ -48,7 +52,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
   <tr>
     <td class="tg-xivq">June 7, 2018</td>
     <td class="tg-xivq"> Me,  <a href="https://www.ifs.tuwien.ac.at/~knees/" target="\_blank">Peter Kness</a>  and  <a href="    https://scholar.google.com/citations?user=JPP5wWcAAAAJ&hl=en" target="\_blank">Farshad Bakhshandegan Moghaddam</a> will be the academic organizers of ACM Recommender System Challenge 2019, new information to come soon, stay tuned! </td>
-    
+
 
       </tr>
   <tr>
