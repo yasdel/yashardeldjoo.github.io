@@ -39,7 +39,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 </colgroup>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
-    <th class="tg-xivq">Has now a PhD title with the grade with honour (highest possible grade)</th>
+    <th class="tg-xivq">Has now a PhD title <b>With Honour<7b> </th>
   </tr>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
