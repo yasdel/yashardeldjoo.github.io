@@ -43,11 +43,11 @@ I completed my Ph.D. within the field of Computer Science with specialization on
   </tr>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
-    <th class="tg-xivq">My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a></th>
+    <th class="tg-xivq">My paper at RecSys 2018 accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
-    <td class="tg-xivq">A brand-new tutorial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank">RecSys 2018 Tutorial page</a> </td>
+    <td class="tg-xivq">A brand-new tutorial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank">RecSys 2018 Tutorial page</a>. </td>
   </tr>
   <tr>
     <td class="tg-xivq">June 7, 2018</td>
