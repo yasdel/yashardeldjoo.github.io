@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Journal Papers</h2>
 
-<a href="https://yasdel.github.io/publication/TKDE_1" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, and Stefano Ceri <br> Journal OF IEEE Transactions on Knowledge and Data Engineering 2018 </i>
+<a href="https://yasdel.github.io/publication/TKDE_1" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, and Stefano Ceri <i><br> Journal OF IEEE Transactions on Knowledge and Data Engineering 2018 </i>
 
 <a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #2A5DB0">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i>
 
