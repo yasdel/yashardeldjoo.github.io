@@ -39,7 +39,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 </colgroup>
   <tr>
     <th class="tg-xivq">Sep 14, 2018</th>
-    <th class="tg-xivq">Our paper at TKDE was accepted! The research was a collobration with the Bio-informatic group of Politecnico di Milano and George Washington univeristy. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+    <th class="tg-xivq">Our paper at TKDE was accepted! The research was a collobration with the bioinformatic group of Politecnico di Milano and George Washington univeristy. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
