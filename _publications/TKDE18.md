@@ -1,8 +1,8 @@
 ---
-title: "Content-based video recommendation system based on stylistic visual features"
+title: "Next Generation Indexing for Genomic Intervals "
 collection: publications
 permalink: /publication/TKDE18
-date: 2016-06-01
+date: 2018-09-19
 venue: 'IEEE Transactions on Knowledge and Data Engineering '
 citation: 'Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i>IEEE Transactions on Knowledge and Data Engineering 2018</i>.'
 
