@@ -8,7 +8,7 @@ citation: 'Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>,
 
 ---
 
-[[DOI]](https://ieeexplore.ieee.org/document/8468044/)  [[PDF]](http://yasdel.github.io/files/Di4TKDE.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoDS16.bib)
+[[DOI]](https://ieeexplore.ieee.org/document/8468044/)  [[PDF]](http://yasdel.github.io/files/Di4TKDE.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib)
 
 
 ## Abstract
