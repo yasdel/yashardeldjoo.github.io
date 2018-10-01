@@ -39,7 +39,7 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 </colgroup>
   <tr>
     <th class="tg-xivq">Sep 14, 2018</th>
-    <th class="tg-xivq">Our Mediaeval 2018 task overview paper is now available. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page (Extended Abstracts/Workshops).</a></th>
+    <th class="tg-xivq">Our Mediaeval 2018 task overview paper is now available. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page,</a> (Extended Abstracts/Workshops).</th>
   </tr>
   <tr>
     <th class="tg-xivq">Sep 14, 2018</th>
