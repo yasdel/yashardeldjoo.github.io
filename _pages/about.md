@@ -39,6 +39,10 @@ I completed my Ph.D. within the field of Computer Science with specialization on
 </colgroup>
   <tr>
     <th class="tg-xivq">Sep 14, 2018</th>
+    <th class="tg-xivq">Our Mediaeval 2018 task overview paper is now available. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page (Extended Abstracts/Workshops).</a></th>
+  </tr>
+  <tr>
+    <th class="tg-xivq">Sep 14, 2018</th>
     <th class="tg-xivq">Our paper at TKDE was accepted! The research was done in collobration with the bioinformatic group of Politecnico di Milano and George Washington univeristy. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
   <tr>
