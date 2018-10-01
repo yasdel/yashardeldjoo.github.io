@@ -8,7 +8,7 @@ citation: ' <b>Yashar Deldjoo</b>, Markus Schedl, Balazs Hidasi, Peter Kness <i>
 
 ---
 
-[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys18_1.bib)
+[[DOI]](https://doi.org/10.1145/3240323.3241620) [[PDF]](http://yasdel.github.io/files/p537-deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys18_1.bib)
 
 
 ## Abstract
