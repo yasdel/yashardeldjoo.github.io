@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MediaEval18
 date: 2018-10-29
 venue: 'MediaEval 2018 Multimedia Benchmark Workshop'
-citation: ' <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Dritsas Thanasis, Markus Schedl, Bogdan Ionescu <i>MediaEval 2018 Workshop</i><b>(MediaEval 2018)</b>.'
+citation: ' <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl, <i>MediaEval 2018 Workshop</i> <b>(MediaEval 2018)</b>.'
 
 ---
 
