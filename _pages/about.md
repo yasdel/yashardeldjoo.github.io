@@ -11,7 +11,8 @@ redirect_from:
 <p align="center">
   <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
-I completed my Ph.D. within the field of Computer Science with specialization on Recommender System at Politecnico di Milano under the supervision of <a href="http://www.deib.polimi.it/eng/people/details/159156">Prof. Paolo Cremonesi</a>. During my Ph.D., I was an exchange student at Department of Computational Perception, JKU in Linz, Austria for six months, under the supervision of <a href="http://www.cp.jku.at/people/schedl/">Prof. Markus Schedl</a>. I was involved in organizing ACM RecSys Challenges 2017, 2018 (as an advisor) and the upcoming 2019 challange all part of the ACM Conference on Recommender Systems. I am also leading organizing a task at MediaEval Benchmarking Initiative for Multimedia Evaluation (MediaEval 2018) named: "The 2018 Recommending Movies Using Content: Which content is key?".
+I obtained my PhD (with honour) from Politecnico di Milano working with <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. My research interests include recommender systems, multimedia processing and information retrieval. During my PhD, I was an exchange student at Department of Computational Perception, JKU in Linz, Austria for six month and had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I was involved in organizing ACM RecSys Challenges 2017, 2018 (as an advisor) and the upcoming 2019 challange all part of the ACM Conference on Recommender Systems. I am also leading organizing a task at MediaEval Benchmarking Initiative for Multimedia Evaluation (MediaEval 2018) named: "The 2018 Recommending Movies Using Content: Which content is key?".
+
 
 <h3>Academic Services</h3>
 
