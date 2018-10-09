@@ -11,13 +11,13 @@ redirect_from:
 <p align="center">
   <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
-I obtained my PhD (with honour) from Politecnico di Milano under the lead of <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. My research interests include recommender systems in particular multimedia recommendation, user modeling and personalization and multimedia signal processing. During my PhD, I was an exchange student at Department of Computational Perception, JKU in Linz, Austria for six month and had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I was involved in organizing ACM RecSys Challenges 2017 (organized by <a href="https://www.xing.com/en">Xing</a>), 2018 (organized by <a href="https://www.spotify.com/it/">Spotify</a>) and the upcoming 2019 (to be organized by <a href="https://www.trivago.com/">Trivago</a>) challenge all part of the ACM Conference on Recommender Systems. I am also leading organizing a task at MediaEval Benchmarking Initiative for Multimedia Evaluation (MediaEval 2018) named: "The 2018 Recommending Movies Using Content: Which content is key?".
+I obtained my PhD (with distinction) from Politecnico di Milano under the lead of <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. My research interests include recommender systems in particular multimedia recommendation, user modeling and personalization and multimedia signal processing. During my PhD, I was an exchange student at Department of Computational Perception, JKU in Linz, Austria for six month and had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I was involved in organizing ACM RecSys Challenges 2017 (organized by <a href="https://www.xing.com/en">Xing</a>), 2018 (organized by <a href="https://www.spotify.com/it/">Spotify</a>) and the upcoming 2019 challenge (to be organized by <a href="https://www.trivago.com/">Trivago</a>) challenge all part of the ACM Conference on Recommender Systems. I am also leading organizing a task at MediaEval Benchmarking Initiative for Multimedia Evaluation (MediaEval 2018) named: "The 2018 Recommending Movies Using Content: Which content is key?".
 
 
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 (advisory role) </a>, <a href="https://recsys.acm.org/recsys19/" style="color: #2A5DB0">2019 </a>  </li>
+  <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 (advisory role) </a>,<a href="https://recsys.acm.org/recsys19/" style="color: #2A5DB0">2019 </a>  </li>
   <li> Reviewer: SIGIR, CIKM, AAAI, ACM MM, RECSYS, ECML-PKDD, IDC, IPMU </li>
 </ul>
 
@@ -51,7 +51,7 @@ I obtained my PhD (with honour) from Politecnico di Milano under the lead of <a 
   </tr>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
-    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> (Italian: con laude = highest possible grade at Politecnico di Milano, the leading technical university in Italy, =</th>
+    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> (Italian: <b>con lode</b>  = highest possible grade at Politecnico di Milano.)</th>
   </tr>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
