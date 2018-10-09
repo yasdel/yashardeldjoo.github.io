@@ -52,7 +52,7 @@ I obtained my PhD (with honour) from Politecnico di Milano under the lead of <a 
   </tr>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
-    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> </th>
+    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> (Italian: con laude = highest possible grade at Politecnico di Milano, the leading technical university in Italy, =</th>
   </tr>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
