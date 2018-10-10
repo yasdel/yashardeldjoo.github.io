@@ -51,7 +51,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
   </tr>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
-    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> (Italian: <b>con lode</b>, highest possible PhD grade at Politecnico di Milano.)</th>
+    <th class="tg-xivq">Has now a PhD <b>with HONOUR!</b> (Italian: <b>con lode</b>, highest possible PhD grade in italian evaluation system.)</th>
   </tr>
   <tr>
     <th class="tg-xivq">July 10, 2018</th>
