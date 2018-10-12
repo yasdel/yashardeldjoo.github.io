@@ -40,7 +40,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 </colgroup>
  <tr>
     <th class="tg-xivq">Oct 12, 2018</th>
-    <th class="tg-xivq">Our US PATENT titled "Enhanced content-based multimedia recommendation method" has been accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+    <th class="tg-xivq">Our US PATENT application titled "Enhanced content-based multimedia recommendation method" has been just accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
   <tr>
     <th class="tg-xivq">Oct 06, 2018</th>
