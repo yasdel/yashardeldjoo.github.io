@@ -11,3 +11,4 @@ citation: ' Paolo Cremones, Mehdi Elahi, <b>Yashar Deldjoo</b> <i>US Patent Appl
 [[DOI]](https://patents.google.com/patent/US20180089513A1/en) [[PDF]]()  [[bibtex]]()
 
 ## Abstract
+There is disclosed a method for generating movie recommendations, based on automatic extraction of features from a multimedia content, wherein the extracted features are visual features representing mise-en-scène characteristics of the movie defined on the basis of Applied Media Aesthetic theory, said extracted features being then fed to content-based recommendation algorithm in order to generate personalised recommendation.
