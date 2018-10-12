@@ -17,8 +17,13 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/JoEC16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i>
 
+<h2>Patents</h2>
+<a href="https://yasdel.github.io/publication/Patent_2018" style="color: #2A5DB0">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1 </i><b>(US-Patent 2018)</b>
+
+
 <h2>Tutorials</h2>
 <a href="https://yasdel.github.io/publication/RecSys18_1" style="color: #2A5DB0">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
+
 
 <h2>Conference Papers</h2>
 <a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>

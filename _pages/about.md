@@ -38,6 +38,10 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 <col style="width: 127px">
 <col style="width: 648px">
 </colgroup>
+ <tr>
+    <th class="tg-xivq">Oct 12, 2018</th>
+    <th class="tg-xivq">Our US PATENT titled "Enhanced content-based multimedia recommendation method" has been accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+  </tr>
   <tr>
     <th class="tg-xivq">Oct 06, 2018</th>
     <th class="tg-xivq">The ACM RecSys Challenge 2019 will be co-organized by <a href="hhttps://www.trivago.it" target="\_blank">trivago</a> and presents a real-world task in the travel metasearch domain.  See <a href="https://recsys.acm.org/recsys19/challenge/" target="\_blank">RecSys Challenge 2019</a> homepage. Stay tuned for new information!</th>
