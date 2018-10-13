@@ -75,7 +75,6 @@ I have had the pleasure to work with several great researchers around the world:
   <li>Massimo Quadrano - Politecnico di Milano, Italy
   <li>Hamed Zamani  - University of Mass Amherst, USA
   <li>Ching-Wei Chen  - Spotify, USA
-  <li>Hamed Zamani  - University of Mass Amherst, USA
   <li>Vahid Jalili  - George Washington University, USA
   <li>Matteo Matteucci - Politecnico di Milano, Italy
   <li>Stefano Ceri  - Politecnico di Milano, Italy
