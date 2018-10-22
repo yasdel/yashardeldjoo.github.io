@@ -8,7 +8,7 @@ citation: ' <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas,
 
 ---
 
-[[DOI]]() [[PDF]](/files/MediaEval_18.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/MediaEval18.bib)
+[[DOI]]() [[PDF]](/files/MediaEval2018.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/MediaEval18.bib)
 
 
 ## Abstract
