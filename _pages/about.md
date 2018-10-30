@@ -17,7 +17,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>, <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 (advisory role)</a>, <a href="https://recsys.acm.org/recsys19/" style="color: #2A5DB0">2019</a>  </li>
+  <li> Organizer: <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #2A5DB0">ACM RecSys Challenge 2017</a>, <a href="https://recsys-challenge.spotify.com/overview" style="color: #2A5DB0">2018 (advisory role)</a>, <a href="https://recsys.acm.org/recsys19/" style="color: #2A5DB0">2019</a>, <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #2A5DB0">MediaEval 2018</a>,   </li>
   <li> Reviewer: SIGIR, CIKM, AAAI, ACM MM, RECSYS, ECML-PKDD, ECIR, IDC, IPMU </li>
   <li> PC Member: ECIR 2019, RecSysChallenge @ RecSys 2017, 2018, MediaEval 2018</li>
 </ul>
