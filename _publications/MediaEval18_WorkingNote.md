@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MediaEval18_WorkingNote
 date: 2018-10-29
 venue: 'MediaEval 2018 Multimedia Benchmark Workshop'
-citation: ' Fatemeh Nazary, <b>Yashar Deldjoo</b><i> Working Notes Proceedings of the MediaEval 2017 Workshop</i> <b>(MediaEval 2018)</b>.'
+citation: ' Fatemeh Nazary, <b>Yashar Deldjoo</b><i> Working Notes Proceedings of the MediaEval 2018 Workshop</i> <b>(MediaEval 2018)</b>.'
 
 ---
 
