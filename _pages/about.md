@@ -39,6 +39,10 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 <col style="width: 648px">
 </colgroup>
  <tr>
+    <th class="tg-xivq">Nov 21, 2018</th>
+    <th class="tg-xivq">The information about <a href="http://www.recsyschallenge.com/2019/" target="\_blank">ACM Recommender System Challenge 2019</a> is now live!</th>
+  </tr>
+ <tr>
     <th class="tg-xivq">Oct 12, 2018</th>
     <th class="tg-xivq">Our US PATENT application titled "Enhanced content-based multimedia recommendation method" has been just accepted! See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
@@ -69,9 +73,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
   <tr>
     <td class="tg-xivq">June 7, 2018</td>
     <td class="tg-xivq"> Me,  <a href="https://www.ifs.tuwien.ac.at/~knees/" target="\_blank">Peter Kness</a>  and  <a href="    https://scholar.google.com/citations?user=JPP5wWcAAAAJ&hl=en" target="\_blank">Farshad Bakhshandegan Moghaddam</a> will be the academic organizers of ACM Recommender System Challenge 2019, new information to come soon, stay tuned! </td>
-
-
-      </tr>
+</tr>
   <tr>
     <td class="tg-xivq"></td>
     <td class="tg-xivq"></td>
