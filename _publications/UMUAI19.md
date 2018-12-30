@@ -2,7 +2,7 @@
 title: "Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"
 collection: publications
 permalink: /publication/UMUAI19
-date: 2018-12-29
+date: 2019
 venue: 'Journal of User Modeling and User-Adapted Interaction (UMUAI)'
 citation: '<b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i>Springer Journal of User Modeling and User-Adapted Interaction (UMUAI) 2019</i>.'
 
