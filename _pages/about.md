@@ -39,6 +39,10 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 <col style="width: 648px">
 </colgroup>
  <tr>
+    <th class="tg-xivq">Dec 29, 2018</th>
+    <th class="tg-xivq">Our brand-new paper titled "Movie Genome: Alleviating New Item Cold Start in Movie Recommendation" has been accepted at UMUAI! Find the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+  </tr>
+ <tr>
     <th class="tg-xivq">Nov 21, 2018</th>
     <th class="tg-xivq">The information about <a href="http://www.recsyschallenge.com/2019/" target="\_blank">ACM Recommender System Challenge 2019</a> is now live!</th>
   </tr>
@@ -56,7 +60,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
   </tr>
   <tr>
     <th class="tg-xivq">Sep 14, 2018</th>
-    <th class="tg-xivq">Our paper at TKDE was accepted! The research was done in collobration with the bioinformatic group of Politecnico di Milano and George Washington univeristy. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+    <th class="tg-xivq">Our paper at TKDE is accepted! The research has been carried out in collobration with the bioinformatic group of Politecnico di Milano and George Washington univeristy. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
   <tr>
     <th class="tg-xivq">July 17, 2018</th>
