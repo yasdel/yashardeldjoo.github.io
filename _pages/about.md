@@ -40,7 +40,7 @@ Since January 2018, I am a research assistant at Information Retrieval Laborator
 </colgroup>
  <tr>
     <th class="tg-xivq">Dec 29, 2018</th>
-    <th class="tg-xivq">Our brand-new paper titled "Movie Genome: Alleviating New Item Cold Start in Movie Recommendation" has been accepted at UMUAI! Find the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+    <th class="tg-xivq">Our brand-new UMUAI paper titled  <b>"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</b> has been accepted! Find the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
  <tr>
     <th class="tg-xivq">Nov 21, 2018</th>
