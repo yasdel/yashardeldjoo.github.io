@@ -1,9 +1,9 @@
 ---
-title: "Next Generation Indexing for Genomic Intervals "
+title: "Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"
 collection: publications
-permalink: /publication/TKDE18
-date: 2018-09-19
-venue: 'IEEE Transactions on Knowledge and Data Engineering'
+permalink: /publication/UMUAI19
+date: 2018-12-29
+venue: 'Journal of User Modeling and User-Adapted Interaction (UMUAI)'
 citation: '<b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i>Springer Journal of User Modeling and User-Adapted Interaction (UMUAI) 2018</i>.'
 
 ---
