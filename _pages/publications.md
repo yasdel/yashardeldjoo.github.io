@@ -9,15 +9,15 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a><br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction (UMUAI) - The Journal of Personalization Research, 2019 </i>
 
-<a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE) 2018 </i>
+<a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>
 
-<a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #2A5DB0">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i>
+<a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #2A5DB0">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval, 2018 </i>
 
-<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval 2018 </i>
+<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #2A5DB0">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval, 2018 </i>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics 2016 </i>
+<a href="https://yasdel.github.io/publication/JoDS16" style="color: #2A5DB0">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics, 2016 </i>
 
-<a href="https://yasdel.github.io/publication/JoEC16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing 2016 </i>
+<a href="https://yasdel.github.io/publication/JoEC16" style="color: #2A5DB0">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing, 2016 </i>
 
 <h2>Patents</h2>
 <a href="https://yasdel.github.io/publication/Patent_2018" style="color: #2A5DB0">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1 </i><b>(US-Patent 2018)</b>
