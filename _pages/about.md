@@ -27,7 +27,7 @@ I have been involved in organization of the ACM RecSys Challenges 2019 (hosted b
 <h3>Selected Publications</h3>
 
 <ul>
-  <li> Yashar Deldjoo, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a><br>, UMUAI 2019  </li>
+  <li> Yashar Deldjoo, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019  </li>
 </ul>
 
 <div class="news">
