@@ -28,11 +28,11 @@ I have been involved in organization of the ACM RecSys Challenges 2019 (hosted b
 
 <ul>
   <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
- <li> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri. "<a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a>", TKDE 2018. </li>
-  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. "<a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a>", RecSys 2018. </li>
-  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. "<a href="https://yasdel.github.io/publication/MMSys18" style="color: #2A5DB0">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a>", MMSyS 2018. </li>
-  <li> Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi. "<a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a>", RecSys 2017. </li>
-  <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. "<a href="https://yasdel.github.io/publication/IIR18" style="color: #2A5DB0">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a>", IIR 2018. </li>
+ <li> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri.<a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">"Next Generation Indexing for Genomic Intervals"</a>, TKDE 2018. </li>
+  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
+  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://yasdel.github.io/publication/MMSys18" style="color: #2A5DB0">"MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval"</a>, MMSyS 2018. </li>
+  <li> Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi.<a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #2A5DB0">"Exploring the Semantic Gap for Movie Recommendations"</a>, RecSys 2017. </li>
+  <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi.<a href="https://yasdel.github.io/publication/IIR18" style="color: #2A5DB0">"Content-Based Multimedia Recommendation Systems: Definition and Application Domains"</a>, IIR 2018. </li>
 </ul>
 
 
