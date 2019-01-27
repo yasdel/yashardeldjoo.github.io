@@ -24,6 +24,11 @@ I have been involved in organization of the ACM RecSys Challenges 2019 (hosted b
   <li> PC Member: ECIR 2019, ACM MMSys 2019, RecSysChallenge @ RecSys 2017 to 2019, MediaEval 2018</li>
 </ul>
 
+<h3>Selected Publications</h3>
+
+<ul>
+  <li> Yashar Deldjoo, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a><br>, UMUAI 2019  </li>
+</ul>
 
 <div class="news">
 <h2>news</h2>
