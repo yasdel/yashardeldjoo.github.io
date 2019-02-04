@@ -13,7 +13,7 @@ redirect_from:
 </header>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 60%;"/>
+ <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 70%;"/>
 </p>
 <p>
 Since january 2018, I am a research collobrator at Information Retrieval Laboratory of University of Milano Bicocca, Italy working with <a href="http://www.ir.disco.unimib.it/people/pasi-gabriella/">Gabriella Pasi</a>. In july 2018, I graduated from the doctoral programme of Politecnico di Milano and earned my <b> PhD title with Distinction</b> in computer science from Politecnico di Milano under the lead of <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. During my PhD, I was a vistiting student at Johannes Kepler University Linz, Austria for 6 months where I had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I obtained my master degree as <b> first rank student with straight A GPA </b> from Chalmers University of Technology, Sweden in 2010.<br>
