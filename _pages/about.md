@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<header class="post-header">
+<h1 class="post-title"><strong>Yashar</strong> Deldjoo</h1>
+<h5 class="post-description"><a href="">PhD. Politecnico di Milano, Italy</a></h5>
+</header>
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 40%;"/>
 </p>
