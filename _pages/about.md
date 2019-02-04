@@ -10,7 +10,6 @@ redirect_from:
 
 <header class="post-header">
 <h1 class="post-title"><strong>Yashar</strong> Deldjoo</h1>
-<h5 class="post-description"><a href="">PhD. Politecnico di Milano, Italy</a></h5>
 </header>
 
 <p align="center">
