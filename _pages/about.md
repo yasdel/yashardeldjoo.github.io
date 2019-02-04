@@ -8,28 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div class="page-content">
-<div class="wrapper">
-<div class="post">
-<header class="post-header">
-<h1 class="post-title"><strong>Hamed</strong> Zamani</h1>
-<h5 class="post-description"><a href="">University of Massachusetts Amherst</a></h5>
-</header>
-<article class="post-content Dr. <strong>Yashar</strong> Deldjoo clearfix">
-<div class="profile col one center">
-<img class="one" src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg">
-<div class="address">
-<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0b636a666e6f716a666a65624b6a68662564796c">[email&#160;protected]</a></p> <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87fde6eae6e9eec7e4f4a9f2eae6f4f4a9e2e3f2">[email&#160;protected]</a></p> <p>CIIR, UMass Amherst</p>
-</div>
-</div>
-<p>Ixxx</p>
-<p>In Fall 2018, I teach CS646, the Information Retrieval course (PhD-level), at UMass Amhest. The course webpage is available <a href="https://people.cs.umass.edu/~zamani/cs646/" target="\_blank">here</a>.</p>
-<p>During my PhD, I completed two research internships at Google (summer 2016) and Microsoft (summer 2017). Prior to UMass, I was fortunate to be advised by <a href="https://rtis2.ut.ac.ir/cv/shakery/?lang=en-gb" target="\_blank">Azadeh Shakery</a> as a Master student at the University of Tehran, Iran.</p>
-<p><a href="http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zamani:Hamed.html" target="\_blank">dblp</a> - <a href="http://scholar.google.com/citations?user=d2uzDIAAAAAJ&amp;hl=en&amp;oi=ao" target="\_blank">Google Scholar</a></p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
-</p>
+#<p align="right">
+#  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
+#</p>
 Since January 2018, I am a research collobrator at Information Retrieval Laboratory of University of Milano Bicocca, Italy working with <a href="http://www.ir.disco.unimib.it/people/pasi-gabriella/">Gabriella Pasi</a>. I obtained my Master degree from Chalmers University of Technology in Gothenburg, Sweden in 2010. I earned my PhD degree with distinction in computer science from Politecnico di Milano in July 2018 under the lead of <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. During my PhD, I was a vistiting student at Johannes Kepler University Linz, Austria for six month and had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I have (co-)authored many refereed articles at internationally recognized conferences and peer-reviewed  journals  among  others published in ACM RecSys, ACM MMSys, ACM CHI, IEEE Transactions on Knowledge and Data Engineering, Journal of User Modeling and User-Adapted Interaction, Journal of Data Semantics, Elsevier Journal on Entertainment Computing and Journal of Multimedia Information Retrieval in addition to a 2018 US Patent. I have served as a PC member or reviewer for different top-tier conferences and journals.
 
 I have been involved in organization of the ACM RecSys Challenges 2019 (hosted by <a href="http://www.recsyschallenge.com/2019/">Trivago</a>) and ACM RecSys Challenges 2017 (hosted by <a href="http://www.recsyschallenge.com/2017/">Xing</a>) as part of the <a href="https://recsys.acm.org">ACM Conference on Recommender Systems</a> as well as MediaEval Benchmarking Initiative for Multimedia Evaluation with the focus on leveraging multimedia content for ehancing recommendation of different products (media or non-media items). To know more about my research activties, see my <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.
