@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <header class="post-header">
-<h1 class="post-title"><strong>Yashar</strong> Deldjoo</h1>
+<h1 class="post-title">About me</h1>
 </header>
 
 <p align="center">
