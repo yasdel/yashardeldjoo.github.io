@@ -8,6 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+<div class="page-content">
+<div class="wrapper">
+<div class="post">
+<header class="post-header">
+<h1 class="post-title"><strong>Hamed</strong> Zamani</h1>
+<h5 class="post-description"><a href="">University of Massachusetts Amherst</a></h5>
+</header>
+<article class="post-content <strong>Hamed</strong> Zamani clearfix">
+<div class="profile col one center">
+<img class="one" src="http://hamedz.ir/assets/img/hamed.jpg">
+<div class="address">
+<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0b636a666e6f716a666a65624b6a68662564796c">[email&#160;protected]</a></p> <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87fde6eae6e9eec7e4f4a9f2eae6f4f4a9e2e3f2">[email&#160;protected]</a></p> <p>CIIR, UMass Amherst</p>
+</div>
+</div>
+<p>Ixxx</p>
+<p>In Fall 2018, I teach CS646, the Information Retrieval course (PhD-level), at UMass Amhest. The course webpage is available <a href="https://people.cs.umass.edu/~zamani/cs646/" target="\_blank">here</a>.</p>
+<p>During my PhD, I completed two research internships at Google (summer 2016) and Microsoft (summer 2017). Prior to UMass, I was fortunate to be advised by <a href="https://rtis2.ut.ac.ir/cv/shakery/?lang=en-gb" target="\_blank">Azadeh Shakery</a> as a Master student at the University of Tehran, Iran.</p>
+<p><a href="http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zamani:Hamed.html" target="\_blank">dblp</a> - <a href="http://scholar.google.com/citations?user=d2uzDIAAAAAJ&amp;hl=en&amp;oi=ao" target="\_blank">Google Scholar</a></p>
+
 <p align="right">
   <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
