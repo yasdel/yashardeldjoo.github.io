@@ -15,9 +15,9 @@ redirect_from:
 <h1 class="post-title"><strong>Hamed</strong> Zamani</h1>
 <h5 class="post-description"><a href="">University of Massachusetts Amherst</a></h5>
 </header>
-<article class="post-content <strong>Hamed</strong> Zamani clearfix">
+<article class="post-content Dr. <strong>Yashar</strong> Deldjoo clearfix">
 <div class="profile col one center">
-<img class="one" src="http://hamedz.ir/assets/img/hamed.jpg">
+<img class="one" src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg">
 <div class="address">
 <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0b636a666e6f716a666a65624b6a68662564796c">[email&#160;protected]</a></p> <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="87fde6eae6e9eec7e4f4a9f2eae6f4f4a9e2e3f2">[email&#160;protected]</a></p> <p>CIIR, UMass Amherst</p>
 </div>
