@@ -18,12 +18,10 @@ I have been involved in organization of the ACM RecSys Challenges 2019 (hosted b
 <h3>Research Interests</h3>
 
 <ul>
-  <li> Recommender systems </li>
-  <li> User modeling and personalization </li>
+  <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia recommendation </li>
   <li> Group recommendation </li>
-  <li> Evaluation of recommender systems  </li>
-  <li> Fairness in recommender systems  </li>
+  <li> Evaluation and Fairness of recommender systems  </li>
   <li> Artificial intelligence applications (machine learning, deep learning)  </li>
 </ul>
 
