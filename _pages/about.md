@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/deldjoo2.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
 Since January 2018, I am a research collobrator at Information Retrieval Laboratory of University of Milano Bicocca, Italy working with <a href="http://www.ir.disco.unimib.it/people/pasi-gabriella/">Gabriella Pasi</a>. I obtained my Master degree from Chalmers University of Technology in Gothenburg, Sweden in 2010. I earned my PhD degree with distinction in computer science from Politecnico di Milano in July 2018 under the lead of <a href="http://www.deib.polimi.it/eng/people/details/159156">Paolo Cremonesi</a>. During my PhD, I was a vistiting student at Johannes Kepler University Linz, Austria for six month and had the pleasure to work with <a href="http://www.cp.jku.at/people/schedl/">Markus Schedl</a>.  I have (co-)authored many refereed articles at internationally recognized conferences and peer-reviewed  journals  among  others published in ACM RecSys, ACM MMSys, ACM CHI, IEEE Transactions on Knowledge and Data Engineering, Journal of User Modeling and User-Adapted Interaction, Journal of Data Semantics, Elsevier Journal on Entertainment Computing and Journal of Multimedia Information Retrieval in addition to a 2018 US Patent. I have served as a PC member or reviewer for different top-tier conferences and journals.
