@@ -27,7 +27,6 @@ I have (co-)authored many refereed articles at internationally recognized confer
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia recommendation </li>
   <li> Group recommendation </li>
-  <li> Evaluation and Fairness of recommender systems  </li>
   <li> Artificial intelligence applications (machine learning, deep learning)  </li>
 </ul>
 
