@@ -8,7 +8,7 @@ citation: '<b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Consta
 
 ---
 
-[[DOI]](10.1007/s11257-019-09220-z)  [[PDF]](http://yasdel.github.io/files/UMUAI19.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib)
+[[DOI]](https://doi.org/10.1007/s11257-019-09221-y)  [[PDF]](http://yasdel.github.io/files/UMUAI19.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib)
 
 
 
