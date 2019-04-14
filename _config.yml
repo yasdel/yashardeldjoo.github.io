@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yashar Deldjoo"
 title_separator          : "-"
 name                     : &name "Dr. Yashar Deldjoo"
-description              : &description "Research Assistant at IR LAB | Information Retrieval Laboratory, University of Milano Bicocca, Italy"
+description              : &description "Postdoctoral Researcher at DIEIT | Department of Electrical Engineering and Information Technology, Politecnico di Bari, Italy"
 url                      : https://yasdel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yasdel/yasdel.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Dr. Yashar Deldjoo"
   avatar           : "yashar_avator.jpg"
-  bio              : "Research Assistant at IR LAB | Information Retrieval Laboratory, University of Milano Bicocca"
-  location         : "Milan, Italy"
+  bio              : "Postdoctoral Researcher at DIEIT | Department of Electrical Engineering and Information Technology, Politecnico di Bari"
+  location         : "Bari, Italy"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-C_x_hUAAAAJ&hl=en"
-  email            : deldjooy@acm.org;yashar.deldjoo@polimi.it
+  email            : deldjooy@acm.org;yashar.deldjoo@polibari.it
   uri              :
   bitbucket        :
   codepen          :
