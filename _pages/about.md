@@ -67,6 +67,10 @@ redirect_from:
 <col style="width: 648px">
 </colgroup>
  <tr>
+    <th class="tg-xivq">May 8, 2018</th>
+    <th class="tg-xivq"> The CfP for our <b>Special Issue</b> on <b>"Multimedia Recommendation Systems"</b> in #IJMIR is out: See <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">this</a> link. Looking forward to receiving many submissions!
+  </tr>
+ <tr>
     <th class="tg-xivq">Dec 29, 2018</th>
     <th class="tg-xivq">Our brand-new UMUAI paper titled <b>"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</b> has been accepted! Find the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
