@@ -20,10 +20,10 @@ redirect_from:
 
   I have (co-)authored many refereed articles at internationally recognized conferences and peer-reviewed journals among others published in Journal of UMUAI, IEEE TKDE, Journal of Data Semantics, ACM RecSys, ACM MMSys, ACM CHI in addition to a 2018 US Patent. I have served as a PC member or reviewer for different top-tier conferences and journals. I have been involved in organization of the ACM RecSys Challenges 2019 (hosted by <a href="http://www.recsyschallenge.com/2019/">Trivago</a>) and ACM RecSys Challenges 2017 (hosted by <a href="http://www.recsyschallenge.com/2017/">Xing</a>) as part of the <a href="https://recsys.acm.org">ACM Conference on Recommender Systems</a> as well as MediaEval Benchmarking Initiative for Multimedia Evaluation with the focus on leveraging multimedia content for enhancing recommendation of different products (media or non-media items). To know more about my research activities, see my <a href="https://yasdel.github.io/publications/" target="\_blank">publication page</a>.</p>
 
-  <h3>Special Issues <font color="red">(New*)</font></h3>
+  <h3>Special Issues News</h3>
 
 <ul>
-  <li> <th class="tg-xivq"> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: Oct 1st, 2019) </th> </li>
+  <li> <th class="tg-xivq"> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: Oct 1st, 2019) <font color="red">(New*)</font> </th> </li>
 </ul>
 
 <h3>Research Interests</h3>
