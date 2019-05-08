@@ -68,7 +68,7 @@ redirect_from:
 </colgroup>
  <tr>
     <th class="tg-xivq">May 8, 2018</th>
-    <th class="tg-xivq"> The CfP for our <b>Special Issue</b> on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer is out: See <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">this</a> link.  (Deadline: Oct 1st, 2019)
+    <th class="tg-xivq"> The CfP for our <b>Special Issue</b> on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer is out: See <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">this</a> link.  (Deadline: Oct 1st, 2019) </th>
   </tr>
  <tr>
     <th class="tg-xivq">Dec 29, 2018</th>
