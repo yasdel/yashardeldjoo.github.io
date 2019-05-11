@@ -30,8 +30,8 @@ redirect_from:
 
 <ul>
   <li> Recommender systems, user modelling and personalization </li>
-  <li> Multimedia for recommendation </li>
-  <li> Security of recommender systems (in the context of shilling attacks, adverserial learning)</li>
+  <li> Multimedia for recommendation systems </li>
+  <li> Security/stability of recommender systems (adverserial learning, shilling attacks)</li>
   <li> Ethtical aspects of recommender systems (fairness, transparency and privacy)</li>
   <li> Artificial intelligence applications (machine learning, deep learning)  </li>
 </ul>
