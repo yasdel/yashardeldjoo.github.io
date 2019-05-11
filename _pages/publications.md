@@ -88,7 +88,6 @@ I have had the pleasure to work with several great researchers around the world:
   <li>Pietro Piazzolla - Politecnico di Milano, Italy
   <li>Cristina Frà     - Joint Open Lab, Telecom Italia Milano, Italy
   <li>Massimo Valla    - Joint Open Lab, Telecom Italia Milano, Italy
-  <li>Bahman Zanj      - University of Guilan, Iran
   <li>Shengping Zhang  - Harbin Institute of Technology, China
   <li>Stefano Cereda   - Politecnico di Milano, Italy
   <li>Leonardo Cella   - University of Degli Studi Milano, Italy
