@@ -72,23 +72,22 @@ author_profile: true
 I have had the pleasure to work with several great researchers around the world:
 
 <ul>
+  <li>Tommaso di Nioa - Politecnico di Bari, Italy (Postdoctoral period advisor)
   <li>Paolo Cremonesi - Politecnico di Milano, Italy (PhD advisor)
   <li>Markus Schedl   -  JKU Linz, Austria (PhD visiting period co-advisor)
   <li>Gabriella Pasi  - University of Milano-Bicocca, Italy
+  <li>Hamed Zamani  - University of Mass Amherst, USA
   <li>Mehdi Elahi     - University of Bozen-Bolzano, Italy
   <li>Massimo Quadrano - Politecnico di Milano, Italy
-  <li>Hamed Zamani  - University of Mass Amherst, USA
   <li>Ching-Wei Chen  - Spotify, USA
   <li>Vahid Jalili  - George Washington University, USA
   <li>Matteo Matteucci - Politecnico di Milano, Italy
   <li>Stefano Ceri  - Politecnico di Milano, Italy
-  <li>Fabian Abel   - Xing, Germany
   <li>Daniel Kohlsdorf - Xing, Germany
   <li>Franca Garzotto - Politecnico di Milano, Italy
   <li>Pietro Piazzolla - Politecnico di Milano, Italy
   <li>Cristina Frà     - Joint Open Lab, Telecom Italia Milano, Italy
   <li>Massimo Valla    - Joint Open Lab, Telecom Italia Milano, Italy
-  <li>Reza Ebrahimi Atani  - University of Guilan, Iran
   <li>Bahman Zanj      - University of Guilan, Iran
   <li>Shengping Zhang  - Harbin Institute of Technology, China
   <li>Stefano Cereda   - Politecnico di Milano, Italy
