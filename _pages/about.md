@@ -80,7 +80,7 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">June 26, 2019</th>
-    <th class="tg-xivq"> Three workshop papers (topic: FatRec, Attacks on RS, Explict User Profile modelling) accepted at RMSE@RecSys'19, ImpactRS@RecSys'19, IntRS@RecSys'19. See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Three workshop papers accepted at RecSys 2019. See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">June 26, 2019</th>
