@@ -9,7 +9,7 @@ citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrem
 ---
 
 
-[[DOI]]()  [[PDF]]()  [[bibtex]]()
+[[DOI]](https://dl.acm.org/citation.cfm?id=3109908) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
 
 
 ## Abstract
