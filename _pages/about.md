@@ -79,12 +79,12 @@ I have (co-)authored different refereed articles at internationally recognized c
 <col style="width: 648px">
 </colgroup>
  <tr>
-    <th class="tg-xivq">June 26, 2019</th>
-    <th class="tg-xivq"> Three workshop papers accepted at RecSys 2019. See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq">July, 2019</th>
+    <th class="tg-xivq"> Three workshop papers accepted at <b>RecSys 2019!</b> See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">June 26, 2019</th>
-    <th class="tg-xivq"> Two papers (1 short + 1 demo) paper accepted at the 17th International Conference on Content-Based Multimedia Indexing (CBMI 2019). See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Two papers (1 short + 1 demo) paper accepted at <b>CBMI 2019!</b>. See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">May 8, 2018</th>
