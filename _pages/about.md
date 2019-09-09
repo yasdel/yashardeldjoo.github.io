@@ -80,7 +80,11 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">July, 2019</th>
-    <th class="tg-xivq"> Three workshop papers accepted at <b>RecSys 2019!</b> See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl </th>
+  </tr>
+ <tr>
+    <th class="tg-xivq">July, 2019</th>
+    <th class="tg-xivq"> Three workshop papers (RMSE, ImpactRS, IntRS) accepted at <b>RecSys 2019!</b> See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">June 26, 2019</th>

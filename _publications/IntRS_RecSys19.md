@@ -1,0 +1,19 @@
+---
+title: "Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features"
+collection: publications
+permalink: /publication/IntRS_RecSys19
+date: 2019-08-27
+venue: 'Joint Workshop on Interfaces and Human Decision Making for Recommender Systems  (IntRS) as part of the 13th ACM Conference on Recommender Systems'
+citation: Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Workshop on Children and Recommender Systems </i><b>(IntRS@RecSys'19)</b>.'
+
+---
+
+[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
+
+
+## Abstract
+
+In order to improve the accuracy of recommendations, many recommender systems nowadays use side information beyond the user rating matrix, such as item content. These systems build user profile as estimates of users’ interest on content (e.g., movie genre, director or cast) and then evaluate the performance of the recommender system as a whole e.g., by their ability to recommend relevant and novel items to the target user. e user prole modelling stage, which isa key stage in content-driven RS is barely properly evaluated due to the lack of publicly available datasets that contain user preferences on content features of items.
+
+o raise awareness of this fact, we investigate didifferences between explicit user preferences and implicit user profiles.  We create a dataset of explicit preferences towards content features of movies, which we release publicly. We then compare the collected explicit user feature preferences and implicit user profiles built via state-of-the-art user proling models. Our results show a maximum average pairwise cosine similarity of 58.07% between the explicit feature preferences and the implicit user profiles modelled by the best investigated proling method and considering movies’ genres only.For actors and directors, this maximum similarity is only 9.13% and17.24%, respectively. is low similarity between explicit and implicit preference models encourages a more in-depth study to investigate and improve this important user prole modelling step
+
