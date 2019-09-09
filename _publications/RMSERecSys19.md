@@ -1,10 +1,10 @@
 ---
-title: "Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features"
+title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
 permalink: /publication/RMSERecSys19
 date: 2019-08-27
-venue: 'Joint Workshop on Interfaces and Human Decision Making for Recommender Systems  (IntRS) as part of ACM RecSys 2019'
-citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i>.'
+venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) as part of ACM RecSys 2019'
+citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<i> Workshop on Recommendation in Multistakeholder Environments</i>.'
 
 ---
 
