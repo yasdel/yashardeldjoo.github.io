@@ -45,11 +45,11 @@ author_profile: true
 
 <h2>Extended Abstracts/Workshop Papers</h2>
 
-<a href="https://yasdel.github.io/publication/RMSE_RecSys19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy</a><br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<br><i>Workshop on Recommendation in Multistakeholder Environments </i><b>(RMSE@RecSys'19)</b>
+<a href="https://yasdel.github.io/publication/RMSE_RecSys19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy</a><br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<br><i>Workshop on Recommendation in Multistakeholder Environments</i> <b>(RMSE@RecSys'19)</b>
 
-<a href="https://yasdel.github.io/publication/ImpactRS_RecSys19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra<br><i>Workshop on the Impact of Recommender Systems</i><b>(ImpactRS@RecSys'19)</b>
+<a href="https://yasdel.github.io/publication/ImpactRS_RecSys19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra<br><i>Workshop on the Impact of Recommender Systems</i> <b>(ImpactRS@RecSys'19)</b>
 
-<a href="https://yasdel.github.io/publication/IntRS_RecSys19" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features</a><br>Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<br><i>Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i><b>(IntRS@RecSys'19)</b>
+<a href="https://yasdel.github.io/publication/IntRS_RecSys19" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features</a><br>Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<br><i>Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i> <b>(IntRS@RecSys'19)</b>
 
 
 <a href="https://yasdel.github.io/publication/MediaEval18" style="color: #2A5DB0">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br><i>MediaEval 2018 Workshop </i><b>(MediaEval 2018 overview)</b>
