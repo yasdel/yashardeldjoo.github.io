@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/IntRSRecSys19
 date: 2019-08-27
 venue: 'Joint Workshop on Interfaces and Human Decision Making for Recommender Systems  (IntRS) as part of ACM RecSys 2019'
-citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i>.'
+citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i><b>(IntRS@RecSys'19)</b>.'
 
 ---
 
 
-[[DOI]](https://link.springer.com/article/10.1007/s13740-016-0060-9)  [[PDF]](http://yasdel.github.io/files/JoDS16.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/JoDS16.bib)
+[[DOI]]()  [[PDF]]()  [[bibtex]]()
 
 
 ## Abstract

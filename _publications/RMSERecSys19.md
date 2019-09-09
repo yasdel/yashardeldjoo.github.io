@@ -9,6 +9,9 @@ citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Be
 ---
 
 
+[[DOI]]()  [[PDF]]()  [[bibtex]]()
+
+
 ## Abstract
 
 Fairness in recommender systems has been considered with respect to sensitive attributes of users (eg, gender, race) or items (eg, revenue in a multistakeholder setting). Regardless, the concept has been commonly interpreted as some form of equality--ie, the degree to which the system is meeting the information needs of all its users in an equal sense. In this paper, we argue that fairness in recommender systems does not necessarily imply equality, but instead it should consider a distribution of resources based on merits and needs.
