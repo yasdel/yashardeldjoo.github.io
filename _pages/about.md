@@ -84,11 +84,11 @@ I have (co-)authored different refereed articles at internationally recognized c
   </tr>
  <tr>
     <th class="tg-xivq">July, 2019</th>
-    <th class="tg-xivq"> Three workshop papers (RMSE, ImpactRS, IntRS) accepted at <b>RecSys 2019!</b> See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Three workshop papers (RMSE, ImpactRS, IntRS) accepted at <b>RecSys 2019!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">June 26, 2019</th>
-    <th class="tg-xivq"> Two papers (1 short + 1 demo) paper accepted at <b>CBMI 2019!</b>. See the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Two papers (1 short + 1 demo) paper accepted at <b>CBMI 2019!</b>. See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">May 8, 2018</th>
@@ -96,7 +96,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   </tr>
  <tr>
     <th class="tg-xivq">Dec 29, 2018</th>
-    <th class="tg-xivq">Our brand-new UMUAI paper titled <b>"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</b> has been accepted! Find the <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
+    <th class="tg-xivq">Our brand-new UMUAI paper titled <b>"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</b> has been accepted! Find <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a></th>
   </tr>
  <tr>
     <th class="tg-xivq">Nov 21, 2018</th>
