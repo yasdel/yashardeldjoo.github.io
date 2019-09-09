@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ImpactRSRecSys19
 date: 2019-09-19
 venue: 'The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019'
-citation: '<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on the Impact of Recommender Systems </i>.<b>(ImapactRS@RecSys'19)</b>.'
+citation: '<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on the Impact of Recommender Systems </i>.'
 
 ---
 
