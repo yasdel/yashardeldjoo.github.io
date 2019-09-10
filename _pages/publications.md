@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Journal Papers</h2>
 
-<a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a></b><font color="red"><b> *highlight*</b></font>
+<a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a><font color="red"><b> *highlight*</b></font>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction (UMUAI) - The Journal of Personalization Research, 2019 </i>
 
 <a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>
@@ -31,6 +31,7 @@ author_profile: true
 <h2>Conference Papers</h2>
 <a href="https://yasdel.github.io/publication/AIIA_19" style="color: #2A5DB0">Towards Effective Device-Aware Federated Learning</a> </b><font color="red"><b> *highlight*</b></font>
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> 18th International Conference of the Italian Association for Artificial Intelligence </i><b>(AIIA 2019)
+
 <a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
 
