@@ -80,11 +80,11 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
-    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <span class="badge badge-success">Highlight</span></th>
+    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <font color="red"><b>*highlight*</b></font>
   </tr>
  <tr>
     <th class="tg-xivq">July 14, 2019</th>
-    <th class="tg-xivq"> Our paper "Towards Effective Device-Aware Federated Learning" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted at the 18th International Conference of the Italian Association for Artificial Intelligence <b>AIIA 2019!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> <font color="red"><b>highlight</b></font></th>
+    <th class="tg-xivq"> Our paper "Towards Effective Device-Aware Federated Learning" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted at the 18th International Conference of the Italian Association for Artificial Intelligence <b>AIIA 2019!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> <font color="red"><b>*highlight*</b></font></th>
   </tr>
  <tr>
     <th class="tg-xivq">July, 2019</th>
