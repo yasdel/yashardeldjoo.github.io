@@ -57,6 +57,11 @@ author_profile: true
 <a href="https://yasdel.github.io/publication/IntRSRecSys19" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features</a><br>Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<br><i>Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i> <b>(IntRS@RecSys'19)</b>
 
 
+<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #2A5DB0">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a><br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> <font color="red"><b> *best short paper award*</b></font>
+
+<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #2A5DB0">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b>
+
+
 <a href="https://yasdel.github.io/publication/MediaEval18" style="color: #2A5DB0">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br><i>MediaEval 2018 Workshop </i><b>(MediaEval 2018 overview)</b>
 
 <a href="https://yasdel.github.io/publication/MediaEval18_WorkingNote" style="color: #2A5DB0">Movie Rating Prediction using Multimedia Content and Modeling as a Classification Problem</a><br> Fatemeh Nazary, <b>Yashar Deldjoo</b><br><i>MediaEval 2018 Workshop </i><b>(MediaEval 2018 working note)</b>
