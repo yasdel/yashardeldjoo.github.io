@@ -80,7 +80,7 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
-    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <span class="badge badge-success"> Highlight </span></th>
+    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <span class="label label-pill label-primary">Primary</span></th>
   </tr>
  <tr>
     <th class="tg-xivq">July 14, 2019</th>
