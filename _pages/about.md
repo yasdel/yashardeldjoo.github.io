@@ -29,7 +29,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   <h3>Special Issues News</h3>
 
 <ul>
-  <li> <font color="red">(<b>New*</b>)</font> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: Oct 1st, 2019) </li>
+  <li> <font color="red"><b>*New* </b></font> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: Oct 1st, 2019) </li>
 </ul>
 
 <h3>Research Interests</h3>
