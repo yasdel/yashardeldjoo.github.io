@@ -28,6 +28,8 @@ author_profile: true
 
 
 <h2>Conference Papers</h2>
+<a href="https://yasdel.github.io/publication/AIIA_19" style="color: #2A5DB0">Towards Effective Device-Aware Federated Learning</a><br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> 18th International Conference of the Italian Association for Artificial Intelligence </i><b>(AIIA 2019)</b>
+
 <a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
 
@@ -45,7 +47,7 @@ author_profile: true
 
 <h2>Extended Abstracts/Workshop Papers</h2>
 
-<a href="https://yasdel.github.io/publication/RMSERecSys19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy</a><br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<br><i>Workshop on Recommendation in Multistakeholder Environments</i> <b>(RMSE@RecSys'19)</b>
+<a href="https://yasdel.github.io/publication/RMSERecSys19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy</a><br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<br><i>Workshop on Recommendation in Multistakeholder Environments</i> <b>(RMSE@RecSys'19)</b> <font color="red">(<b>highlight*</b>)</font>
 
 <a href="https://yasdel.github.io/publication/ImpactRSRecSys19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra<br><i>Workshop on the Impact of Recommender Systems</i> <b>(ImpactRS@RecSys'19)</b>
 
