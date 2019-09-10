@@ -84,7 +84,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   </tr>
  <tr>
     <th class="tg-xivq">July 14, 2019</th>
-    <th class="tg-xivq"> Our paper "Towards Effective Device-Aware Federated Learning" by Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Antonio Ferrara accepted at 18th International Conference of the Italian Association for Artificial Intelligence <b>AIIA 2019!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
+    <th class="tg-xivq"> Our paper "Towards Effective Device-Aware Federated Learning" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted at 18th International Conference of the Italian Association for Artificial Intelligence <b>AIIA 2019!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank">publication page.</a> </th>
   </tr>
  <tr>
     <th class="tg-xivq">July, 2019</th>
