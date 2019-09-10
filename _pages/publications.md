@@ -29,7 +29,7 @@ author_profile: true
 
 
 <h2>Conference Papers</h2>
-<a href="https://yasdel.github.io/publication/AIIA_19" style="color: #2A5DB0">Towards Effective Device-Aware Federated Learning</a> </b><font color="red"><b> *highlight*</b></font>
+<a href="https://yasdel.github.io/publication/AIIA_19" style="color: #2A5DB0">Towards Effective Device-Aware Federated Learning</a> <font color="red"><b> *highlight*</b></font>
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> 18th International Conference of the Italian Association for Artificial Intelligence </i><b>(AIIA 2019)
 
 <a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
