@@ -37,8 +37,9 @@ I have (co-)authored different refereed articles at internationally recognized c
 <ul>
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia for recommender systems</li>
-  <li> Security/stability of recommender systems (adverserial learning, shilling attacks)</li>
-  <li> Ethtical aspects of recommender systems (fairness, transparency and privacy)</li>
+  <li> Fairness of Recommender Systems</li>
+  <li> Adverserial Machine learning and Shilling Attacks</li>
+  <li> Federated learning </li>
 </ul>
 
 <h3>Academic Services</h3>
