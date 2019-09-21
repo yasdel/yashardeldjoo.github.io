@@ -54,6 +54,8 @@ I have (co-)authored different refereed articles at internationally recognized c
 <h3>Selected Publications</h3>
 
 <ul>
+  <li> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
+  <li> <b>Yashar Deldjoo</b>, Yashar Deldjoo, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
   <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://yasdel.github.io/publication/UMUAI19" style="color: #2A5DB0">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
  <li> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri.<a href="https://yasdel.github.io/publication/TKDE18" style="color: #2A5DB0">"Next Generation Indexing for Genomic Intervals"</a>, TKDE 2018. </li>
   <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
