@@ -36,7 +36,7 @@ I have (co-)authored different refereed articles at internationally recognized c
 
 <ul>
   <li> Recommender systems, user modelling and personalization </li>
-  <li> Multimedia for recommender systems</li>
+  <li> Multimedia Recommender Systems</li>
   <li> Fairness of Recommender Systems</li>
   <li> Adverserial Machine learning and Shilling Attacks</li>
   <li> Federated learning </li>
