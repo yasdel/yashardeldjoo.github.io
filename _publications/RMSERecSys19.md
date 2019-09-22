@@ -1,12 +1,10 @@
 ---
-title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
+title: "Exploring The Semantic Gap for Movie Recommendation"
 collection: publications
 permalink: /publication/RMSERecSys19
-date: 2019-09-20
-venue: 'Workshop on Workshop on Recommendation in Multistakeholder Environments (RMSE) as part of the 13th ACM Conference of Recommender Systems'
-citation: '<b>Deldjoo, Yashar</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogín, and Tommaso Di Noia. <i>Workshop on Workshop on Recommendation in Multistakeholder Environments, 2019 </i><b>(RMSE@RecSys'19)</b>.'
-
-
+date: 2019
+venue: 'Proceedings of the 11th ACM Conference on Recommender Systems'
+citation: 'Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi <i>Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>.'
 
 ---
 
