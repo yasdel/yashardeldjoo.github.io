@@ -9,7 +9,7 @@ citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Be
 ---
 
 
-[[DOI]](https://dl.acm.org/citation.cfm?id=3109908) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
+[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](http://yasdel.github.io/files/RMSE@RecSys19_Deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
 
 
 ## Abstract

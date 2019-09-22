@@ -2,14 +2,14 @@
 title: "Assessing the Impact of a User-Item Collaborative Attack on Class of Users"
 collection: publications
 permalink: /publication/ImpactRSRecSys19
-date: 2019-09-19
-venue: 'Joint Workshop on Interfaces and Human Decision Making for Recommender Systems  (IntRS) as part of ACM RecSys 2019'
-citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i>.'
+date: 2019-09-209
+venue: 'Workshop on the Impact of Recommender Systems (ImpactRS) as part of ACM RecSys 2019'
+citation: 'Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on the Impact of Recommender Systems</i>.'
 
 ---
 
 
-[[DOI]](https://dl.acm.org/citation.cfm?id=3109908) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_1.bib)
+[[DOI]](https://dl.acm.org/citation.cfm?id=3109908) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRecSys19.bib)
 
 
 ## Abstract
