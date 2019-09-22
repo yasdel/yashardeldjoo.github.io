@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Impact of a User-Item Collaborative Attack on Class of Users"
 collection: publications
-permalink: /publication/ImpactRSRecSys19
+permalink: /publication/ImpactRS19
 date: 2019-09-209
 venue: 'Workshop on the Impact of Recommender Systems (ImpactRS) as part of ACM RecSys 2019'
 citation: 'Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on the Impact of Recommender Systems</i>.'
