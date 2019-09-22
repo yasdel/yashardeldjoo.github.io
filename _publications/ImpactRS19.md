@@ -8,8 +8,7 @@ citation: 'Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on 
 
 ---
 
-
-[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRS19.bib)
+[[DOI]](https://dl.acm.org/citation.cfm?id=3109954) [[PDF]](https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/318394072_RecSys_Challenge_2017_Offline_and_Online_Evaluation/links/59f251550f7e9beabfcc615b/RecSys-Challenge-2017-Offline-and-Online-Evaluation.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRS19.bib)
 
 
 ## Abstract

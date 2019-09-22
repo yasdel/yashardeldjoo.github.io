@@ -1,7 +1,7 @@
 ---
 title: "Using Visual Features and Latent Factors for Movie Recommendation"
 collection: publications
-permalink: /publication/RMSERecSys
+permalink: /publication/RMSERecSys19
 date: 2016-09-16
 venue: 'Workshop on New Trends in Content-based Recommender Systems as part of the 10th ACM Conference of Recommender Systems'
 citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi <i>Workshop on New Trends in Content-based Recommender Systems, 2016 </i><b>(CBRecSys@RecSys 2016)</b>.'
