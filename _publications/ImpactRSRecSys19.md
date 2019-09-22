@@ -9,7 +9,7 @@ citation: 'Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on 
 ---
 
 
-[[DOI]](https://dl.acm.org/citation.cfm?id=3109908) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032224/227263/exploring-semantic-gap-final.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRecSys19.bib)
+[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRecSys19.bib)
 
 
 ## Abstract
