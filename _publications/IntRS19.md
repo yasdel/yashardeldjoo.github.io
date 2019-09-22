@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IntRS19
 date: 2019-09-19
 venue: 'Joint Workshop on Interfaces and Human Decision Making for Recommender Systems  (IntRS) as part of ACM RecSys 2019'
-citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i>.'
+citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<i> Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i> <b>(IntRS@RecSys'19)</b>.'
 
 ---
 
