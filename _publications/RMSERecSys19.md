@@ -8,7 +8,7 @@ citation: '<b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi <i>Workshop on Ne
 
 ---
 
-[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](/files/RMSE_RecSys19_deldjoo.pdf)  [[bibtex]](http://yasdel.github.io/_publications/RMSERecSys19.bib)
+[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](http://yasdel.github.io/files/RMSE_RecSys19_deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSERecSys19.bib)
 
 
 ## Abstract
