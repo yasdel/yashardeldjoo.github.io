@@ -9,7 +9,7 @@ citation: 'Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrem
 ---
 
 
-[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IntRecSys19.bib)
+[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IntRS19.bib)
 
 
 ## Abstract

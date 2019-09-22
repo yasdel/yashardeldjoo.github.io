@@ -9,7 +9,7 @@ citation: 'Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra<i> Workshop on 
 ---
 
 
-[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRecSys19.bib)
+[[DOI]]() [[PDF]]()  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/ImpactRS19.bib)
 
 
 ## Abstract
