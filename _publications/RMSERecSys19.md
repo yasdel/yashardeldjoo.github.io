@@ -9,7 +9,7 @@ citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Be
 ---
 
 
-[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](http://yasdel.github.io/files/RMSE@RecSys19_Deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSERecSys19.bib)
+[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](http://yasdel.github.io/files/RMSE_RecSys19_Deldjoo.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSERecSys19.bib)
 
 
 ## Abstract
