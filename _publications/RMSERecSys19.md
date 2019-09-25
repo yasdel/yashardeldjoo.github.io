@@ -1,5 +1,5 @@
 ---
-title: "Exploring The Semantic Gap for Movie Recommendation"
+title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
 permalink: /publication/RMSERecSys19
 date: 2019
