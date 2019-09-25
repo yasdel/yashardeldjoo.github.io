@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/RMSERecSys19
 date: 2019-01-01
 venue: 'User Modeling and User-Adapted Interaction (UMUAI) - The Journal of Personalization Research'
-citation: '<b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i>User Modeling and User-Adapted Interaction (UMUAI), 2019</i>.'
+venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) as part of ACM RecSys 2019'
+citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <b>(RMSE@RecSys'19)</b>.'
 
 ---
 
