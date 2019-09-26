@@ -10,17 +10,34 @@ author_profile: true
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/RMSE19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a><font color="red"><b> *highlight*</b></font>
+<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Towards Effective Device-Aware Federated Learning</a> <font color="forestgreen"><b> *highlight*</b></font>
+<br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i>(AIIA 2019) <br> 
+[<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/AIIA19.bib" style="color: #B509AC">bibtex</a>]
+
+
+<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a><font color="red"><b> *highlight*</b></font>
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>
+[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i>
 
-<a href="https://yasdel.github.io/publication/IntRS19" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a><font color="red"><b> *highlight*</b></font>
+<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #B509AC">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i>
+[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
+
+
+<a href="https://yasdel.github.io/publication/IntRS19" style="color: #B509AC">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a><font color="red"><b> *highlight*</b></font>
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> 
+[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #2A5DB0">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a><br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> <font color="red"><b> *best short paper award*</b></font>
 
-<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #2A5DB0">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b>
+<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a><br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> <font color="red"><b> *best short paper award*</b></font>
+[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
+
+
+<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b>
+[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
+
+
+<h3 class="year">2018</h3>
 
 
 <a href="https://yasdel.github.io/publication/TKDE18" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>  <br> 
@@ -37,14 +54,11 @@ author_profile: true
 <h2>Patents</h2>
 <a href="https://yasdel.github.io/publication/Patent_2018" style="color: #2A5DB0">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1 </i><b>(US-Patent 2018)</b>
 
+<h3 class="year">2017</h3>
 
 <h2>Tutorials</h2>
 <a href="https://yasdel.github.io/publication/RecSys18_1" style="color: #2A5DB0">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
-
-<h2>Conference Papers</h2>
-<a href="https://yasdel.github.io/publication/AIIA_19" style="color: #2A5DB0">Towards Effective Device-Aware Federated Learning</a> <font color="red"><b> *highlight*</b></font>
-<br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> 18th International Conference of the Italian Association for Artificial Intelligence </i><b>(AIIA 2019)
 
 <a href="https://yasdel.github.io/publication/RecSys18_2" style="color: #2A5DB0">Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
@@ -52,6 +66,8 @@ author_profile: true
 <a href="https://yasdel.github.io/publication/MMSys18" style="color: #2A5DB0">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of the 9th ACM Multimedia Systems Conference 2018 </i><b>(MMSys 2018)</b>
 
 <a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #2A5DB0">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+
+<h3 class="year">2016</h3>
 
 <a href="https://yasdel.github.io/publication/ECWeb16" style="color: #2A5DB0">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
 
