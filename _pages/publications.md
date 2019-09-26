@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h3 class="year">2019</h3>
+<h2 class="year">2019</h2>
 
 <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
@@ -36,7 +36,7 @@ author_profile: true
 [<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] 
 
 
-<h3 class="year">2018</h3>
+<h2 class="year">2018</h2>
 
 
 <a href="https://yasdel.github.io/publication/TKDE18" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>  <br> 
@@ -63,7 +63,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/IIR18" style="color: #B509AC">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br> <i>Proceedings of the 9th Italian Information Retrieval Workshop </i><b>(IIR 2018)</b>
 
-<h3 class="year">2017</h3>
+<h2 class="year">2017</h2>
 
 <a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #B509AC">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
@@ -80,7 +80,7 @@ author_profile: true
 <a href="https://yasdel.github.io/publication/ISMIR17" style="color: #B509AC">Recsys Challenge 2018: Automatic Playlist Continuation</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <br><i> Proceedings of the 18th International Society for Music Information Retrieval Conference 2017 </i><b>(ISMIR LBD 2017)</b>
 
 
-<h3 class="year">2016</h3>
+<h2 class="year">2016</h2>
 
 <a href="https://yasdel.github.io/publication/JoDS16" style="color: #B509AC">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics, 2016 </i>
 
@@ -89,7 +89,7 @@ author_profile: true
 
 <a href="https://yasdel.github.io/publication/ECWeb16" style="color: #B509AC">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.
 
-<h3 class="year">2015</h3>
+<h2 class="year">2015</h2>
 
 <a href="https://yasdel.github.io/publication/ChiItaly15" style="color: #B509AC">Toward Effective Movie Recommendations Based on Mise-en-scene Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th ACM Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>.
 
