@@ -1,15 +1,15 @@
 ---
-title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
+title: "Assessing the Impact of a User-Item Collaborative Attack on Class of Users"
 collection: publications
 permalink: /publication/ImpactRS19
 date: 2019-9-20
-venue: 'Workshop on the Impact of Recommender Systems (ImpactRS) at 13th ACM Conference on Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<i>Workshop on the Impact of Recommender Systems, 2019 </i><b>(ImpactRS@RecSys 2019)</b>.'
+venue: 'Proceedings of 13th ACM RecSys Workshop on Recommendation on the Impact of Recommender Systems, 2019'
+citation: '<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <i>Workshop on the Impact of Recommender Systems, 2019 </i>(ImpactRS@RecSys 2019).'
 
 ---
 
 
-[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
+[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
 
 
 ## Abstract
