@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/RMSE19
 date: 2019-9-20
 venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <i> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>.'
+citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <i>In Proceedings of the 2019 ACM RecSys Workshop on Recommendation in Multistakeholder Environments </i><b>(RMSE@RecSys'19)</b>.'
 
 ---
 
 
-[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
+[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[PDF]](http://yasdel.github.io/files/RMSE19.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
 
 
 ## Abstract
