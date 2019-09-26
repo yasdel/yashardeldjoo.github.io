@@ -24,16 +24,16 @@ author_profile: true
 
 
 <a href="https://yasdel.github.io/publication/IntRS19" style="color: #B509AC">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
-<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
-[<a href="f" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
+<br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
+[<a href="https://arxiv.org/pdf/1908.11055.pdf" style="color: #B509AC">Preprint</a>] 
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
-[<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
+<a href="" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] 
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) </i> <br>
-[<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
+<a href="" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) </i> <br>
+[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] 
 
 
 <h3 class="year">2018</h3>
