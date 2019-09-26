@@ -3,8 +3,8 @@ title: "Assessing the Impact of a User-Item Collaborative Attack on Class of Use
 collection: publications
 permalink: /publication/ImpactRS19
 date: 2019-9-20
-venue: 'Proceedings of 13th ACM RecSys Workshop on Recommendation on the Impact of Recommender Systems, 2019'
-citation: "<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <i>Workshop on the Impact of Recommender Systems at at ACM RecSys 2019, 2019 </i>(ImpactRS@RecSys'19)."
+venue: 'Proceedings of 13th ACM RecSys Workshop on Recommendation on the Impact of Recommender Systems'
+citation: "<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <i>Workshop on the Impact of Recommender Systems at ACM RecSys'19, 2019 </i>(ImpactRS@RecSys'19)."
 
 ---
 
