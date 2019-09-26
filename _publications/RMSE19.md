@@ -3,6 +3,8 @@ title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
 permalink: /publication/RMSE19
 date: 2019-9-20
+venue: 'Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments (RMSE)'
+
 venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
 citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia<i>Workshop on Recommendation in Multistakeholder Environments, 2019 </i><b>(RMSE@RecSys 2019)</b>.'
 
