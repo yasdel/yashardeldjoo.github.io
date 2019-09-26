@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/RMSE19
 date: 2019-9-20
 venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
-citation: ' <b>Yashar Deldjoo</b>, Markus Schedl, Balazs Hidasi, Peter Kness <i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments </i><b>(RecSys 2018)</b>.'
+citation: ' <b>Yashar Deldjoo</b>, Markus Schedl, Balazs Hidasi, Peter Kness <i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019</i><b>(RMSE@RecSys 2019)</b>.'
 
 ---
 
 
-[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys18_1.bib)
+[[DOI]](http://ceur-ws.org/Vol-2440/short3.pdf) [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib)
 
 
 ## Abstract
