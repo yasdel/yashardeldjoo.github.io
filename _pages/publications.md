@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h1>2019</h1>
+
 <h2>Journal Papers</h2>
 
 <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a><font color="forestgreen"><b> *highlight*</b></font>
