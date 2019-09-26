@@ -9,7 +9,7 @@ citation: "<b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <i>Works
 ---
 
 
-[[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
+[[DOI]]() [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
 
 
 ## Abstract
