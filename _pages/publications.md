@@ -11,29 +11,29 @@ author_profile: true
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
 <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Towards Effective Device-Aware Federated Learning</a> 
-<br>Vito Walter Anelli, <u>Yashar Deldjoo</u>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i>(AIIA 2019) <br> 
+<br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i>(AIIA 2019) <br> 
 [<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/AIIA19.bib" style="color: #B509AC">bibtex</a>]
 
 
 <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>
-<br><u>Yashar Deldjoo</u>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
+<br><<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
 [<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #B509AC">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><u>Yashar Deldjoo</u>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
+<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #B509AC">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
 [<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
 
 <a href="https://yasdel.github.io/publication/IntRS19" style="color: #B509AC">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
-<br><u>Yashar Deldjoo</u>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
+<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
 [<a href="f" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <br><u>Yashar Deldjoo</u>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><u>Yashar Deldjoo</u>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b>
+<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b>
 [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
 
 
