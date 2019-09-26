@@ -7,7 +7,7 @@ author_profile: true
 <h3 class="year">2019</h3>
 
 <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>
-<br> <u>Yashar Deldjoo</u>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
+<br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
 <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Towards Effective Device-Aware Federated Learning</a> 
