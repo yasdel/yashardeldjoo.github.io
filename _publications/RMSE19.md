@@ -1,10 +1,10 @@
 ---
-title: "Enhancing Children’s Experience with Recommendation Systems"
+title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
-permalink: /publication/RecSys19_WS1
-date: 2017-08-27
-venue: 'Workshop on Children and Recommender Systems (KidRec) as part of the 11th ACM Conference on Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa Anil Tuncel, Franca Garzotto, Paolo Cremonesi, <i> Workshop on Children and Recommender Systems </i><b>(KidRec@RecSys'17)</b>.'
+permalink: /publication/RMSE19
+date: 2017-09-20
+venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) as part of the 13th ACM Conference on Recommender Systems (RecSys)'
+citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia, <i> Workshop on Children and Recommender Systems </i><b>(RMSE@RecSys'19)</b>.'
 
 ---
 
