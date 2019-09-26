@@ -50,15 +50,12 @@ author_profile: true
 <h2>Extended Abstracts/Workshop Papers</h2>
 
 <a href="https://yasdel.github.io/publication/RMSE19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a><font color="red"><b> *highlight*</b></font>
-<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys 2019) </i>
+<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>
 
-<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys 2019) </i>
+<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #2A5DB0">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i>
 
 <a href="https://yasdel.github.io/publication/IntRS19" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a><font color="red"><b> *highlight*</b></font>
-<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys 2019) </i> 
-
-<a href="https://yasdel.github.io/publication/RecSys19_WS3" style="color: #2A5DB0">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features</a><br>Luca Luciano Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi<br><i>Joint Workshop on Interfaces and Human Decision Making for Recommender Systems</i> <b>(IntRS@RecSys'19)</b>
-
+<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> 
 
 <a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #2A5DB0">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a><br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> <font color="red"><b> *best short paper award*</b></font>
 
