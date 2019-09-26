@@ -29,7 +29,7 @@ author_profile: true
 [<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <font color="red"><b> *best short paper award*</b></font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> 
+<a href="https://yasdel.github.io/publication/CBMI2019_1" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <font color="forestgreen"><b> *best short paper award*</b></font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> <b>(CBMI'19)</b> 
 [<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
 
