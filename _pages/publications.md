@@ -4,8 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.year {
+    border-top: 1px solid #ccc;
+    color: #ccc;
+    margin: 0 -3em -2.5ex -2em;
+    padding-top: 1ex;
+    text-align: right;
+}
+<style>
 
-<h1>2019</h1>
+<h3 class="year">2019</h3>
 
 <h2>Journal Papers</h2>
 
