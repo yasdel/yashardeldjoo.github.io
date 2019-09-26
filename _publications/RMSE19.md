@@ -1,12 +1,13 @@
 ---
-title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
+title: "The effect of different video summarization models on the quality of video recommendation based on low-level visual features"
 collection: publications
-permalink: /publication/RMSE19
-date: 2017-09-20
-venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) as part of the 13th ACM Conference on Recommender Systems (RecSys)'
-citation: '<b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia, <i> Workshop on Children and Recommender Systems </i><b>(RMSE@RecSys'19)</b>.'
+permalink: /publication/CBMI17
+date: 2019-9-20
+venue: 'Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing'
+citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing p. 20. </i><b>(CBMI 2017)</b>.'
 
 ---
+
 
 [[Proceedings]](https://dl.acm.org/citation.cfm?id=3109859.3109956) [[PDF]](https://re.public.polimi.it/retrieve/handle/11311/1032225/227265/02-KidRec-2017-Deldjoo-Enhancing-Children%27s-Experience.pdf)  [[bibtex]](https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RecSys17_WS1.bib)
 
