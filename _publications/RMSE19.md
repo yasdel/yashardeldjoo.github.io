@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RMSE19
 date: 2019-9-20
 venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa Anil Tuncel, Franca Garzotto, Paolo Cremonesi, <i> Workshop on Children and Recommender Systems </i><b>(KidRec@RecSys'17)</b>.'
+citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<i> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>.'
 
 ---
 
