@@ -1,5 +1,5 @@
 ---
-title: "The effect of different video summarization models on the quality of video recommendation based on low-level visual features"
+title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
 permalink: /publication/CBMI17
 date: 2019-9-20
