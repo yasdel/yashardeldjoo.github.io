@@ -8,7 +8,7 @@ author_profile: true
 <h2>Journal Papers</h2>
 
 <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a><font color="62c462"><b> *highlight*</b></font>
-<br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 </i>  <br> 
+<br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
 <a href="https://yasdel.github.io/publication/TKDE18" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>  <br> 
