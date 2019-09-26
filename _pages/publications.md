@@ -50,7 +50,7 @@ author_profile: true
 <h2>Extended Abstracts/Workshop Papers</h2>
 
 <a href="https://yasdel.github.io/publication/RMSE19" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a><font color="red"><b> *highlight*</b></font>
-<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <i><br>User Modeling and User-Adapted Interaction (UMUAI) - The Journal of Personalization Research, 2019 </i>
+<br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <i><br>Workshop on Recommendation in Multistakeholder Environments (RMSE) at ACM RecSys, 2019 </i>
 
 
 <a href="https://yasdel.github.io/publication/RecSys19_WS2" style="color: #2A5DB0">Recommender Systems Fairness Evaluation via Generalized Cross Entropy</a> <font color="red"><b> *highlight*</b></font>
