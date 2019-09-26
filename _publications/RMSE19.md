@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RMSE19
 date: 2019-9-20
 venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
-citation: ' <b>Yashar Deldjoo</b>,Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <i>In Proceedings of the 2019 ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 </i><b>(RMSE@RecSys'19)</b>.'
+citation: ' <b>Yashar Deldjoo</b>, Markus Schedl, Balazs Hidasi, Peter Kness <i>Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>.'
 
 ---
 
