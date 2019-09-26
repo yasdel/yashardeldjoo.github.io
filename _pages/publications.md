@@ -19,11 +19,11 @@ author_profile: true
 [<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/ImpactRS19" style="color: #B509AC">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
+Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
 [<a href="https://arxiv.org/pdf/1908.07968.pdf" style="color: #B509AC">Preprint</a>] 
 
 
-<a href="https://yasdel.github.io/publication/IntRS19" style="color: #B509AC">Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
+Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features 
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proceedings of 13th ACM RecSys Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
 [<a href="https://arxiv.org/pdf/1908.11055.pdf" style="color: #B509AC">Preprint</a>] 
 
