@@ -11,7 +11,7 @@ author_profile: true
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
 <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Towards Effective Device-Aware Federated Learning</a> 
-<br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i>(AIIA 2019) <br> 
+<br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
 [<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/AIIA19.bib" style="color: #B509AC">bibtex</a>]
 
 
