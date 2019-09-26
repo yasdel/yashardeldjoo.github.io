@@ -33,7 +33,7 @@ author_profile: true
 [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
 
 
-<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing</i> (CBMI'19)
+<a href="https://yasdel.github.io/publication/CBMI2019_2" style="color: #B509AC">Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) </i> <br>
 [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]
 
 
