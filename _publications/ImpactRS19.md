@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ImpactRS19
 date: 2019-9-20
 venue: 'Workshop on the Impact of Recommender Systems (ImpactRS) at 13th ACM Conference on Recommender Systems'
-citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<i> Proceedings of the 8th Italian Information Retrieval Workshop </i><b>(IIR 2017)</b>.'
+citation: '<b>Yashar Deldjoo</b>, Cristina Frà, Massimo Valla, Paolo Cremonesi<i>Workshop on the Impact of Recommender Systems, 2019 </i><b>(ImpactRS@RecSys 2019)</b>.'
 
 ---
 
