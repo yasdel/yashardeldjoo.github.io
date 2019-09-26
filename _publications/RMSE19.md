@@ -1,9 +1,9 @@
 ---
 title: "Recommender Systems Fairness Evaluation via Generalized Cross Entropy"
 collection: publications
-permalink: /publication/CBMI17
+permalink: /publication/RMSE19
 date: 2019-9-20
-venue: 'Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing'
+venue: 'Workshop on Recommendation in Multistakeholder Environments (RMSE) at 13th ACM Conference on Recommender Systems'
 citation: 'Yashar Deldjoo, Paolo Cremonesi, Markus Schedl, Massimo Quadrana<i> Proceedings of the 15th ACM International Workshop on Content-Based Multimedia Indexing p. 20. </i><b>(CBMI 2017)</b>.'
 
 ---
