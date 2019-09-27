@@ -1,0 +1,18 @@
+@article{DBLP:journals/ijmir/SchedlZCDE18,
+  author    = {Markus Schedl and
+               Hamed Zamani and
+               Ching{-}Wei Chen and
+               Yashar Deldjoo and
+               Mehdi Elahi},
+  title     = {Current challenges and visions in music recommender systems research},
+  journal   = {{IJMIR}},
+  volume    = {7},
+  number    = {2},
+  pages     = {95--116},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/s13735-018-0154-2},
+  doi       = {10.1007/s13735-018-0154-2},
+  timestamp = {Mon, 16 Sep 2019 14:50:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ijmir/SchedlZCDE18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
