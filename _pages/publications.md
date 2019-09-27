@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h1 class="year">2019</h1>
 
-<a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>
+<a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a> <a href="" style="color: #B509AC">**\*Highlight\***</a>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
@@ -30,7 +30,7 @@ Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b
 Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
 [<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] 
 
-Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC">**BEST PAPER AWARD**</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC">**\*BEST PAPER AWARD\***</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] 
 
 
