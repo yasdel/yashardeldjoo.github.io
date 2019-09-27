@@ -49,7 +49,7 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 <a href="https://doi.org/10.1007/s13735-018-0155-1" style="color: #B509AC">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
-[<a href="http://yasdel.github.io/files/IJMIR2_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]
+[<a href="http://yasdel.github.io/files/IJMIR2_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IJMIR2_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 <a href="https://yasdel.github.io/publication/RecSys18_1" style="color: #B509AC">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 

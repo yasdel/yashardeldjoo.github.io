@@ -1,0 +1,18 @@
+@article{DBLP:journals/ijmir/DeldjooEQC18,
+  author    = {Yashar Deldjoo and
+               Mehdi Elahi and
+               Massimo Quadrana and
+               Paolo Cremonesi},
+  title     = {Using visual features based on {MPEG-7} and deep learning for movie
+               recommendation},
+  journal   = {{IJMIR}},
+  volume    = {7},
+  number    = {4},
+  pages     = {207--219},
+  year      = {2018},
+  url       = {https://doi.org/10.1007/s13735-018-0155-1},
+  doi       = {10.1007/s13735-018-0155-1},
+  timestamp = {Mon, 16 Sep 2019 14:50:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ijmir/DeldjooEQC18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
