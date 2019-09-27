@@ -8,7 +8,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
-[<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
+[<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
@@ -16,7 +16,7 @@ Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC"
 
 <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
-[<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/RMSE19.bib" style="color: #B509AC">bibtex</a>]
+[<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 
 Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
@@ -25,7 +25,7 @@ Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b
 
 <a href="http://ceur-ws.org/Vol-2450/short4.pdf" style="color: #B509AC"> Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proc. of 13th ACM RecSys Workshop on Interfaces & Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
-[<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IntRS19.bib" style="color: #B509AC">bibtex</a>]
+[<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IntRS19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
 [<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] 

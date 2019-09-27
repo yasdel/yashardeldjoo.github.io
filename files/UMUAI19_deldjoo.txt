@@ -1,0 +1,21 @@
+@article{DBLP:journals/umuai/DeldjooDCECSIC19,
+  author    = {Yashar Deldjoo and
+               Maurizio Ferrari Dacrema and
+               Mihai Gabriel Constantin and
+               Hamid Eghbal{-}zadeh and
+               Stefano Cereda and
+               Markus Schedl and
+               Bogdan Ionescu and
+               Paolo Cremonesi},
+  title     = {Movie genome: alleviating new item cold start in movie recommendation},
+  journal   = {User Model. User-Adapt. Interact.},
+  volume    = {29},
+  number    = {2},
+  pages     = {291--343},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/s11257-019-09221-y},
+  doi       = {10.1007/s11257-019-09221-y},
+  timestamp = {Tue, 20 Aug 2019 15:26:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/umuai/DeldjooDCECSIC19},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
