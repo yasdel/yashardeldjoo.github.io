@@ -10,7 +10,7 @@ author_profile: true
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/UMUAI19.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Towards Effective Device-Aware Federated Learning</a> 
+Towards Effective Device-Aware Federated Learning 
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
 [<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] 
 
@@ -23,9 +23,9 @@ Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b
 [<a href="https://arxiv.org/pdf/1908.07968.pdf" style="color: #B509AC">Preprint</a>] 
 
 
-Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features 
+<a href="http://ceur-ws.org/Vol-2450/short4.pdf" style="color: #B509AC"> Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proceedings of 13th ACM RecSys Workshop on Interfaces and Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
-[<a href="https://arxiv.org/pdf/1908.11055.pdf" style="color: #B509AC">Preprint</a>] 
+[<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/IntRS19.bib" style="color: #B509AC">bibtex</a>]
 
 
 <a href="" style="color: #B509AC">Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset</a> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
