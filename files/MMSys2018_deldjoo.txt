@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/mmsys/DeldjooCISC18,
+  author    = {Yashar Deldjoo and
+               Mihai Gabriel Constantin and
+               Bogdan Ionescu and
+               Markus Schedl and
+               Paolo Cremonesi},
+  title     = {{MMTF-14K:} a multifaceted movie trailer feature dataset for recommendation
+               and retrieval},
+  booktitle = {Proceedings of the 9th {ACM} Multimedia Systems Conference, MMSys
+               2018, Amsterdam, The Netherlands, June 12-15, 2018},
+  pages     = {450--455},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3204949.3208141},
+  doi       = {10.1145/3204949.3208141},
+  timestamp = {Sat, 24 Nov 2018 11:59:50 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/mmsys/DeldjooCISC18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
