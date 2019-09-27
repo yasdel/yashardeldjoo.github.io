@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/recsys/DeldjooSHK18,
+  author    = {Yashar Deldjoo and
+               Markus Schedl and
+               Bal{\'{a}}zs Hidasi and
+               Peter Knees},
+  title     = {Multimedia recommender systems},
+  booktitle = {Proceedings of the 12th {ACM} Conference on Recommender Systems, RecSys
+               2018, Vancouver, BC, Canada, October 2-7, 2018},
+  pages     = {537--538},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3240323.3241620},
+  doi       = {10.1145/3240323.3241620},
+  timestamp = {Sat, 24 Nov 2018 11:59:53 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/recsys/DeldjooSHK18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

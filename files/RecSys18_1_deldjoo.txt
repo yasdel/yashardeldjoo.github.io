@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/recsys/DeldjooCEISC18,
+  author    = {Yashar Deldjoo and
+               Mihai Gabriel Constantin and
+               Hamid Eghbal{-}Zadeh and
+               Bogdan Ionescu and
+               Markus Schedl and
+               Paolo Cremonesi},
+  title     = {Audio-visual encoding of multimedia content for enhancing movie recommendations},
+  booktitle = {Proceedings of the 12th {ACM} Conference on Recommender Systems, RecSys
+               2018, Vancouver, BC, Canada, October 2-7, 2018},
+  pages     = {455--459},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3240323.3240407},
+  doi       = {10.1145/3240323.3240407},
+  timestamp = {Sat, 24 Nov 2018 11:59:53 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/recsys/DeldjooCEISC18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
