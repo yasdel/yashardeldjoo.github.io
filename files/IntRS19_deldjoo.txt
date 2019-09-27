@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/recsys/CostanzoDDSC19,
+  author    = {Luca Luciano Costanzo and
+               Yashar Deldjoo and
+               Maurizio Ferrari Dacrema and
+               Markus Schedl and
+               Paolo Cremonesi},
+  title     = {Towards Evaluating User Profiling Methods Based on Explicit Ratings
+               on Item Features},
+  booktitle = {Proceedings of the 6th Joint Workshop on Interfaces and Human Decision
+               Making for Recommender Systems co-located with 13th {ACM} Conference
+               on Recommender Systems(RecSys 2019), Copenhagen, Denmark, September
+               19, 2019.},
+  pages     = {72--76},
+  year      = {2019},
+  url       = {http://ceur-ws.org/Vol-2450/short4.pdf},
+  timestamp = {Thu, 26 Sep 2019 16:44:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/recsys/CostanzoDDSC19},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
