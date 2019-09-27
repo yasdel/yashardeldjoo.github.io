@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/mediaeval/DeldjooCDIS18,
+  author    = {Yashar Deldjoo and
+               Mihai Gabriel Constantin and
+               Athanasios Dritsas and
+               Bogdan Ionescu and
+               Markus Schedl},
+  title     = {The MediaEval 2018 Movie Recommendation Task: Recommending Movies
+               Using Content},
+  booktitle = {Working Notes Proceedings of the MediaEval 2018 Workshop, Sophia Antipolis,
+               France, 29-31 October 2018.},
+  year      = {2018},
+  url       = {http://ceur-ws.org/Vol-2283/MediaEval\_18\_paper\_9.pdf},
+  timestamp = {Tue, 28 May 2019 16:23:29 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/mediaeval/DeldjooCDIS18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
