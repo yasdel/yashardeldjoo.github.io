@@ -41,12 +41,15 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 <h1 class="year">2018</h1>
 
 
-<a href="https://yasdel.github.io/publication/TKDE18" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>  <br> 
+<a href="https://doi.org/10.1109/TKDE.2018.2871031" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018 </i>  <br> 
 [<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/MMIR18_2" style="color: #B509AC">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br> Springer Journal of Multimedia Information Retrieval, 2018 </i>
+<a href="https://doi.org/10.1007/s13735-018-0155-1" style="color: #B509AC">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
+[<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/MMIR18_1" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br> Springer Journal of Multimedia Information Retrieval, 2018 </i>
+<a href="https://doi.org/10.1007/s13735-018-0154-2" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i>
+ <br> 
+[<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]
 
 <a href="https://yasdel.github.io/publication/RecSys18_1" style="color: #B509AC">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems 2018 </i><b>(RecSys 2018)</b>
 
