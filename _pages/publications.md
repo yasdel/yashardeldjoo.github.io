@@ -40,7 +40,7 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 <h1 class="year">2018</h1>
 
-<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i> <br>  <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a> <font style="color: #B509AC">     **<b>Highlight</b>**</font><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i> <br>  
 [<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Google PATENT</a>] [<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US214324819&tab=NATIONALBIBLIO&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=ALLNAMES%3A%28politecnico+di+milano%29&recNum=7&maxRec=469" style="color: #B509AC">PATENT Scope</a>] <a href="http://yasdel.github.io/files/Patent18_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 
