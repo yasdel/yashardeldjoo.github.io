@@ -61,11 +61,11 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 
 
-<a href="http://ceur-ws.org/Vol-2283/MediaEval_18_paper_9.pdf" style="color: #B509AC">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br>In Working Notes Proceedings of the MediaEval 2018 Workshop, 2018 (MediaEval'18 overview paper) </i><br> [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
+<a href="http://ceur-ws.org/Vol-2283/MediaEval_18_paper_9.pdf" style="color: #B509AC">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br><i>In Working Notes Proceedings of the MediaEval 2018 Workshop, 2018 (MediaEval'18 overview paper) </i><br> [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
 
 <a href="http://ceur-ws.org/Vol-2283/MediaEval_18_paper_53.pdf" style="color: #B509AC">Movie Rating Prediction using Multimedia Content and Modeling as a Classification Problem</a><br> Fatemeh Nazary, <b>Yashar Deldjoo</b><br><i>In Working Notes Proceedings of the MediaEval 2018 Workshop, 2018 (MediaEval'18 working note) </i> <br> [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
 
-<a href="https://yasdel.github.io/publication/IIR18" style="color: #B509AC">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br> <i>Proceedings of the 9th Italian Information Retrieval Workshop </i><b>(IIR 2018)</b>
+<a href="http://ceur-ws.org/Vol-2140/paper15.pdf" style="color: #B509AC">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br> <i>In Proceedings of the 9th Italian Information Retrieval Workshop, 2018 (IIR'18)</i> <br> [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
 
 <h1 class="year">2017</h1>
 
