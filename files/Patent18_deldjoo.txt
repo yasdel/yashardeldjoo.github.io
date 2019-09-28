@@ -1,0 +1,8 @@
+@misc{cremonesi2018enhanced,
+  title={Enhanced content-based multimedia recommendation method},
+  author={Cremonesi, Paolo and Elahi, Mehdi and Deldjoo, Yashar},
+  year={2018},
+  month=mar # "~29",
+  publisher={Google Patents},
+  note={US Patent App. 15/277,490}
+}

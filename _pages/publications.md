@@ -30,24 +30,24 @@ Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b
 Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
 [<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] 
 
-Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>The 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] [<a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC"> Certificate</a>]
 
 
-Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>The 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) </i> <br>
+Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] 
 
 
 <h1 class="year">2018</h1>
 
+<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i>
+[<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Google PATENT</a>] [<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US214324819&tab=NATIONALBIBLIO&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=ALLNAMES%3A%28politecnico+di+milano%29&recNum=7&maxRec=469" style="color: #B509AC">PATENT Scope</a>] <a href="http://yasdel.github.io/files/Patent18_deldjoo.txt" style="color: #B509AC">bibtex</a>]
+
 
 <a href="https://doi.org/10.1109/TKDE.2018.2871031" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering, 2018  (TKDE)</i>  <br> 
 [<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/Patent_2018" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US-Patent 2018)</i>
-
-<a href="https://doi.org/10.1007/s13735-018-0154-2" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i>
- <br> 
+<a href="https://doi.org/10.1007/s13735-018-0154-2" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
 [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 <a href="https://doi.org/10.1007/s13735-018-0155-1" style="color: #B509AC">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi<br> <i> International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
@@ -62,9 +62,9 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 
 
-<a href="https://yasdel.github.io/publication/MediaEval18" style="color: #B509AC">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br><i>MediaEval 2018 Workshop (MediaEval 2018 overview)</i><br> [<a href="http://yasdel.github.io/files/MediaEval18_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
+<a href="http://ceur-ws.org/Vol-2283/MediaEval_18_paper_9.pdf" style="color: #B509AC">The MediaEval 2018 Movie Recommendation Task: Recommending Movies Using Content</a><br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Athanasios Dritsas, Bogdan Ionescu, Markus Schedl<br>In Working Notes Proceedings of the MediaEval 2018 Workshop, 2018 (MediaEval'18 overview paper) </i><br> [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
 
-<a href="https://yasdel.github.io/publication/MediaEval18_WorkingNote" style="color: #B509AC">Movie Rating Prediction using Multimedia Content and Modeling as a Classification Problem</a><br> Fatemeh Nazary, <b>Yashar Deldjoo</b><br><i>MediaEval 2018 Workshop </i><b>(MediaEval 2018 working note)</b>
+<a href="http://ceur-ws.org/Vol-2283/MediaEval_18_paper_53.pdf" style="color: #B509AC">Movie Rating Prediction using Multimedia Content and Modeling as a Classification Problem</a><br> Fatemeh Nazary, <b>Yashar Deldjoo</b><br><i>In Working Notes Proceedings of the MediaEval 2018 Workshop, 2018 (MediaEval'18 working note) </i> <br> [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MediaEval18_workingnote_deldjoo.txt" style="color: #B509AC">bibtex</a>] 
 
 <a href="https://yasdel.github.io/publication/IIR18" style="color: #B509AC">Content-Based Multimedia Recommendation Systems: Definition and Application Domains</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br> <i>Proceedings of the 9th Italian Information Retrieval Workshop </i><b>(IIR 2018)</b>
 
