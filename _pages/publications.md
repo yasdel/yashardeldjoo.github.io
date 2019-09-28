@@ -69,9 +69,9 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 <h1 class="year">2017</h1>
 
-<a href="https://yasdel.github.io/publication/RecSys17_1" style="color: #B509AC">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+<a href="https://doi.org/10.1145/3109859.3109908" style="color: #B509AC">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems, 2017 (RecSys'17)</i> <br> [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/RecSys17_WS2" style="color: #B509AC">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+<a href="https://doi.org/10.1145/3109859.3109954" style="color: #B509AC">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
 
 
 
