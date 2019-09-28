@@ -1,0 +1,8 @@
+@inproceedings{knees2019recsys,
+  title={RecSys challenge 2019: session-based hotel recommendations},
+  author={Knees, Peter and Deldjoo, Yashar and Moghaddam, Farshad Bakhshandegan and Adamczak, Jens and Leyson, Gerard-Paul and Monreal, Philipp},
+  booktitle={Proceedings of the 13th ACM Conference on Recommender Systems},
+  pages={570--571},
+  year={2019},
+  organization={ACM}
+}

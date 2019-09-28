@@ -27,6 +27,10 @@ Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proc. of 13th ACM RecSys Workshop on Interfaces & Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
 [<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IntRS19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
+<a href="https://doi.org/10.1145/3298689.3346974" style="color: #B509AC"> RecSys challenge 2019: session-based hotel recommendations </a>
+<br>Peter Kness, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Jens Adamczak, Gerard-Paul Leyson, and Philipp Monreal <br><i>In Proceedings of the 13th ACM Conference on Recommender Systems, 2019 (RecSys'19) </i> <br>
+[<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]
+
 Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
 [<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] 
 
