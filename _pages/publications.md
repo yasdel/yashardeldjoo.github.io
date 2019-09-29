@@ -75,11 +75,11 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 <a href="https://doi.org/10.1145/3109859.3109908" style="color: #B509AC">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> Proceedings of 11th ACM Conference of Recommender Systems, 2017 (RecSys'17)</i> <br> [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
-<a href="https://doi.org/10.1145/3109859.3109954" style="color: #B509AC">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems 2017 </i><b>(RecSys 2017)</b>
+<a href="https://doi.org/10.1145/3109859.3109954" style="color: #B509AC">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> Proceedings of 11th ACM Conference of Recommender Systems ,2017 </i>(RecSys'17)<br> [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 
 
-<a href="https://yasdel.github.io/publication/CBMI17" style="color: #B509AC">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing </i><b>(CBMI 2017)</b>.
+<a href="https://doi.org/10.1145/3095713.3095734" style="color: #B509AC">The Effect of Different Video Summarization Models on the Quality of Video Recommendation based <br> on Low-level Visual Features</a><br><b>Yashar Deldjoo</b>, Paolo Cremonesi, Markus Schedl, Massimo Quadrana <br><i> 15th ACM Workshop on Content-Based Multimedia Indexing, 2017  (CBMI'17)</i> <br> [<a href="http://yasdel.github.io/files/CBMI17_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
 <a href="https://yasdel.github.io/publication/RecSys17_WS1" style="color: #B509AC">Enhancing Children’s Experience with Recommendation Systems</a><br><b>Yashar Deldjoo</b>, Cristina Fra, Massimo Valla, Antonio Paladini, Davide Anghileri, Mustafa A. Tuncel, Franca Garzotto, Paolo Cremonesi <br><i> Workshop on Children and Recommender Systems </i><b>(KidRec@RecSys 2017)</b>
 
