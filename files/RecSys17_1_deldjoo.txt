@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/recsys/ElahiDMCCC17,
+  author    = {Mehdi Elahi and
+               Yashar Deldjoo and
+               Farshad Bakhshandegan Moghaddam and
+               Leonardo Cella and
+               Stefano Cereda and
+               Paolo Cremonesi},
+  title     = {Exploring the Semantic Gap for Movie Recommendations},
+  booktitle = {Proceedings of the Eleventh {ACM} Conference on Recommender Systems,
+               RecSys 2017, Como, Italy, August 27-31, 2017},
+  pages     = {326--330},
+  year      = {2017},
+  url       = {https://doi.org/10.1145/3109859.3109908},
+  doi       = {10.1145/3109859.3109908},
+  timestamp = {Mon, 16 Sep 2019 15:32:11 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/recsys/ElahiDMCCC17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
