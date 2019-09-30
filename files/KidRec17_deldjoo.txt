@@ -1,0 +1,7 @@
+@inproceedings{deldjoo2017enhancing,
+  title={Enhancing children’s experience with recommendation systems},
+  author={Deldjoo, Yashar and Fr{\`a}, Cristina and Valla, Massimo and Paladini, Antonio and Anghileri, Davide and Tuncil, Mustafa Anil and Garzotta, Franca and Cremonesi, Paolo and others},
+  booktitle={Workshop on Children and Recommender Systems (KidRec'17)-11th ACM Conference of Recommender Systems},
+  pages={N--A},
+  year={2017}
+}

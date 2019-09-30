@@ -1,0 +1,16 @@
+@inproceedings{DBLP:conf/iir/DeldjooFVC17,
+  author    = {Yashar Deldjoo and
+               Cristina Fr{\`{a}} and
+               Massimo Valla and
+               Paolo Cremonesi},
+  title     = {Letting Users Assist What to Watch: An Interactive Query-by-Example
+               Movie Recommendation System},
+  booktitle = {Proceedings of the 8th Italian Information Retrieval Workshop, Lugano,
+               Switzerland, June 05-07, 2017.},
+  pages     = {63--66},
+  year      = {2017},
+  url       = {http://ceur-ws.org/Vol-1911/10.pdf},
+  timestamp = {Tue, 28 May 2019 16:23:20 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iir/DeldjooFVC17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
