@@ -6,40 +6,50 @@ author_profile: true
 ---
 <h1 class="year">2019</h1>
 
-<a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+
+<ul style="list-style-type:square;">
+  <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
-[<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
-
-Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+[<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
+  <li>Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
-[<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] 
-
-<a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+[<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] </li>
+  <li><a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
-[<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
-
-
-Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
-[<a href="https://arxiv.org/pdf/1908.07968.pdf" style="color: #B509AC">Preprint</a>] 
-
-
-<a href="http://ceur-ws.org/Vol-2450/short4.pdf" style="color: #B509AC"> Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
+[<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
+<li>Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
+[<a href="https://arxiv.org/pdf/1908.07968.pdf" style="color: #B509AC">Preprint</a>] </li>
+<li><a href="http://ceur-ws.org/Vol-2450/short4.pdf" style="color: #B509AC"> Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proc. of 13th ACM RecSys Workshop on Interfaces & Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
-[<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IntRS19_deldjoo.txt" style="color: #B509AC">bibtex</a>]
-
+[<a href="http://yasdel.github.io/files/IntRS19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IntRS19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
+<li> 
 <a href="https://doi.org/10.1145/3298689.3346974" style="color: #B509AC"> RecSys challenge 2019: session-based hotel recommendations </a>
 <br>Peter Kness, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Jens Adamczak, Gerard-Paul Leyson, and Philipp Monreal <br><i>In Proceedings of the 13th ACM Conference on Recommender Systems, 2019 (RecSys'19) </i> <br>
-[<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]
-
+[<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
+<li> 
 Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
-[<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] 
+[<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] </li>
+<li> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] [<a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC"> Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]</li>
 
-Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
-[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] [<a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC"> Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]
+<li> Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] </li> 
 
 
-Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
-[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] 
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h1 class="year">2018</h1>
