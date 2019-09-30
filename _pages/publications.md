@@ -98,7 +98,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 [<a href="http://yasdel.github.io/files/JoDS16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/JoDS16_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="https://yasdel.github.io/publication/JoEC16" style="color: #B509AC">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing, 2016 </i><br>
-[<a href="http://yasdel.github.io/files/JentCom16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<li> <a href="http://yasdel.github.io/files/JentCom16_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+[<a href="http://yasdel.github.io/files/JentCom16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/JentCom16_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
 
