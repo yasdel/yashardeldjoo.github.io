@@ -1,0 +1,6 @@
+@inproceedings{schedl2017recsys,
+  title={Recsys challenge 2018: Automatic playlist continuation},
+  author={Schedl, Markus and Zamani, Hamed and Chen, Ching-Wei and Deldjoo, Yashar and Elahi, Mehdi},
+  booktitle = {In Late-Breaking/Demos Proc. 18th Int. Soc. Music Information Retrieval Conf. 2017.},
+  year      = {2017}
+}
