@@ -117,28 +117,3 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 </i><b> (CHI Extended Abstracts 2016)</b>  <br> 
 [<li> <a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<h2>Collaborators (co-authors)</h2>
-I have had the pleasure to work with several great researchers around the world:
-
-<ul>
-  <li>Tommaso di Nioa - Politecnico di Bari, Italy (Postdoctoral period advisor)
-  <li>Paolo Cremonesi - Politecnico di Milano, Italy (PhD advisor)
-  <li>Markus Schedl   -  JKU Linz, Austria (PhD visiting period co-advisor)
-  <li>Gabriella Pasi  - University of Milano-Bicocca, Italy
-  <li>Hamed Zamani  - University of Mass Amherst, USA
-  <li>Mehdi Elahi     - University of Bozen-Bolzano, Italy
-  <li>Massimo Quadrano - Politecnico di Milano, Italy
-  <li>Ching-Wei Chen  - Spotify, USA
-  <li>Vahid Jalili  - George Washington University, USA
-  <li>Matteo Matteucci - Politecnico di Milano, Italy
-  <li>Stefano Ceri  - Politecnico di Milano, Italy
-  <li>Daniel Kohlsdorf - Xing, Germany
-  <li>Franca Garzotto - Politecnico di Milano, Italy
-  <li>Pietro Piazzolla - Politecnico di Milano, Italy
-  <li>Cristina Frà     - Joint Open Lab, Telecom Italia Milano, Italy
-  <li>Massimo Valla    - Joint Open Lab, Telecom Italia Milano, Italy
-  <li>Shengping Zhang  - Harbin Institute of Technology, China
-  <li>Stefano Cereda   - Politecnico di Milano, Italy
-  <li>Leonardo Cella   - University of Degli Studi Milano, Italy
-
-<ul>
