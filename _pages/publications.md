@@ -117,6 +117,6 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 <li> <a href="https://yasdel.github.io/publication/CHI16" style="color: #B509AC">Recommending Movies Based on Mise-en-Scene Design</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla <i> <br> Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 </i><b> (CHI Extended Abstracts 2016)</b>  <br> 
-[<li> <a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
+<li> <a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
 </ul>
