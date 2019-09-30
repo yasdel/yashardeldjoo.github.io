@@ -7,7 +7,7 @@ author_profile: true
 <h1 class="year">2019</h1>
 
 
-<ul style="list-style-type:square;">
+<ul style="list-style-type:circle;">
   <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
@@ -41,7 +41,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 <h1 class="year">2018</h1>
 
-<ul style="list-style-type:square;">
+<ul style="list-style-type:circle;">
 
 <li> <a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a> <font style="color: #B509AC">     **<b>Highlight</b>**</font><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i> <br> [<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Google PATENT</a>] [<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US214324819&tab=NATIONALBIBLIO&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=ALLNAMES%3A%28politecnico+di+milano%29&recNum=7&maxRec=469" style="color: #B509AC">PATENT Scope</a>] [<a href="http://yasdel.github.io/files/Patent18_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
@@ -74,7 +74,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 </ul>
 
 <h1 class="year">2017</h1>
-<ul style="list-style-type:square;">
+<ul style="list-style-type:circle;">
 <li> <a href="https://doi.org/10.1145/3109859.3109908" style="color: #B509AC">Exploring the Semantic Gap for Movie Recommendations</a><br>Mehdi Elahi, <b>Yashar Deldjoo</b>, Farshad B. Moghaddam, Leonardo Cella, Stefano Cereda, Paolo Cremonesi<br><i> In Proceedings of 11th ACM Conference of Recommender Systems, 2017 (RecSys'17)</i> <br> [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys17_1_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="https://doi.org/10.1145/3109859.3109954" style="color: #B509AC">Recsys Challenge 2017: Offline and Online Evaluation</a><br>Fabian Abel, <b>Yashar Deldjoo</b>, Mehdi Elahi, Daniel Kohlsdorf<br><i> In Proceedings of 11th ACM Conference of Recommender Systems ,2017 </i>(RecSys'17)<br> [<a href="http://yasdel.github.io/files/RecSys17_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_17_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
@@ -92,7 +92,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 </ul>
 
 <h1 class="year">2016</h1>
-<ul style="list-style-type:square;">
+<ul style="list-style-type:circle;">
 
 <li> <a href="https://link.springer.com/article/10.1007/s13740-016-0060-9" style="color: #B509AC">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics, 2016 </i> <br>
 [<a href="http://yasdel.github.io/files/JoDS16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/JoDS16_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
@@ -107,7 +107,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 <h2 class="year">2015</h2>
 
-<ul style="list-style-type:square;">
+<ul style="list-style-type:circle;">
 
 <li> <a href="https://yasdel.github.io/publication/ChiItaly15" style="color: #B509AC">Toward Effective Movie Recommendations Based on Mise-en-scene Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th ACM Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>. </li>
 
