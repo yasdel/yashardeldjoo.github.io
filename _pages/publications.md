@@ -90,9 +90,12 @@ Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content
 
 <h1 class="year">2016</h1>
 
-<a href="https://yasdel.github.io/publication/JoDS16" style="color: #B509AC">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics, 2016 </i>
+<a href="https://link.springer.com/article/10.1007/s13740-016-0060-9" style="color: #B509AC">Content-based Video Recommendation System based on Stylistic Visual Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi, Franca Garzotto, Pietro Piazzolla, Massimo Quadrana <br> <i> Springer Journal on Data Semantics, 2016 </i> <br>
+[<a href="http://yasdel.github.io/files/JoDS16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/JoDS16_deldjoo.txt" style="color: #B509AC">bibtex</a>]
 
-<a href="https://yasdel.github.io/publication/JoEC16" style="color: #B509AC">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing, 2016 </i>
+<a href="https://yasdel.github.io/publication/JoEC16" style="color: #B509AC">A Low-cost Infrared-optical Head Tracking Solution for Virtual 3D Audio Environment using the Nintendo Wii-Remote</a><br><b>Yashar Deldjoo</b>, Reza Ebrahimi Atani <br><i> Elsevier Journal on Entertainment Computing, 2016 </i><br>
+[<a href="http://yasdel.github.io/files/JentCom16_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/JentCom16_deldjoo.txt" style="color: #B509AC">bibtex</a>]
+
 
 
 <a href="https://yasdel.github.io/publication/ECWeb16" style="color: #B509AC">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.

@@ -1,0 +1,10 @@
+@article{deldjoo2016content,
+  title={Content-based video recommendation system based on stylistic visual features},
+  author={Deldjoo, Yashar and Elahi, Mehdi and Cremonesi, Paolo and Garzotto, Franca and Piazzolla, Pietro and Quadrana, Massimo},
+  journal={Journal on Data Semantics},
+  volume={5},
+  number={2},
+  pages={99--113},
+  year={2016},
+  publisher={Springer}
+}
