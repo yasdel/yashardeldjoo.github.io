@@ -111,7 +111,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 <li> <a href="https://yasdel.github.io/publication/ChiItaly15" style="color: #B509AC">Toward Effective Movie Recommendations Based on Mise-en-scene Film Styles</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi, Franca Garzotto <br><i> Proceedings of the 11th ACM Biannual Conference on Italian SIGCHI Chapter 2015 </i><b>(CHItaly 2015)</b>. </li>
 
-<li> <a href="https://yasdel.github.io/publication/ECWeb15" style="color: #B509AC">Toward Building a Content-Based Video Recommendation System Based on Low-Level Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <br><i> International Conference on Electronic Commerce and Web Technologie 2015 </i><b>(EC-Web 2015)</b></li> </li>
+<li> <a href="https://yasdel.github.io/publication/ECWeb15" style="color: #B509AC">Toward Building a Content-Based Video Recommendation System Based on Low-Level Features</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi <br><i> International Conference on Electronic Commerce and Web Technologie 2015 </i><b>(EC-Web 2015)</b></li> 
 
 <li> <a href="https://yasdel.github.io/publication/RecSys16_WS1" style="color: #B509AC">Using Visual Features and Latent Factors for Movie Recommendation</a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Paolo Cremonesi<br><i> Workshop on New Trends in Content-based Recommender Systems</i><b> (CBRecSys@RecSys 2016)</b></li>
 
