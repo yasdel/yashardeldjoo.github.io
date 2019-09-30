@@ -89,6 +89,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 <li> <a href="https://drive.google.com/file/d/0BwDuTuc57K1EN2ZBNExLaHFXZlE/view" style="color: #B509AC">Recsys Challenge 2018: Automatic Playlist Continuation</a><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <br><i> In In Late-Breaking/Demos Proc. of the 18th International Society for Music Information Retrieval Conference, 2017 (ISMIR LBD 2017)</i> <br>
 [<a href="http://yasdel.github.io/files/ISMIRLBD17_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/ISMIRLBD17_deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+</ul>
 
 <h1 class="year">2016</h1>
 <ul style="list-style-type:square;">
@@ -102,6 +103,7 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 
 
 <li> <a href="https://yasdel.github.io/publication/ECWeb16" style="color: #B509AC">How to Combine Visual Features with Tags to Improve Movie Recommendation Accuracy?</a><br><b>Yashar Deldjoo</b>,  Mehdi Elahi, Paolo Cremonesi, Farshad B. Moghaddam, Andrea Luigi Edoardo Caielli <br><i> International Conference on Electronic Commerce and Web Technologie 2016 </i><b>(EC-Web 2016)</b>.</li>
+</ul>
 
 <h2 class="year">2015</h2>
 
@@ -117,3 +119,4 @@ Enhancing Video Recommendation using Multimedia Content<br><b>Yashar Deldjoo</b>
 </i><b> (CHI Extended Abstracts 2016)</b>  <br> 
 [<li> <a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
+</ul>
