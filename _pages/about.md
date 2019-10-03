@@ -15,7 +15,7 @@ redirect_from:
 <p align="center">
  <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 70%;"/>
 </p>
-<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, with the lead of research group done by <a href="http://sisinflab.poliba.it/dinoia/" style="color: #B509AC">Prof. Tommaso di Nioa</a>. 
+<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, with the lead of research group done by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Nioa</a>. 
 
 Prior to that, I was a postDoctoral Researcher at SisInf Lab, <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> and a research collaborator at <a href="http://www.ir.disco.unimib.it/" target="\_blank" style="color: #B509AC">IR Lab-University of Milano Bicocca</a>, Italy overall for a period of 1.5 year. My main areas of research span a range of topics focusing largely on recommender systems. <br> <br>
 
