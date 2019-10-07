@@ -13,7 +13,7 @@ redirect_from:
 </header>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 70%;"/>
+ <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 50%;"/>
 </p>
 <p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, with the lead of research group done by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Nioa</a>. 
 
