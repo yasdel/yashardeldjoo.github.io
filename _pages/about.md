@@ -12,9 +12,6 @@ redirect_from:
 <h1 class="post-title">About me</h1>
 </header>
 
-<p align="left">
- <img src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" alt="Photo" style=" width: 30%;"/>
-</p>
 <div class="profile col one center">
 <img class="one" src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg">
 </div>
