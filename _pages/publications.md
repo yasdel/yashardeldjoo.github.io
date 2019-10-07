@@ -17,7 +17,8 @@ author_profile: true
   <li><a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
 [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
-<li>Assessing the Impact of a User-Item Collaborative Attack on Class of Users<br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
+
+<li><a href="http://ceur-ws.org/Vol-2462/paper2.pdf" style="color: #B509AC">Assessing the Impact of a User-Item Collaborative Attack on Class of Users </a>  <br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of 13th ACM RecSys Workshop on Impact of Recommender Systems, 2019 (ImpactRS@RecSys'19) </i> <br>
 [<a href="https://arxiv.org/pdf/1908.07968.pdf" style="color: #B509AC">Preprint</a>] </li>
 <li><a href="http://ceur-ws.org/Vol-2450/short4.pdf" style="color: #B509AC"> Towards Evaluating User Profiling Methods Based on Explicit Ratings on Item Features </a>
 <br>Luca L. Costanzo, <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Markus Schedl, Paolo Cremonesi <br><i>In Proc. of 13th ACM RecSys Workshop on Interfaces & Human Decision Making for Recommender Systems, 2019 (IntRS@RecSys'19) </i> <br>
