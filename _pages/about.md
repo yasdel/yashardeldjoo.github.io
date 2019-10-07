@@ -13,7 +13,7 @@ redirect_from:
 </header>
 
 <div class="profile col one center">
-<img class="one" src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg" style=" width: 60%";>
+<img class="one" src="https://raw.githubusercontent.com/yasdel/yasdel.github.io/master/images/yashar1.jpg";>
 </div>
 
 
