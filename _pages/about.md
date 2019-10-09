@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://yasdel.github.io/master/yashar1.jpg?raw=true" alt="Photo" style="width: 70%"> 
+  <img src="https://yasdel.github.io/master/yashar1.jpg?raw=true" style="width: 450px;"> 
 </p>
 
 
