@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<h1 class="year">2020</h1>
+
+<ul style="list-style-type:circle;">
+<li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
+<b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
+[<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Preprint</a>] </li>
+</ul>
+
+
 <h1 class="year">2019</h1>
 
 
@@ -28,9 +38,6 @@ author_profile: true
 <br>Peter Kness, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Jens Adamczak, Gerard-Paul Leyson, and Philipp Monreal <br><i>In Proceedings of the 13th ACM Conference on Recommender Systems, 2019 (RecSys'19) </i> <br>
 [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
-<b>Yashar Deldjoo</b><br><i>Springer Books, DOI: 10.1007/978-3-030-32094-2_6 </i> <br>
-[<a href="http://yasdel.github.io/files/springerbook19_deldjoo.pdf" style="color: #B509AC">Preprint</a>] </li>
 <li> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] [<a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC"> Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]</li>
 
