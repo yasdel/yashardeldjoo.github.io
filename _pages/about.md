@@ -37,7 +37,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia Recommender Systems</li>
   <li> Fairness of Recommender Systems</li>
-  <li> Machine Learning (Advarsarial Learning, Federated Learning) </li>
+  <li> Advanced Machine Learning (Advarsarial Learning, Federated Learning) </li>
 </ul>
 
 <h3>Academic Services</h3>
