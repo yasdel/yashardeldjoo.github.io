@@ -23,7 +23,7 @@ I graduated in Electrical Engineering from <a href="https://www.chalmers.se/en/P
 In addition, I studied English Linguistics at <a href="https://www.gu.se/english" target="\_blank" style="color: #B509AC"> University of Gothenburg (GU)</a>, which lead to a Bachelor's degree in Art. <br> <br>
 
 
-I have (co-)authored different refereed articles at internationally recognized conferences and peer-reviewed journals among others published in Journal of UMUAI, IEEE TKDE, Journal of Data Semantics, ACM RecSys, ACM MMSys, ACM CHI in addition to a 2018 US Patent. I have served as a PC member or reviewer for different top-tier conferences and journals. I have been involved in organization of the ACM RecSys Challenges 2019 (hosted by <a href="http://www.recsyschallenge.com/2019/">Trivago</a>) and ACM RecSys Challenges 2017 (hosted by <a href="http://www.recsyschallenge.com/2017/">Xing</a>) as part of the <a href="https://recsys.acm.org">ACM Conference on Recommender Systems</a> as well as MediaEval Benchmarking Initiative for Multimedia Evaluation with the focus on leveraging multimedia content for enhancing recommendation of different products (media or non-media items). To know more about my research activities, see my <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page</a>.</p>
+I have (co-)authored different refereed articles at internationally recognized conferences and peer-reviewed journals among others published in Journal of UMUAI, IEEE TKDE, Journal of Data Semantics, ACM RecSys, ACM MMSys, ACM CHI in addition to a 2018 US Patent. I have served as a PC member or reviewer for different top-tier conferences and journals. I have been involved in organization of the ACM RecSys Challenges 2019 (hosted by <a href="http://www.recsyschallenge.com/2019/" target="\_blank" style="color: #B509AC">Trivago</a>) and ACM RecSys Challenges 2017 (hosted by <a href="http://www.recsyschallenge.com/2017/" target="\_blank" style="color: #B509AC">Xing </a>) as part of the <a href="https://recsys.acm.org" target="\_blank" style="color: #B509AC">ACM Conference on Recommender Systems</a> as well as MediaEval Benchmarking Initiative for Multimedia Evaluation with the focus on leveraging multimedia content for enhancing recommendation of different products (media or non-media items). To know more about my research activities, see my <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page</a>.</p>
 
   <h3>Special Issues News</h3>
 
@@ -31,14 +31,13 @@ I have (co-)authored different refereed articles at internationally recognized c
   <li> <font color="red"><b>*New* </b></font> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank" style="color: #B509AC">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: \sout{Oct 1st, 2019} New: Nov 1st, 2019) </li>
 </ul>
 
-<h3>Research Interests</h3>
+<h3>Current Research Topics</h3>
 
 <ul>
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia Recommender Systems</li>
   <li> Fairness of Recommender Systems</li>
-  <li> Adverserial Machine learning and Shilling Attacks</li>
-  <li> Federated learning </li>
+  <li> Machine Learning (Advarsarial Learning, Federated Learning) </li>
 </ul>
 
 <h3>Academic Services</h3>
