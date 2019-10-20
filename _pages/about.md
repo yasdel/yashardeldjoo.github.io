@@ -80,7 +80,7 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">October 15, 2019</th>
-    <td class="tg-xivq">A brand-new tutorial accepted for presentation at WSDM 2020 on Adversarial Machine Learning in Recommender Systems (AML-RecSys) <a href="http://www.wsdm-conference.org/2020/call-for-tutorials.php" target="\_blank" style="color: #B509AC">WSDM 2020 Tutorial page</a>. </td>
+    <td class="tg-xivq">A brand-new tutorial accepted for presentation at WSDM 2020 on Adversarial Machine Learning in Recommender Systems (AML-RecSys)! Visit <a href="http://www.wsdm-conference.org/2020/call-for-tutorials.php" target="\_blank" style="color: #B509AC">WSDM 2020 Tutorial page</a>. </td>
   </tr>
  <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
@@ -136,7 +136,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   </tr>
   <tr>
     <td class="tg-xivq">June 16, 2018</td>
-    <td class="tg-xivq">A brand-new tutorial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank" style="color: #B509AC">RecSys 2018 Tutorial page</a>. </td>
+    <td class="tg-xivq">Our tutorial accepted for presentation at RecSys 2018 on Multimedia<br>Recommender Systems! Visit <a href="https://recsys.acm.org/recsys18/tutorials/#content-tab-1-3-tab" target="\_blank" style="color: #B509AC">RecSys 2018 Tutorial page</a>. </td>
   </tr>
   <tr>
     <td class="tg-xivq">June 7, 2018</td>
