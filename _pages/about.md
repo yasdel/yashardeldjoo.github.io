@@ -79,6 +79,10 @@ I have (co-)authored different refereed articles at internationally recognized c
 <col style="width: 648px">
 </colgroup>
  <tr>
+    <th class="tg-xivq">October 15, 2019</th>
+    <td class="tg-xivq">A brand-new tutorial accepted for presentation at WSDM 2020 on Adversarial Machine Learning in Recommender Systems (AML-RecSys) <a href="http://www.wsdm-conference.org/2020/call-for-tutorials.php" target="\_blank" style="color: #B509AC">WSDM 2020 Tutorial page</a>. </td>
+  </tr>
+ <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
     <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <font color="red"><b>*highlight*</b></font></th>
   </tr>
