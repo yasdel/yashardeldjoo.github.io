@@ -19,11 +19,11 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
   <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>  <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
-  <li>Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+  <li>Towards Effective Device-Aware Federated Learning   
 <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara accepted<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
 [<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] </li>
 
- <li><a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+ <li><a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a>   <font style="color: #B509AC">     
 <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
 [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
@@ -48,13 +48,13 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a> <font style="color: #B509AC">     **<b>Highlight</b>**</font><br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i> <br> [<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Google PATENT</a>] [<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US214324819&tab=NATIONALBIBLIO&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=ALLNAMES%3A%28politecnico+di+milano%29&recNum=7&maxRec=469" style="color: #B509AC">PATENT Scope</a>] [<a href="http://yasdel.github.io/files/Patent18_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
+<li> <a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Enhanced content-based multimedia recommendation method</a> <br>Paolo Cremonesi, Mehdi Elahi, <b>Yashar Deldjoo</b> <br><i> US Patent US20180089513A1, (US Patent 2018)</i> <br> [<a href="https://patents.google.com/patent/US20180089513A1/en" style="color: #B509AC">Google PATENT</a>] [<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US214324819&tab=NATIONALBIBLIO&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=ALLNAMES%3A%28politecnico+di+milano%29&recNum=7&maxRec=469" style="color: #B509AC">PATENT Scope</a>] [<a href="http://yasdel.github.io/files/Patent18_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
 
 <li> <a href="https://doi.org/10.1109/TKDE.2018.2871031" style="color: #B509AC">Next Generation Indexing for Genomic Intervals </a><br> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri <i><br> IEEE Transactions on Knowledge and Data Engineering, 2018  (TKDE)</i>  <br> 
 [<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">PDF</a>] [<a href="https://github.com/yasdel/yasdel.github.io/tree/master/_publications/TKDE18.bib" style="color: #B509AC">bibtex</a>]</li>
 
-<li> <a href="https://doi.org/10.1007/s13735-018-0154-2" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a> <font style="color: #B509AC">     **<b>Highlight</b>**</font><br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
+<li> <a href="https://doi.org/10.1007/s13735-018-0154-2" style="color: #B509AC">Current Challenges and Visions in Music Recommender Systems Research</a> <br>Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi <i><br>  International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
 [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IJMIR1_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
 <li> <a href="https://doi.org/10.1007/s13735-018-0155-1" style="color: #B509AC">Using Visual Features based on MPEG-7 and Deep Learning for Movie Recommendation </a><br><b>Yashar Deldjoo</b>, Mehdi Elahi, Massimo Quadrana, Paolo Cremonesi<br> <i> International Journal of Multimedia Information Retrieval, 2018 (IJMIR) </i> <br> 
@@ -65,7 +65,7 @@ author_profile: true
 <li> <a href="https://doi.org/10.1145/3240323.3241620" style="color: #B509AC">Multimedia Recommender Systems</a><br><b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Peter Kness <br><i> Proceedings of 12th ACM Conference of Recommender Systems, 2018 (RecSys'18) </i> <br>
 [<a href="http://yasdel.github.io/files/RecSys18_2_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys18_2_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li> <a href="https://doi.org/10.1145/3204949.3208141" style="color: #B509AC">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a> <font style="color: #B509AC">     **<b>Highlight</b>**</font> <br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of the 9th ACM Multimedia Systems Conference, 2018 (MMSys'18)</i><br> [<a href="http://yasdel.github.io/files/MMSys2018_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MMSys2018_deldjoo.txt" style="color: #B509AC">bibtex</a>] [<a href="https://mmprj.github.io/mtrm_dataset/index" style="color: #B509AC">Data</a>] </li>
+<li> <a href="https://doi.org/10.1145/3204949.3208141" style="color: #B509AC">MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval</a> <br><b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <br><i> Proceedings of the 9th ACM Multimedia Systems Conference, 2018 (MMSys'18)</i><br> [<a href="http://yasdel.github.io/files/MMSys2018_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/MMSys2018_deldjoo.txt" style="color: #B509AC">bibtex</a>] [<a href="https://mmprj.github.io/mtrm_dataset/index" style="color: #B509AC">Data</a>] </li>
 
 
 
