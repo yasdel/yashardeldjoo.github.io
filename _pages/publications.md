@@ -38,11 +38,12 @@ author_profile: true
 <br>Peter Kness, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Jens Adamczak, Gerard-Paul Leyson, and Philipp Monreal <br><i>In Proceedings of the 13th ACM Conference on Recommender Systems, 2019 (RecSys'19) </i> <br>
 [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset <font style="color: #B509AC">     **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
-[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491831_Retrieving_Relevant_and_Diverse_Movie_Clips_Using_the_MFVCD-7K_Multifaceted_Video_Clip_Dataset/links/5d2de8b8299bf1547cbc8f22/Retrieving-Relevant-and-Diverse-Movie-Clips-Using-the-MFVCD-7K-Multifaceted-Video-Clip-Dataset.pdf" style="color: #B509AC">Preprint</a>] [<a href="http://yasdel.github.io/files/Certificate_Best_Short_Paper_Award_CBMI_2019.pdf" style="color: #B509AC"> Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]</li>
 
-<li> Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
-[<a href="https://www.researchgate.net/profile/Yashar_Deldjoo3/publication/334491696_Movie_Genome_Recommender_A_Novel_Recommender_System_Based_on_Multimedia_Content/links/5d2de99ba6fdcc2462e5ade3/Movie-Genome-Recommender-A-Novel-Recommender-System-Based-on-Multimedia-Content.pdf" style="color: #B509AC">Preprint</a>] </li> 
+<li>  <a href="https://ieeexplore.ieee.org/document/8877420" style="color: #B509AC"> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset </a> <br> <font style="color: #B509AC">  **<b>BEST PAPER AWARD</b>**</font> <br><b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+[<a href="http://yasdel.github.io/files/CBMI19_1_deldjoo_bestpaper.pdf" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC"> Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]</li>
+
+<li> <a href="https://ieeexplore.ieee.org/document/8877452" style="color: #B509AC">  Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content<br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+[<a href="http://yasdel.github.io/files/CBMI19_2_deldjoo.pdf" style="color: #B509AC">PDF</a>] </li> 
 
 
 
