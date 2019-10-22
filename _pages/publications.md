@@ -8,6 +8,9 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
+<li> <a href="" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conference on Web Search and Data Mining, 2020 (WSDM ’20) </i> <br>
+
+
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
 <b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
 [<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Book</a>] </li>
