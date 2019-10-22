@@ -18,7 +18,7 @@ author_profile: true
 
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
+  <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>   <font style="color: #B509AC">    <img src="http://yasdel.github.io/files/highlight.png" align="middle"> 
 <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> 
 [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
   <li>Towards Effective Device-Aware Federated Learning   <font style="color: #B509AC">     **<b>Highlight</b>**</font>
@@ -39,7 +39,7 @@ author_profile: true
 <br>Peter Kness, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Jens Adamczak, Gerard-Paul Leyson, and Philipp Monreal <br><i>In Proceedings of the 13th ACM Conference on Recommender Systems, 2019 (RecSys'19) </i> <br>
 [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RSC_19_overview_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li>  <a href="https://ieeexplore.ieee.org/document/8877420" height="30" style="color: #B509AC"> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset </a> <img src="http://yasdel.github.io/files/award.png" align="middle"> <b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
+<li>  <a href="https://ieeexplore.ieee.org/document/8877420" style="color: #B509AC"> Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset </a> <img src="http://yasdel.github.io/files/award.png" height="35" s align="middle"> <br> <b>Yashar Deldjoo</b>, Markus Schedl<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
 [<a href="http://yasdel.github.io/files/CBMI19_1_deldjoo_bestpaper.pdf" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC"> Best Paper Award Certificate</a>] [<a href="https://mmprj.github.io/MFVCD-7K/" style="color: #B509AC">Data</a>]</li>
 
 <li> <a href="https://ieeexplore.ieee.org/document/8877452" style="color: #B509AC">  Movie Genome Recommender: A Novel Recommender System Based on Multimedia Content </a> <br><b>Yashar Deldjoo</b>, Markus Schedl, Mehdi Elahi<br><i>In Proc. of the 17th International Conference on Content-Based Multimedia Indexing, 2019 (CBMI'19) </i> <br>
