@@ -26,7 +26,7 @@ I have (co-)authored different refereed articles at internationally recognized c
   <h3>Special Issues News</h3>
 
 <ul>
-  <li> <font color="red"><b>*New* </b></font> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank" style="color: #B509AC">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: <strike>Oct 1st, 2019</strike> Nov 1st, 2019) </li>
+  <li> <font color="red"><b>*New* </b></font> <a href="http://www.cp.jku.at/journals/ijmir_2019_cfp.html" target="\_blank" style="color: #B509AC">Special Issue</a> call for papers on <b>"Multimedia Recommendation Systems"</b> in International Journal of Multimedia Information Retrieval - Springer (Deadline: <strike>Oct 1st, 2019</strike> <strike>Nov 1st, 2019</strike> Nov 24th, 2019) </li>
 </ul>
 
 <h3>Current Research Topics</h3>
@@ -78,7 +78,7 @@ I have (co-)authored different refereed articles at internationally recognized c
 </colgroup>
  <tr>
     <th class="tg-xivq">October 15, 2019</th>
-    <td class="tg-xivq">A brand-new tutorial accepted for presentation at WSDM 2020 on Adversarial Machine Learning in Recommender Systems (AML-RecSys)! Visit <a href="http://www.wsdm-conference.org/2020/call-for-tutorials.php" target="\_blank" style="color: #B509AC">WSDM 2020 Tutorial page</a>. </td>
+    <td class="tg-xivq">A brand-new tutorial accepted for presentation at WSDM 2020 on Adversarial Machine Learning in Recommender Systems (AML-RecSys)! Visit <a href="http://www.wsdm-conference.org/2020/tutorials.php" target="\_blank" style="color: #B509AC">WSDM 2020 Tutorial page</a>. </td>
   </tr>
  <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
