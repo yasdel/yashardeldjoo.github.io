@@ -24,7 +24,8 @@ redirect_from:
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia Recommender Systems</li>
   <li> Fairness of Recommender Systems</li>
-  <li> Advanced Machine Learning (Advarsarial Learning, Federated Learning) </li>
+  <li> Advarsarial Machine Learning </li>
+  <li> Privacy-Aware Machine Learning </li>
 </ul>
 
 <h3>Academic Services</h3>
