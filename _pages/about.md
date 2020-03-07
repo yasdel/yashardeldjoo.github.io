@@ -23,7 +23,7 @@ redirect_from:
 <ul>
   <li> Recommender systems, user modelling and personalization </li>
   <li> Multimedia Recommender Systems</li>
-  <li> Fairness of Recommender Systems</li>
+  <li> Fairness in Recommender Systems</li>
   <li> Advarsarial Machine Learning </li>
   <li> Privacy-Aware Machine Learning </li>
 </ul>
