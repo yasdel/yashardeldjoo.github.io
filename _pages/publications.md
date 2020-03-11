@@ -8,7 +8,7 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-<li> <a href="http://www.wsdm-conference.org/2020/tutorials.php" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conference on Web Search and Data Mining, 2020 (WSDM ’20) </i> <br> </li>
+<li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conference on Web Search and Data Mining, 2020 (WSDM ’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
@@ -21,10 +21,10 @@ author_profile: true
 
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>  <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
+ <li><a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">Movie Genome: Alleviating New Item Cold Start in Movie Recommendation </a>  <br> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi <i><br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2019 (UMUAI) </i>  <br> [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/UMUAI19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li> 
 
-<li>Towards Effective Device-Aware Federated Learning <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
-[<a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">Preprint</a>] </li>
+<li><a href="https://doi.org/10.1007/978-3-030-35166-3_34" style="color: #B509AC"> Towards Effective Device-Aware Federated Learning  </a> <br>Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara<br><i> In Proceedings of the 18th International Conference of the Italian Association for Artificial Intelligence, 2019</i> (AIIA'19) <br> 
+[<a href="http://yasdel.github.io/files/AIIA19.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/AIIA19.txt" style="color: #B509AC">bibtex</a>]  </li>
 
  <li><a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">Recommender Systems Fairness Evaluation via Generalized Cross Entropy </a> <br><b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i>In Proceedings of 13th ACM RecSys Workshop on Recommendation in Multistakeholder Environments, 2019 (RMSE@RecSys'19) </i>  <br>
 [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RMSE19_deldjoo.txt" style="color: #B509AC">bibtex</a>]</li>

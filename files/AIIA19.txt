@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/aiia/AnelliDNF19,
+  author    = {Vito Walter Anelli and
+               Yashar Deldjoo and
+               Tommaso Di Noia and
+               Antonio Ferrara},
+  title     = {Towards Effective Device-Aware Federated Learning},
+  booktitle = {AI*IA 2019 - Advances in Artificial Intelligence - XVIIIth International
+               Conference of the Italian Association for Artificial Intelligence,
+               Rende, Italy, November 19-22, 2019, Proceedings},
+  pages     = {477--491},
+  year      = {2019},
+  crossref  = {DBLP:conf/aiia/2019},
+  url       = {https://doi.org/10.1007/978-3-030-35166-3\_34},
+  doi       = {10.1007/978-3-030-35166-3\_34},
+  timestamp = {Mon, 18 Nov 2019 16:33:48 +0100},
+  biburl    = {https://dblp.org/rec/conf/aiia/AnelliDNF19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
