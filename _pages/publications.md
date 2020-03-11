@@ -12,7 +12,7 @@ author_profile: true
 
 <li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conference on Web Search and Data Mining, 2020 (WSDM ’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
-<li> <a href="" style="color: #B509AC"> Evaluation of a Deep Learning-based image compression system for a real-world scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conference on Evolving and Adaptive Intelligent Systems, 2020 (IEAS ’20) </i> <br> [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>] </li>
+<li> <a href=""> Evaluation of a Deep Learning-based image compression system for a real-world scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conference on Evolving and Adaptive Intelligent Systems, 2020 (IEAS ’20) </i> <br> [<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
 <b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
