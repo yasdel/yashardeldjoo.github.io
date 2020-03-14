@@ -32,7 +32,7 @@ redirect_from:
 
 <ul>
   <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MOvieRec)</li>
-  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR'19, MMSys'19, ExHumWS@UMAP2019, RecSys Challenge@RecSys'17-19
+  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR'19, MMSys'19
   </li>
   <li> Journal Reviewer: ACM Computing Surveys (CSUR), Journal of User Modeling and User-Adapted Interaction (UMUAI), Elsevier Expert Systems with Applications, IEEE Access </li>
 </ul>
