@@ -32,7 +32,7 @@ redirect_from:
 
 <ul>
   <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MOvieRec)</li>
-  <li> PC Member: RecSys 2019, ACM Multimedia 2019, UMAP 2019, ECIR 2019, MMSys 2019, ExHumWS@UMAP2019, RecSys Challenge WS 2017, 2018, 2019
+  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR 2019, MMSys'19, ExHumWS@UMAP2019, RecSys Challenge WS 2017, 2018, 2019
   </li>
   <li> Reviewer: SIGIR, CIKM, AAAI, ACM MM, RECSYS, ECML-PKDD, ECIR, IDC, IPMU </li>
 </ul>
