@@ -40,13 +40,13 @@ redirect_from:
 <h3>Selected Publications</h3>
 
 <ul>
+   <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
+   <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"Adversarial Machine learning in Recommender Systems (AML-RecSys)"</a>, Tutorial@WSDM 2020.  </li>
+   <li> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs"</a>, ESWC 2020.  </li>
   <li> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
   <li> <b>Yashar Deldjoo</b>, Yashar Deldjoo, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
   <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
- <li> Vahid Jalili, Matteo Matteucci, Jeremy Goecks, <b>Yashar Deldjoo</b>, Stefano Ceri.<a href="http://yasdel.github.io/files/Di4TKDE.pdf" style="color: #B509AC">"Next Generation Indexing for Genomic Intervals"</a>, TKDE 2018. </li>
   <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
-  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="http://yasdel.github.io/files/MMSys2018_deldjoo.pdf" style="color: #B509AC">"MMTF-14K: A Multifaceted Movie Trailer Feature Dataset for Recommendation and Retrieval"</a>, MMSyS 2018. </li>
-  <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi.<a href="http://ceur-ws.org/Vol-2140/paper15.pdf" style="color: #B509AC">"Content-Based Multimedia Recommendation Systems: Definition and Application Domains"</a>, IIR 2018. </li>
 </ul>
 
 
@@ -80,7 +80,7 @@ redirect_from:
   </tr>
  <tr>
     <th class="tg-xivq">Sep 5, 2019</th>
-    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! <font color="red"><b>*highlight*</b></font></th>
+    <th class="tg-xivq"> Best <b> short paper</b> award at the 17th International Conference on Content-Based Multimedia Indexing (CBMI'19) for the paper "Retrieving Relevant and Diverse Movie Clips Using the MFVCD-7K Multifaceted Video Clip Dataset" by <b>Yashar Deldjoo </b> and Markus Schedl! </th>
   </tr>
  <tr>
     <th class="tg-xivq">July 14, 2019</th>
