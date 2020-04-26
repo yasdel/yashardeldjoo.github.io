@@ -8,7 +8,10 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-<li> <a href=""> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conference on Extended Semantic Web Conference, 2020 (ESWC ’20) </i> <br> [<a href="">PDF</a>] [<a href="">bibtex</a>] </li>
+<li> <a href=""> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020 (SIGIR ’20) </i> <br></li>
+
+
+<li> <a href=""> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conference on Extended Semantic Web Conference, 2020 (ESWC ’20) </i> <br> </li>
 
 <li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conference on Web Search and Data Mining, 2020 (WSDM ’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
