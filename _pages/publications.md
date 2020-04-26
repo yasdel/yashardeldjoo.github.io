@@ -8,7 +8,7 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-<li> <a href=""> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020 (SIGIR ’20) </i> <br></li>
+<li> <a href=""> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR ’20) </i> <br></li>
 
 
 <li> <a href=""> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conference on Extended Semantic Web Conference, 2020 (ESWC ’20) </i> <br> </li>
