@@ -68,11 +68,11 @@ redirect_from:
 </colgroup>
  <tr>
     <th class="tg-xivq">March 6, 2020</th>
-    <th class="tg-xivq"> Our paper "Evaluation of a Deep Learning-based image compression system for a real-world scenario" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta accepted at IEEE Conference on Evolving and Adaptive Intelligent Systems <b>EAIS 2020!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page.</a> <font color="red"></font></th>
+    <th class="tg-xivq"> Our paper "Evaluation of a Deep Learning-based image compression system for a real-world scenario" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta accepted at IEEE Conference on Evolving and Adaptive Intelligent Systems <b>EAIS 2020!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page.</a> <font color="red">*highlight*</font></th>
   </tr>
  <tr>
     <th class="tg-xivq">February 2, 2020</th>
-    <th class="tg-xivq"> Our paper "SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Felice Antonio Merra accepted at 17th Conference on Extended Semantic Web Conference <b>ESWC 2020!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page.</a> <font color="red"><b>*highlight*</b></font></th>
+    <th class="tg-xivq"> Our paper "SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs" by Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Felice Antonio Merra accepted at 17th Conference on Extended Semantic Web Conference <b>ESWC 2020!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page.</a> <font color="red"><b></b></font></th>
   </tr>
  <tr>
     <th class="tg-xivq">October 15, 2019</th>
