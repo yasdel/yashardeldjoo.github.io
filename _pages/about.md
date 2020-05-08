@@ -25,8 +25,6 @@ My main areas of research span a range of topics focusing largely on recommender
 <hr />
 
 
-
-
 <h3>Current Research Topics</h3>
 
 <ul>
@@ -39,7 +37,7 @@ My main areas of research span a range of topics focusing largely on recommender
 
 
 <h2>Education</h2>
-Polytechnic University of Milan (Polimi)
+Polytechnic University of Milan (Polimi) <br>
 Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Milan, Italy <br>
 
 
