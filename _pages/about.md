@@ -37,7 +37,7 @@ redirect_from:
 
 
 <h2>Education</h2>
-<table>
+<table cellspacing="0" cellpadding="0">
   <tbody>
   <tr>
     <td><span class="title">Polytechnic University of Milan (Polimi)</span> <br>
@@ -51,7 +51,7 @@ redirect_from:
   <tr>
     <td><span class="title">Chalmers University of Technology (Chalmers Tech.)</span> <br>
   Master in Electrical Engineering &nbsp;&nbsp;&nbsp;&nbsp;  Sep 2008 - August 2010, Gothenburg, Sweden <br>
-  Advisor: <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank">Prof. Jin Cheqing</a> and <a href="https://faculty.ecnu.edu.cn/s/1818/main.jspy" target="_blank">Prof. Zhou Aoying</a>
+  Advisor: <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank"></a> and <a href="https://faculty.ecnu.edu.cn/s/1818/main.jspy" target="_blank"></a>
      </td></tr></tbody></table>
 
 <h3>Academic Services</h3>
