@@ -40,7 +40,7 @@ redirect_from:
 <table>
   <tbody>
   <tr>
-    <td  class="noBorder"><span class="title">Polytechnic University of Milan (Polimi)</span> <br>
+    <td style="border-collapse: collapse; border: none;"><span class="title">Polytechnic University of Milan (Polimi)</span> <br>
   Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Milan, Italy <br>
   Ph.D. degree "con lode"  (highest distinction in Italy) <br>
   Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Paolo Cremonesi</a>
