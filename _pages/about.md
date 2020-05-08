@@ -35,6 +35,25 @@ redirect_from:
   <li> Privacy-Aware Machine Learning </li>
 </ul>
 
+
+<h2 style="CLEAR: both;">Education</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">Polytechnic University of Milan (Polimi)</span> <br>
+  Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Milan, Italy <br>
+  Ph.D. degree "con lode"  (highest distinction in Italy), 
+  Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Paolo Cremonesi</a>
+  Mentor: <a href="https://scholar.google.it/citations?hl=en&user=TQR8qIEAAAAJ" target="_blank">Prof. Markus Schedl</a>
+  </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">Chalmers University of Technology (Chalmers Tech.)</span> <br>
+  Bachelor in Software Engineering &nbsp;&nbsp;&nbsp;&nbsp;  Sep 2007 - June 2011, Shanghai <br>
+  Advisor: <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank">Prof. Jin Cheqing</a> and <a href="https://faculty.ecnu.edu.cn/s/1818/main.jspy" target="_blank">Prof. Zhou Aoying</a>
+     </td></tr></tbody></table>
+
 <h3>Academic Services</h3>
 
 <ul>
