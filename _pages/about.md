@@ -36,30 +36,6 @@ My main areas of research span a range of topics focusing largely on recommender
 </ul>
 
 
-<h2>Education</h2>
-Polytechnic University of Milan (Polimi) <br>
-Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Milan, Italy <br>
-Ph.D. degree "con lode"  (highest distinction in Italy) <br>
-Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Paolo Cremonesi</a> <br>
-Mentor: <a href="https://scholar.google.it/citations?hl=en&user=TQR8qIEAAAAJ" target="_blank">Prof. Markus Schedl</a> <br>
-
-Chalmers University of Technology (Chalmers Tech.) <br>
-MS.c in Electrical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Gothenburg, Sweden <br>
-MS.c degree "First Rank" with straight A+ GPA  <br>
-Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Elunder Karlssen</a> <br>
-Mentor: <a href="https://scholar.google.it/citations?hl=en&user=TQR8qIEAAAAJ" target="_blank">Prof. Markus Schedl</a> <br>
-
-University of Gothenburg (GU) <br>
-BA in English Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sep 2007 - August 2011, Gothenburg, Sweden <br>
-Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Elunder Karlssen</a> <br>
-
-University of Guilan  <br>
-MS.c in Electrical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2006 - July 2010, Rasht, Iran <br>
-BS.c degree "First Rank" with straight A+ GPA  <br>
-Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Elunder Karlssen</a> <br>
-
-
-
 <h3>Academic Services</h3>
 
 <ul>
