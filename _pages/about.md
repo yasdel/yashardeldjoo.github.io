@@ -23,6 +23,31 @@ redirect_from:
 <hr />
 
 
+<h2 style="CLEAR: both;">Education</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">National University of Singapore (NUS)</span> <br>
+  Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  August 2015 - August 2019, Singapore <br>
+  Advisor: <a href="https://www.chuatatseng.com/" target="_blank">Prof. Tat-Seng Chua</a><br>
+  Mentors: <a href="http://staff.ustc.edu.cn/~hexn/" target="_blank">Prof. Xiangnan He</a> and <a href="http://ir.sdu.edu.cn/~liqiangnie/index.html" target="_blank">Prof. Liqiang Nie</a>
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">Beihang University (BUAA)</span> <br>
+  Bachelor in Computer Science and Engineering &nbsp;&nbsp;&nbsp;&nbsp;  September 2011 - June 2015, Beijing <br>
+  Advisor: <a href="https://dblp.org/pers/hd/l/Li:Zhoujun" target="_blank">Prof. Zhoujun Li</a>
+    </td></tr></tbody></table>
+
+<h2 style="CLEAR: both">Experiences</h2>
+<table>
+  <tbody><tr>
+    <td> <span class="title">Postdoc Research Fellow</span>, National University of Singapore, June 2019 - Present   <br>
+      Advisior: <a href="https://www.chuatatseng.com/" target="_blank">Prof. Tat-Seng Chua</a> (<a href="http://www.nextcenter.org/">NExT++: NUS-Tsinghua-Southampton Extreme Search Center</a>)
+    </td></tr></tbody>
+</table>
+
 <h3>Current Research Topics</h3>
 
 <ul>
