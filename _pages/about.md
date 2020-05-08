@@ -15,7 +15,9 @@ redirect_from:
 
 
 
-<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, under the lead of <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>. My main areas of research span a range of topics focusing largely on recommender systems, multimedia processing and machine learning. I have received a B.Sc. degree in Electrical Engineering from University of Guilan, a B.A. degree in English, Linguistics from University of Gothenburg, an M.Sc. degree in Electrical Engineering from Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for a period of 6 months. I earned all my academic degrees (B.Sc., MS.c. and Ph.D) with a distinction title.<br> <br> 
+<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, under the lead of <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>. I have defended my PhD dissertation, with "con lode" (highest distinction in Italy) on July 2018!
+
+My main areas of research span a range of topics focusing largely on recommender systems, multimedia processing and machine learning. I have received a B.Sc. degree in Electrical Engineering from University of Guilan, a B.A. degree in English, Linguistics from University of Gothenburg, an M.Sc. degree in Electrical Engineering from Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for a period of 6 months.<br> <br> 
 </p>
 
 <hr />
@@ -34,6 +36,25 @@ redirect_from:
   <li> Advarsarial Machine Learning </li>
   <li> Privacy-Aware Machine Learning </li>
 </ul>
+
+
+<h2>Education</h2>
+<table>
+  <tbody>
+  <tr>
+    <td style="border-collapse: collapse; border: none;"><span class="title">Polytechnic University of Milan (Polimi)</span> <br>
+  Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Nov 2014 - July 2018, Milan, Italy <br>
+  Ph.D. degree "con lode"  (highest distinction in Italy) <br>
+  Advisor: <a href="https://scholar.google.it/citations?user=dTSOPCMAAAAJ&hl=en" target="_blank">Dr. Paolo Cremonesi</a>
+  Mentor: <a href="https://scholar.google.it/citations?hl=en&user=TQR8qIEAAAAJ" target="_blank">Prof. Markus Schedl</a>
+  </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">Chalmers University of Technology (Chalmers Tech.)</span> <br>
+  Master in Electrical Engineering &nbsp;&nbsp;&nbsp;&nbsp;  Sep 2008 - August 2010, Gothenburg, Sweden <br>
+  Advisor: <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank"></a> and <a href="https://faculty.ecnu.edu.cn/s/1818/main.jspy" target="_blank"></a>
+     </td></tr></tbody></table>
 
 <h3>Academic Services</h3>
 
