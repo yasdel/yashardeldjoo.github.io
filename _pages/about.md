@@ -37,8 +37,8 @@ My main areas of research span a range of topics focusing largely on recommender
         <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in recommender systems (AML-RecSys) accepted to WSDM'20.</li>
         <li><date>Oct-2019</date> A US patent accepted.</li>
         <li><date>Jan-2019</date> Our paper accepted to UMUAI.</li>
-        <li><date>Sep-2018</date> Our paper accepted to TKDE.</li>
-        <li><button id="pre_news">Past News</button></li>
+        <button id="pre_news">Past News</button>
+         <li id="pre1" style="display: none"><date>Sep-2018</date> Our paper accepted to TKDE.</li>
         </ul>
 </div>
 
