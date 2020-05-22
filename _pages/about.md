@@ -78,6 +78,10 @@ My main areas of research span a range of topics focusing largely on recommender
 <col style="width: 648px">
 </colgroup>
  <tr>
+    <th class="tg-xivq">May 22, 2020</th>
+    <th class="tg-xivq"> Our recent extensive literature review "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges" has now a prePrint available (under review). </b> See <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> <font color="red">*highlight*</font></th>
+  </tr>
+ <tr>
     <th class="tg-xivq">April 22, 2020</th>
     <th class="tg-xivq"> A full paper named "How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models" accepted at <b>SIGIR 2020!</b> See <a href="https://yasdel.github.io/publications/" target="\_blank" style="color: #B509AC">publication page.</a> <font color="red">*highlight*</font></th>
   </tr>
