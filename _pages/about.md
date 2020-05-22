@@ -23,7 +23,7 @@ My main areas of research span a range of topics focusing largely on recommender
 <hr/>
 <p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
-<p><span style="color:red"><b>NEW:</b></span> My extensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys 2020, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. 
+<p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys 2020, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. 
 </p>
 <hr/>
 
