@@ -38,6 +38,7 @@ My main areas of research span a range of topics focusing largely on recommender
         <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in recommender systems (AML-RecSys) accepted to WSDM'20.</li>
         <li><button id="pre_news">Past News</button></li>
         </ul>
+</div>
 
 <h3>Current Research Topics and Seleted Publications</h3>
 
