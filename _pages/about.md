@@ -35,9 +35,9 @@ My main areas of research span a range of topics focusing largely on recommender
   <li> Multimedia Recommender Systems</li>
     <ul>
        <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys'20 (TBA soon).  </li>
-    <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
-  <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
-  <ul>
+        <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
+        <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
+  </ul>
   <li> Advarsarial Machine Learning and Security </li>
   <ul>
    <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://bit.ly/2A3TlAo" style="color: #B509AC">"Adversarial Machine Learning in Recommender Systems: State of the art and Challenges."</a>, Under review.  </li>
