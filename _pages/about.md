@@ -42,7 +42,6 @@ My main areas of research span a range of topics focusing largely on recommender
   <ul>
    <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://bit.ly/2A3TlAo" style="color: #B509AC">"Adversarial Machine Learning in Recommender Systems: State of the art and Challenges."</a>, Under review.  </li>
    <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
-   <li> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs"</a>, ESWC 2020.  </li>
   </ul>
   <li> Privacy-Aware Machine Learning</li>
   <ul>
