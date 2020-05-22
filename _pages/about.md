@@ -27,7 +27,6 @@ My main areas of research span a range of topics focusing largely on recommender
 </p>
 <hr/>
 
-<
 <div class="news">
 <h2>news</h2>
         <ul>
