@@ -81,21 +81,14 @@ My main areas of research span a range of topics focusing largely on recommender
 
 <div class="news">
 <h2>news</h2>
-
-
         <ul>
-            <li><date>June-2020</date> Our survey on recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
-            <li><date>May-2020</date> Our survey on adversarial machine learning in recommender systems is available online.</li>
-            <li><date>Jan-2020</date> One full paper accepted to SIGIR 2020.</li>
-            <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
-            <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in recommender systems (AML-RecSys) accepted to WSDM'20.</li>
-             <li><button id="pre_news">Past News</button></li>
-      <li id="pre1" style="display: none"><date>Jul-2019</date> One paper accepted to BMVC 2019.</li>
-      <li id="pre2" style="display: none"><date>Apr-2019</date> One paper accepted to ICML 2019.</li>    
-            <li id="pre3" style="display: none"><date>Dec-2018</date> One paper accepted to ICLR 2019.</li>
-            <li id="pre4" style="display: none"><date>Sep-2018</date> One paper accepted to NeurIPS 2018.</li>
-      
-          </ul>
+        <li><date>June-2020</date> Our survey on recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
+        <li><date>May-2020</date> Our survey on adversarial machine learning in recommender systems is available online.</li>
+        <li><date>Jan-2020</date> One full paper accepted to SIGIR 2020.</li>
+        <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
+        <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in recommender systems (AML-RecSys) accepted to WSDM'20.</li>
+        <li><button id="pre_news">Past News</button></li>
+        </ul>
 
 
 
