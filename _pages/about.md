@@ -20,9 +20,10 @@ redirect_from:
 My main areas of research span a range of topics focusing largely on recommender systems, multimedia processing and machine learning. I have received a B.Sc. degree in Electrical Engineering from University of Guilan, a B.A. degree in English, Linguistics from University of Gothenburg, an M.Sc. degree in Electrical Engineering from Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for a period of 6 months.<br> <br> 
 </p>
 
-<hr />
-<p><span style="color:red"><b>NEW:</b></span> The arXiv version of our survey on <strong> Adversarial Machine Learning in Recommender Systems </strong> will be availavle shortly.</p>
-<hr />
+<hr/>
+<p><span style="color:red"><b>NEW:</b></span> <strong> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
+</p>
+<hr/>
 
 
 <h3>Current Research Topics</h3>
