@@ -36,6 +36,7 @@ My main areas of research span a range of topics focusing largely on recommender
         <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
         <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in RecSys accepted to WSDM'20.</li>
         <li><date>Oct-2019</date> A US patent accepted.</li>
+        <li><date>July-2019</date> Our paper on federated learning accepted to AIIA'19.</li>
         <li><date>Jan-2019</date> Our paper accepted to UMUAI.</li>
         <li><button id="pre_news">Past News</button></li>
          <li id="pre1" style="display: none"><date>Sep-2018</date> Our paper accepted to TKDE.</li>
