@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, under the lead of <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>. I have defended my PhD dissertation, with "con lode" (highest distinction in Italy) on July 2018!
+<p> I am an assistant professor at  <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, under the lead of <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>. I have defended my PhD dissertation, with "con lode" (highest distinction in Italy) in July 2018!
 
 My main areas of research span a range of topics focusing largely on recommender systems, multimedia processing and machine learning. I have received a B.Sc. degree in Electrical Engineering from University of Guilan, a B.A. degree in English, Linguistics from University of Gothenburg, an M.Sc. degree in Electrical Engineering from Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for a period of 6 months.<br> <br> 
 </p>
@@ -33,9 +33,9 @@ My main areas of research span a range of topics focusing largely on recommender
 <ul>
   <li> Recommender systems and personalization </li>
   <li> Multimedia Recommender Systems</li>
-  <li> Fairness in Recommender Systems</li>
   <li> Advarsarial Machine Learning </li>
   <li> Privacy-Aware Machine Learning </li>
+  <li> Fairness in Recommender Systems</li>
 </ul>
 
 
