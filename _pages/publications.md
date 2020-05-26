@@ -28,7 +28,7 @@ author_profile: true
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
 <b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
-[<a href="2020_Book_SpecialTopicsInInformation_Chapter.pdf" style="color: #B509AC">Chapter</a>] [<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Book</a>] </li>
+[<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformation_Chapter.pdf" style="color: #B509AC">Chapter</a>] [<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Book</a>] </li>
 </ul>
 
 
