@@ -1,0 +1,7 @@
+@inproceedings{deldjoo2020dataset,
+  title={How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models},
+  author={Deldjoo, Yashar and Di Noia, Tommaso and Merra, Felice Antonio},
+  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2020}
+}
+

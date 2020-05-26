@@ -8,9 +8,14 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-<li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>ACM Computing Surveys 2020 (under review) </i> <br></li>
+<li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review in a Journal </i> <br>
+[<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
+</li>
 
-<li> <a href=""> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) </i> <br></li>
+<li> <a href="https://doi.org/10.1145/3397271.3401046"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) </i> <br>
+[<a href="http://yasdel.github.io/files/SIGIR20_Full.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SIGIR20_Full.txt" style="color: #B509AC">bibtex</a>]
+
+</li>
 
 <li> <a href=""> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conf. on Extended Semantic Web Conf., 2020 (ESWC’20) </i> <br> </li>
 
@@ -23,7 +28,7 @@ author_profile: true
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
 <b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
-[<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Book</a>] </li>
+[<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Chapter</a>] [<a href="http://yasdel.github.io/files/2020_Book_SpecialTopicsInInformationTech.pdf" style="color: #B509AC">Book</a>] </li>
 </ul>
 
 
