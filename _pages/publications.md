@@ -13,11 +13,11 @@ author_profile: true
 </li>
 
 <li> <a href="https://doi.org/10.1145/3397271.3401046"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) </i> <br>
-[<a href="http://yasdel.github.io/files/SIGIR20_Full.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SIGIR20_Full.txt" style="color: #B509AC">bibtex</a>]
+[<a href="http://yasdel.github.io/files/SIGIR20_Full.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SIGIR20_Full.txt" style="color: #B509AC">bibtex</a>]</li>
 
+<li> <a href="https://doi.org/10.1007/978-3-030-49461-2_18"> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conf. on Extended Semantic Web Conf., 2020 (ESWC’20) </i> <br>
+[<a href="http://yasdel.github.io/files/ESWC20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/ESWC20.txt" style="color: #B509AC">bibtex</a>]
 </li>
-
-<li> <a href=""> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conf. on Extended Semantic Web Conf., 2020 (ESWC’20) </i> <br> </li>
 
 <li> <a href=""> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> </li>
 
