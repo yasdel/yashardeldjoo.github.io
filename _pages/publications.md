@@ -8,7 +8,7 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-<li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review in a Journal </i> <br>
+<li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review since May 2020 </i> <br>
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
