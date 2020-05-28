@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/esws/AnelliDNSM20,
+  author    = {Vito Walter Anelli and
+               Yashar Deldjoo and
+               Tommaso Di Noia and
+               Eugenio Di Sciascio and
+               Felice Antonio Merra},
+  title     = {SAShA: Semantic-Aware Shilling Attacks on Recommender Systems Exploiting
+               Knowledge Graphs},
+  booktitle = {The Semantic Web - 17th International Conference, {ESWC} 2020, Heraklion,
+               Crete, Greece, May 31-June 4, 2020, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12123},
+  pages     = {307--323},
+  publisher = {Springer},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/978-3-030-49461-2\_18},
+  doi       = {10.1007/978-3-030-49461-2\_18},
+  timestamp = {Wed, 27 May 2020 18:13:27 +0200},
+  biburl    = {https://dblp.org/rec/conf/esws/AnelliDNSM20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
