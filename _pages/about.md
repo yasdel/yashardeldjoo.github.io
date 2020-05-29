@@ -17,7 +17,7 @@ redirect_from:
 
 I defended my Ph.D. dissertation, with "con lode" (highest distinction in Italy) in July 2018! I have received a B.Sc. degree in Electrical Engineering from the University of Guilan, a B.A. degree in English, Linguistics from the University of Gothenburg, an M.Sc. degree in Electrical Engineering from the Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for 6 months.<br> <br> 
 
-I have published more than 40 papers at top-tier conferences and journals, including ACM Computing Survey, TKDE, UMUAI, SIGIR, RecSys, WSDM, and CHI, MMSys, AIIA and hold a U.S. Patent. I have been involved in organizing ACM Recommender System Challenges as part of the RecSys conference through the years 2017-2020 (as a chair or advisory). I have also organized two tasks at the MediaEval benchmarking event in 2018 and 2019.
+I have published more than 40 papers at top-tier conferences and journals, including ACM Computing Surveys, TKDE, UMUAI, SIGIR, RecSys, WSDM, and CHI, MMSys, AIIA and hold a U.S. Patent. I have been involved in organizing ACM Recommender System Challenges as part of the RecSys conference through the years 2017-2020 (as a chair or advisory). I have also organized two tasks at the MediaEval benchmarking event in 2018 and 2019.
 
 <br> 
 </p>
