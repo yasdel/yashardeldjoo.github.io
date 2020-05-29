@@ -28,42 +28,36 @@ My main areas of research span a range of topics focusing largely on recommender
 <div class="news">
 <h2>news</h2>
         <ul>
-        <li><date>June-2020</date> A comprehensive literature review about recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
-        <li><date>May-2020</date> Our survey on adversarial machine learning in recommender systems has a preprint version.</li>
+        <li><date>June-2020</date> Our comprehensive literature review about recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
+        <li><date>May-2020</date> Our literature review on adversarial machine learning in recommender systems has a preprint version.</li>
         <li><date>Jan-2020</date> One full paper accepted to SIGIR 2020.</li>
         <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
         <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in RecSys accepted to WSDM'20.</li>
         <li><date>Oct-2019</date> A US patent accepted.</li>
         <li><date>July-2019</date> Our paper on federated learning accepted to AIIA'19.</li>
         <li><date>Jan-2019</date> Our paper accepted to UMUAI.</li>
-        <li><button id="pre_news">Past News</button></li>
-         <li id="pre1" style="display: none"><date>Sep-2018</date> Our paper accepted to TKDE.</li>
         </ul>
 </div>
 
-<h3>Current Research Topics and Seleted Publications</h3>
+<h3>Current Research Topics</h3>
 
 <ul>
-  <li> Recommender systems and personalization </li>
-  <li> Multimedia Recommender Systems</li>
-    <ul>
-       <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys'20 (TBA soon).  </li>
-        <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
-        <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
-  </ul>
-  <li> Advarsarial Machine Learning and Security </li>
-  <ul>
-   <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://bit.ly/2A3TlAo" style="color: #B509AC">"Adversarial Machine Learning in Recommender Systems: State of the art and Challenges."</a>, Under review.  </li>
+  <li> Recommender systems and personalization (RecSys) </li>
+  <li> Multimedia Recommender Systems (MM-RecSys) </li>
+  <li> Advarsarial Machine Learning in Recommender Systems (AML-RecSys) </li>
+  <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
+  <li> Fairness in Recommender Systems (Fair-RecSys)</li>
+</ul>
+
+<h3> Seleted Publications</h3>
+
+<ul>
+   <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys'20.  </li>
    <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
-  </ul>
-  <li> Privacy-Aware Machine Learning</li>
-  <ul>
+   <li> <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
+   <li> <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
   <li> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
-  </ul>
-  <li> Fairness in Recommender Systems</li>
-    <ul>
-    <li> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
-    </ul>
+   <li> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
 </ul>
 
 
