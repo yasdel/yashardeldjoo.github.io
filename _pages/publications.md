@@ -8,7 +8,7 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-	
+
 <li> <a href="">  Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br>
 </li>
 
@@ -30,7 +30,7 @@ author_profile: true
 
 <li> <a href=""> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> </li>
 
-<li> <a href=""> Evaluation of a Deep Learning-based image compression system for a real-world scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conf. on Evolving and Adaptive Intelligent Systems, 2020 (IEAS’20) </i> <br> [<a href="">PDF</a>] [<a href="">bibtex</a>] </li>
+<li> <a href=""> Evaluation of a Deep Learning-based image compression system for a real-world scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conf. on Evolving and Adaptive Intelligent Systems, 2020 (IEAS’20) </i> <br> </li>
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-32094-2_6" style="color: #B509AC"> Enhancing Video Recommendation using Multimedia Content</a><br>
 <b>Yashar Deldjoo</b><br><i>Special Topics in Information Technology, Springer Books, Page 77-89 </i> <br>
