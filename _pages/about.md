@@ -39,6 +39,9 @@ My main areas of research span a range of topics focusing largely on recommender
         </ul>
 </div>
 
+<hr/>
+
+
 <h3>Current Research Topics</h3>
 
 <ul>
@@ -48,6 +51,8 @@ My main areas of research span a range of topics focusing largely on recommender
   <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
   <li> Fairness in Recommender Systems (Fair-RecSys)</li>
 </ul>
+
+<hr/>
 
 <h3> Seleted Publications</h3>
 
@@ -60,6 +65,7 @@ My main areas of research span a range of topics focusing largely on recommender
    <li> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
 </ul>
 
+<hr/>
 
 <h3>Academic Services</h3>
 

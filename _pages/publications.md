@@ -8,6 +8,9 @@ author_profile: true
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
+<li> <a href="">  Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br>
+</li>
+
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review since May 2020 </i> <br>
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
@@ -19,10 +22,12 @@ author_profile: true
 [<a href="http://yasdel.github.io/files/ESWC20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/ESWC20.txt" style="color: #B509AC">bibtex</a>]
 </li>
 
-<li> <a href=""> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> </li>
-
-
 <li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conf. on Web Search and Data Mining, 2020 (WSDM’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
+
+
+<li> <a href="" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology (TIST)</i> <br> 
+
+<li> <a href=""> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> </li>
 
 <li> <a href=""> Evaluation of a Deep Learning-based image compression system for a real-world scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conf. on Evolving and Adaptive Intelligent Systems, 2020 (IEAS’20) </i> <br> [<a href="">PDF</a>] [<a href="">bibtex</a>] </li>
 
