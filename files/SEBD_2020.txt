@@ -1,0 +1,6 @@
+@inproceedings{anelli2020knowledge,
+  title={Knowledge-enhanced Shilling Attacks for recommendation.},
+  author={Anelli, Vito Walter and Deldjoo, Yashar and Di Noia, Tommaso and Antonio, Felice}
+  booktitle={SEBD},
+  year={2020}
+}
