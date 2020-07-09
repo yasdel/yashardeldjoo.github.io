@@ -17,7 +17,7 @@ redirect_from:
 
 I defended my Ph.D. dissertation, with "con lode" (highest distinction in Italy) in July 2018! I have received a B.Sc. degree in Electrical Engineering from the University of Guilan, a B.A. degree in English, Linguistics from the University of Gothenburg, an M.Sc. degree in Electrical Engineering from the Chalmers University of Technology, Sweden and a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC">  Johannes Kepler University (JKU) Linz</a>, Austria for 6 months.<br> <br> 
 
-I have published more than 40 papers at top-tier conferences and journals, including ACM Computing Surveys, TKDE, UMUAI, SIGIR, RecSys, WSDM, and CHI, MMSys, AIIA and hold a U.S. Patent. I have been involved in organizing ACM Recommender System Challenges as part of the RecSys conference through the years 2017-2020 (as a chair or advisor). I have also organized two tasks at the MediaEval benchmarking event in 2018 and 2019.
+I have published more than 40 papers at top-tier conferences and journals, including ACM Computing Surveys, TKDE, TIST, UMUAI, SIGIR, RecSys, WSDM, and CHI, MMSys, AIIA and hold a U.S. Patent. I have been involved in organizing ACM Recommender System Challenges as part of the RecSys conference through the years 2017-2020 (as a chair or advisor). I have also organized two tasks at the MediaEval benchmarking event in 2018 and 2019.
 
 <br> 
 </p>
@@ -26,6 +26,8 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 <p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
 <p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys 2020, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. 
+</p>
+<p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  has been accepted at ACM TIST. The link to paper and dataset will be provided soon.
 </p>
 <hr/>
 
