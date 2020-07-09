@@ -29,10 +29,7 @@ author_profile: true
 
 <li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conf. on Web Search and Data Mining, 2020 (WSDM’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
-<li> <a href="https://sebd2020.unica.it/proceedings/48-paper.pdf" style="color: #B509AC"> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> [<a href="http://yasdel.github.io/files/SEBD_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SEBD_2020.txt" style="color: #B509AC">bibtex</a>]
-
-
-</li>
+<li> <a href="https://sebd2020.unica.it/proceedings/48-paper.pdf" style="color: #B509AC"> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> [<a href="http://yasdel.github.io/files/SEBD_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SEBD_2020.txt" style="color: #B509AC">bibtex</a>]</li>
 
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9122753?casa_token=Kxe5LOAtAJsAAAAA:AmmHIUG_ArJY1Tm5WsKL-Gqw7nzkiwwONOOVvlA9vCx-XRfxwDh5d4xxqvLoVflaLr2_E3oN"  style="color: #B509AC">Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia,  Daniele Malitesta <br><i>IEEE Conf. on Evolving and Adaptive Intelligent Systems, 2020 (IEAS’20) </i> <br> [<a href="http://yasdel.github.io/files/IEAS_20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/IEAS_20.txt" style="color: #B509AC">bibtex</a>]</li>
 

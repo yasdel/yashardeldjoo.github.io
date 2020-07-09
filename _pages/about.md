@@ -27,8 +27,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 </p>
 <p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. Stay tuned for more information.
 </p>
-<p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  has been accepted at ACM TIST. The link to paper and dataset will be provided soon.
-</p>
+<p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  has been accepted at ACM TIST. The link to paper and dataset will be provided soon.  <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">  https://bit.ly/2OcguVm</a> </p>
 <hr/>
 
 <div class="news">
