@@ -25,7 +25,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 <hr/>
 <p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
-<p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys 2020, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. 
+<p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. Stay tuned for more information.
 </p>
 <p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  has been accepted at ACM TIST. The link to paper and dataset will be provided soon.
 </p>
