@@ -26,7 +26,8 @@ author_profile: true
 <li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conf. on Web Search and Data Mining, 2020 (WSDM’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
-<li> <a href="" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology (TIST)</i> <br> </li>
+<li> <a href="" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology (TIST)</i> <br>
+[<a href="http://yasdel.github.io/files/TIST_20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/TIST20.txt" style="color: #B509AC">bibtex</a>]</li>
 
 <li> <a href=""> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> </li>
 
