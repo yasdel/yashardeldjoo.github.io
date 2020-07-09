@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9122753,
+  author={V. W. {Anelli} and Y. {Deldjoo} and T. {Di Noia} and D. {Malitesta}},
+  booktitle={2020 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)}, 
+  title={Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-8}
+}
