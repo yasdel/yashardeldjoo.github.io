@@ -33,13 +33,14 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 <div class="news">
 <h2>news</h2>
         <ul>
+        <li><date>July-2020</date> Our tutorial on adversarial machine learning in RecSys is accepted to RecSys'20.</li>
         <li><date>July-2020</date> Our paper session-based hotel recommendations dataset done in collobration with Trivago is accepted at ACM TIST.</li>
         <li><date>July-2020</date> Our paper prioritized multi-criteria federated learning is accepted to Intelligenza Artificiale, the journal of the Italian Association for Artificial Intelligence (AI*IA).</li>
         <li><date>June-2020</date> Our comprehensive literature review about recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
         <li><date>May-2020</date> Our literature review on adversarial machine learning in recommender systems has a preprint version.</li>
         <li><date>Jan-2020</date> One full paper accepted to SIGIR 2020.</li>
         <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
-        <li><date>Oct-2019</date> Our tutorial on adversarial machine larning in RecSys accepted to WSDM'20.</li>
+        <li><date>Oct-2019</date> Our tutorial on adversarial machine learning in RecSys accepted to WSDM'20.</li>
         <li><date>Oct-2019</date> A US patent accepted.</li>
         <li><date>July-2019</date> Our paper on federated learning accepted to AIIA'19.</li>
         <li><date>Jan-2019</date> Our paper accepted to UMUAI.</li>
