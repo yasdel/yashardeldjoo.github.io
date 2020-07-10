@@ -9,7 +9,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="">  (Tutorial) Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br>
+<li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br>
 </li>
 
 <li> <a href="">  Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br>
@@ -30,7 +30,7 @@ author_profile: true
 [<a href="http://yasdel.github.io/files/ESWC20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/ESWC20.txt" style="color: #B509AC">bibtex</a>]
 </li>
 
-<li> (Tutorial) <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conf. on Web Search and Data Mining, 2020 (WSDM’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
+<li> <a href="https://doi.org/10.1145/3336191.3371877" style="color: #B509AC"> Adversarial Machine Learning in Recommender Systems (AML-RecSys)</a><br><b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>In Proceedings of the 13th ACM International Conf. on Web Search and Data Mining, 2020 (WSDM’20) </i> <br> [<a href="http://yasdel.github.io/files/WSDM20.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/WSDM20.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="https://sebd2020.unica.it/proceedings/48-paper.pdf" style="color: #B509AC"> Knowledge-enhanced Shilling Attacks for recommendation </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 28th symposium of advanced database systems, 2020  (SEBD’20) </i> <br> [<a href="http://yasdel.github.io/files/SEBD_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SEBD_2020.txt" style="color: #B509AC">bibtex</a>]</li>
 
