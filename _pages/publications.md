@@ -9,6 +9,9 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
+<li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br>
+</li>
+
 <li> <a href="">  Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br>
 </li>
 
