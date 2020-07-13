@@ -26,7 +26,7 @@ author_profile: true
 <li> <a href=""> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology (TIST)</i> <br>
 [<a href="http://yasdel.github.io/files/TIST_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/TIST_2020.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li> <a href=""> Prioritized Multi-Criteria Federated Learning</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara <i>Italian Journal of Intelligenza Artificiale</i> <br>[<a href="http://yasdel.github.io/files/Intelligenza_Artificiale_20.pdf" style="color: #B509AC">PDF</a>]</li>
+<li> <a href=""> Prioritized Multi-Criteria Federated Learning</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara <i>Italian Journal of Intelligenza Artificiale</i> <br>[<a href="http://yasdel.github.io/files/Intelligenza_Artificiale_20.pdf" style="color: #B509AC">prePrint</a>]</li>
 
 
 <li> <a href="https://doi.org/10.1007/978-3-030-49461-2_18" style="color: #B509AC"> SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 17th Conf. on Extended Semantic Web Conf., 2020 (ESWC’20) </i> <br>
