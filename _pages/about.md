@@ -23,6 +23,9 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 </p>
 
 <hr/>
+<p><span style="color:red"><b>NEW:</b></span> Our new work <strong> " A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint will be provided here soon, stay tuned!
+</p>
+
 <p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
 <p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted at ACM Computing Surveys, will be soon availiable. Domains studied include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, among others. Stay tuned for more information.
@@ -33,6 +36,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 <div class="news">
 <h2>news</h2>
         <ul>
+        <li><date>July-2020</date> Our paper on recommender systems fairness evaluation is accepted to UMUAI!</li> 
         <li><date>July-2020</date> Our tutorial on adversarial machine learning in RecSys is accepted to RecSys'20.</li>
         <li><date>July-2020</date> Our paper session-based hotel recommendations dataset done in collobration with Trivago is accepted at ACM TIST.</li>
         <li><date>July-2020</date> Our paper federated learning is accepted to Italian journal of Intelligenza Artificiale.</li>
