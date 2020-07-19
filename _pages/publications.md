@@ -9,7 +9,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="">  A Flexible Framework for Evaluating User and ItemFairness in Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) <br>
+<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br>User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) <br>
 </li>
 
 <li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br>
