@@ -23,7 +23,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 </p>
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> Our new work <strong> " A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint will be provided here soon, stay tuned!
+<p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint will be provided here soon, stay tuned!
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
