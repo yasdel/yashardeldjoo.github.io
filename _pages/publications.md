@@ -15,7 +15,7 @@ author_profile: true
 <li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br>
 </li>
 
-<li> <a href="">  Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br>
+<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] <br>
 </li>
 
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review since May 2020 </i> <br>

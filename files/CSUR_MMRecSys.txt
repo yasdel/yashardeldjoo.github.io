@@ -1,0 +1,8 @@
+@article{deldjoo2020recommender,
+  title={Recommender Systems Leveraging Multimedia Content},
+  author={Deldjoo, Yashar and Schedl, Markus and Cremonesi, Paolo and Pasi, Gabriella},
+  journal={ACM Computing Surveys},
+  url       = {https://doi.org/10.1145/3407190},
+  doi       = {10.1145/3407190},
+  year={2020}
+}
