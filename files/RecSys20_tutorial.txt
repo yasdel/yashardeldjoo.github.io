@@ -1,0 +1,6 @@
+@inproceedings{anelli2020adversarial,
+  title={Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code},
+  author={Anelli, Vito Walter and Deldjoo, Yashar and Di Noia, Tommaso and Antonio, Felice},
+  booktitle={Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20)},
+  year={2018}
+}
