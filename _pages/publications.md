@@ -12,7 +12,7 @@ author_profile: true
 <li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI)</i>  <br>
 </li>
 
-<li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> <br> [<a href="http://yasdel.github.io/files/RecSys20_tutorial.pdf style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys20_tutorial.txt" style="color: #B509AC">bibtex</a>] 
+<li> <a href="">  Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio<br><i> Proceedings of 14th ACM Conference on Recommender Systems (RecSys'20) </i> [<a href="http://yasdel.github.io/files/RecSys20_tutorial.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/RecSys20_tutorial.txt" style="color: #B509AC">bibtex</a>] <br> 
 </li>
 
 <li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Survey'20 </i> <br> [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] 
