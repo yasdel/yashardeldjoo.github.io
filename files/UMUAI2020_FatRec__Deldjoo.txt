@@ -1,0 +1,7 @@
+@article{deldjoo2020flexible,
+  title={A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems},
+  author={Deldjoo, Yashar and Anelli, Vito Walter and Zamani, Hamed and Bellogin, Alejandro and Di Noia, Tommaso},
+  journal={User Modeling and User-Adapted Interaction},
+  year={2020},
+  publisher={Springer Netherlands}
+}
