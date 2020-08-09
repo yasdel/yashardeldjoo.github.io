@@ -23,7 +23,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 </p>
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint will be provided here soon, stay tuned!
+<p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint is now availible <a href="https://bit.ly/33KSYYr" target="\_blank" style="color: #B509AC">https://bit.ly/33KSYYr</a>
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> Our comprehensive literature review <strong> "Recommender Systems Leveraging Multimedia Content"</strong>  accepted to ACM Computing Surveys has now a prePrint version online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://t.co/Ek819d0Af1?amp=1" target="\_blank" style="color: #B509AC">https://t.co/Ek819d0Af1?amp=1</a>
@@ -71,12 +71,13 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 <h3> Seleted Publications</h3>
 
 <ul>
+  
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys'20.  </li>
+   <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI'20. </li>
    <li> (AML-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
   <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
-   <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="http://ceur-ws.org/Vol-2440/short3.pdf" style="color: #B509AC">"Recommender Systems Fairness Evaluation via Generalized Cross Entropy"</a>, RMSE@RecSys'19.  </li>
 </ul>
 
 <hr/>
