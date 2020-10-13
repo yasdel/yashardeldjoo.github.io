@@ -23,7 +23,7 @@ I have published more than 40 papers at top-tier conferences and journals, inclu
 </p>
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> Our comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://yasdel.github.io/files/CSUR_MMRecSys.pdf" target="\_blank" style="color: #B509AC">https://yasdel.github.io/files/CSUR_MMRecSys.pdf</a>
+<p><span style="color:red"><b>NEW:</b></span> Our comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">https://bit.ly/3jTlJY5</a>
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint is now availible <a href="https://bit.ly/33KSYYr" target="\_blank" style="color: #B509AC">https://bit.ly/33KSYYr</a>
