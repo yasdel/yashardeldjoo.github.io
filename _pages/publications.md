@@ -15,7 +15,7 @@ author_profile: true
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: Attack,Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
 </li>
 
-<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> Acm Computing Surveys, 2020 (CSUR) (impact factor in 2019: 7.7990) </i> <br> [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] 
+<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> ACM Computing Surveys, 2020 (CSUR) (impact factor in 2019: 7.7990) </i> <br> [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
 
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under review since May 2020 </i> <br>
@@ -29,7 +29,7 @@ author_profile: true
 [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
-<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) </i> <br>
+<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 43rd International ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) (Full accept rate: 26%) </i> <br>
 [<a href="http://yasdel.github.io/files/SIGIR20_Full.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/SIGIR20_Full.txt" style="color: #B509AC">bibtex</a>]</li>
 
 
