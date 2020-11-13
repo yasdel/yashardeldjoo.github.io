@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h1 class="year">2021</h1>
+
+
+<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2021 (CSUR) (impact factor in 2019: 7.7990) </i> <br>
+[<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
+</li>
+
+
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
@@ -12,21 +20,20 @@ author_profile: true
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
 </li>
 
+<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (impact factor in 2019: 4.682)</i>  <br>
+[<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: Attack,Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
 </li>
 
-<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i> ACM Computing Surveys, 2020 (CSUR) (impact factor in 2019: 7.7990) </i> <br> [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] 
-</li>
-
-<li> <a href="">  Adversarial Machine Learning in Recommender Systems: State of the art and Challenges  </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2020 (CSUR) (impact factor in 2019: 7.7990) </i> <br>
+<li> <a href="">  A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2020 (CSUR) (impact factor in 2019: 7.7990) </i> <br>
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
 <li> <a href=""> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology, 2020 (TIST) (5-year impact factor: 3.971)</i> <br>
 [<a href="http://yasdel.github.io/files/TIST_2020.pdf" style="color: #B509AC">prePrint</a>] [<a href="http://yasdel.github.io/files/TIST_2020.txt" style="color: #B509AC">bibtex</a>]</li>
 
-<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (impact factor in 2019: 4.682)</i>  <br>
-[<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+
 
 
 <li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proc. of the 43rd ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) (Full, accept rate: 26%) </i> <br>
