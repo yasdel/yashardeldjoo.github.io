@@ -9,7 +9,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2021 (CSUR) (impact factor in 2019: 7.7990) </i> <br>
+<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2021 (CSUR) (impact factor in 2019: 7.7990) </i> <br>
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
