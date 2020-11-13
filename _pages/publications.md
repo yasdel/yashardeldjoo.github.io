@@ -22,7 +22,7 @@ author_profile: true
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
 </li>
 
-<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (impact factor in 2019: 4.682)</i>  <br>
+<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (5-year impact factor: 5.383)</i>  <br>
 [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: Attack,Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
