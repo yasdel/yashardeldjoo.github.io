@@ -29,7 +29,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint is now availible <a href="https://bit.ly/33KSYYr" target="\_blank" style="color: #B509AC">https://bit.ly/33KSYYr</a>
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> Our recent extensive literature review <strong> "Adversarial Machine Learning in Recommender Systems: State of the art and Challenges"</strong>  has now a prePrint version available online (under review). <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
+<p><span style="color:red"><b>NEW:</b></span> The second version of our recent extensive literature review <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong>  under review at ACM computing Surveys has now a prePrint version available online. <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  co-authered with Trivago has been accepted to ACM TIST. The link to dataset is provided within the paper.  <a href="https://bit.ly/2OcguVm" target="\_blank" style="color: #B509AC">  https://bit.ly/2OcguVm</a> </p>
