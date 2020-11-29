@@ -14,13 +14,14 @@ author_profile: true
 </li>
 
 <li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2020 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
-</ul>
 
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook (under review) </i> <br>
 </li>
 
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: Attack,Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook (under review) </i> <br>
 </li>
+
+</ul>
 
 <h1 class="year">2020</h1>
 
