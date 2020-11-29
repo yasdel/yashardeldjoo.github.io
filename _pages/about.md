@@ -23,13 +23,13 @@ I am an active member of the recommender systems (RS) community and regularly pu
 </p>
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> Our comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">https://bit.ly/3jTlJY5</a>
+<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">https://bit.ly/3jTlJY5</a>
+</p>
+
+<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong> accepted to ACM Computing Surveys. <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> Our new work <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research. It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! PrePrint is now availible <a href="https://bit.ly/33KSYYr" target="\_blank" style="color: #B509AC">https://bit.ly/33KSYYr</a>
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span> The second version of our recent extensive literature review <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong>  under review at ACM computing Surveys has now a prePrint version available online. <a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">https://bit.ly/2A3TlAo</a> 
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  co-authered with Trivago has been accepted to ACM TIST. The link to dataset is provided within the paper.  <a href="https://bit.ly/2OcguVm" target="\_blank" style="color: #B509AC">  https://bit.ly/2OcguVm</a> </p>
@@ -78,7 +78,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <div class="news">
 <h2>news</h2>
         <ul>
-        <li><date>Nov-2020</date> Secound comprehensive literature review in 2020 is accepted to ACM Computing Surveys!</li>
+        <li><date>Nov-2020</date> The second literature review in 2020 is accepted to ACM Computing Surveys, this time on AML-RecSys!</li>
         <li><date>Nov-2020</date> Our paper on privacy-by-design recommendation learning using federated learning accepted to ACM SAC'21!</li> 
         <li><date>July-2020</date> Honored to contribute two book chapters on the new edition of RS handbook. Topics include MMRS and AML for security.!</li> 
         <li><date>July-2020</date> Our paper on recommender systems fairness evaluation is accepted to UMUAI!</li> 
