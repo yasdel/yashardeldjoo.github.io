@@ -13,8 +13,7 @@ author_profile: true
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
-<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2020 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
-
+<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2020 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
 </ul>
 
 <h1 class="year">2020</h1>
