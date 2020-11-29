@@ -25,7 +25,7 @@ author_profile: true
 <li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (IF: 5.383)</i>  <br>
 [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
-<li> <a href="https://doi.org/10.1145/3407190"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i>ACM Computing Surveys, 2020 (CSUR) (IF: 8.960) </i> <br>
+<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i>ACM Computing Surveys, 2020 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
