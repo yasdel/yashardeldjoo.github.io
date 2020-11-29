@@ -1,7 +1,16 @@
-@article{adamczak2020session,
-  title={Session-Based Hotel Recommendations Dataset},
-  author={Adamczak, Jens and Deldjoo, Yashar and Moghaddam, Farshad Bakhshandegan and Knees, Peter and Leyson, Gerard-Paul and Monreal, Philipp},
-  journal={ACM Transactions on Intelligent Systems and Technology (TIST)},
-  year={2020},
-  publisher={ACM New York, NY, USA}
+@article{10.1145/3412379,
+author = {Adamczak, Jens and Deldjoo, Yashar and Moghaddam, Farshad Bakhshandegan and Knees, Peter and Leyson, Gerard-Paul and Monreal, Philipp},
+title = {Session-Based Hotel Recommendations Dataset: As Part of the ACM Recommender System Challenge 2019},
+year = {2020},
+issue_date = {November 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {12},
+number = {1},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3412379},
+doi = {10.1145/3412379},
+month = nov,
+articleno = {1},
+numpages = {20}
 }
