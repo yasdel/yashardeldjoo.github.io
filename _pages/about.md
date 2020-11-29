@@ -35,6 +35,46 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <p><span style="color:red"><b>NEW:</b></span> A new dataset <strong> "Session-Based Hotel Recommendations Dataset"</strong>  co-authered with Trivago has been accepted to ACM TIST. The link to dataset is provided within the paper.  <a href="https://bit.ly/2OcguVm" target="\_blank" style="color: #B509AC">  https://bit.ly/2OcguVm</a> </p>
 <hr/>
 
+<h3>Current Research Topics</h3>
+
+<ul>
+  <li> Recommender systems and personalization (RecSys) </li>
+  <li> Multimedia Recommender Systems (MM-RecSys) </li>
+  <li> Fairness in Recommender Systems (Fair-RecSys)</li>
+  <li> Advarsarial Machine Learning in Recommender Systems (Security-RecSys) </li>
+  <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
+</ul>
+
+<hr/>
+
+<h3> Seleted Publications</h3>
+
+<ul>
+  
+   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys 2020.  </li>
+   <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
+   <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys 2021.  </li>
+   <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
+   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
+   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
+   <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci. <a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">"How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank"</a>, ACM SAC 2021.  </li>
+  <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
+</ul>
+
+<hr/>
+
+<h3>Academic Services</h3>
+
+<ul>
+  <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
+  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR'19, MMSys'19
+  </li>
+  <li> Journal Reviewer: ACM Computing Surveys (CSUR), Journal of User Modeling and User-Adapted Interaction (UMUAI), Elsevier Expert Systems with Applications, IEEE Access </li>
+</ul>
+
+
+
+
 <div class="news">
 <h2>news</h2>
         <ul>
@@ -56,43 +96,3 @@ I am an active member of the recommender systems (RS) community and regularly pu
 </div>
 
 <hr/>
-
-
-<h3>Current Research Topics</h3>
-
-<ul>
-  <li> Recommender systems and personalization (RecSys) </li>
-  <li> Multimedia Recommender Systems (MM-RecSys) </li>
-  <li> Fairness in Recommender Systems (Fair-RecSys)</li>
-  <li> Advarsarial Machine Learning in Recommender Systems (Security-RecSys) </li>
-  <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
-</ul>
-
-<hr/>
-
-<h3> Seleted Publications</h3>
-
-<ul>
-  
-   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys 2020.  </li>
-   <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
-   <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
-   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
-   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
-  <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
-</ul>
-
-<hr/>
-
-<h3>Academic Services</h3>
-
-<ul>
-  <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
-  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR'19, MMSys'19
-  </li>
-  <li> Journal Reviewer: ACM Computing Surveys (CSUR), Journal of User Modeling and User-Adapted Interaction (UMUAI), Elsevier Expert Systems with Applications, IEEE Access </li>
-</ul>
-
-
-
-
