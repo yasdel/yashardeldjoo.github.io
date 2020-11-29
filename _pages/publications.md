@@ -9,12 +9,12 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2021 (CSUR) (impact factor in 2019: 8.960) </i> <br>
+<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted at ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
-<li> <a href="" style="color: #B509AC"> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the The 36th ACM/SIGAPP Symposium On Applied Computing, 2020 (ACM SAC’21) (Short) </i> <br>
-[<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]</li>
+<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the The 36th ACM/SIGAPP Symposium On Applied Computing, 2020 (ACM SAC’21) (Short) </i> <br>
+[<a href="" >PDF</a>] [<a href="">bibtex</a>]</li>
 
 </ul>
 
@@ -22,18 +22,20 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
+
+<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (IF: 5.383)</i>  <br>
+[<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+
+<li> <a href="https://doi.org/10.1145/3407190"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i>ACM Computing Surveys, 2020 (CSUR) (IF: 8.960) </i> <br>
+[<a href="https://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] </li>
 </li>
 
-<li> <a href="">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2020 (UMUAI) (5-year impact factor: 5.383)</i>  <br>
-[<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+<li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
+</li>
 
 <li> <a href="">  Adversarial Machine Learning in Recommender Systems: Attack,Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook </i> <br>
 </li>
 
-<li> <a href="">  A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Under Review at ACM Computing Surveys, 2020 (CSUR) (impact factor in 2019: 8.960) </i> <br>
-[<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
-</li>
 
 <li> <a href=""> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology, 2020 (TIST) (5-year impact factor: 3.971)</i> <br>
 [<a href="http://yasdel.github.io/files/TIST_2020.pdf" style="color: #B509AC">prePrint</a>] [<a href="http://yasdel.github.io/files/TIST_2020.txt" style="color: #B509AC">bibtex</a>]</li>
