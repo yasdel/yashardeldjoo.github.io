@@ -51,7 +51,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 <ul>
   
-   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys 2020.  </li>
+   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys 2020.  </li>
    <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
    <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys 2021.  </li>
    <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
