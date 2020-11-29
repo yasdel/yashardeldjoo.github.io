@@ -80,7 +80,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
         <ul>
         <li><date>Nov-2020</date> The second literature review in 2020 is accepted to ACM Computing Surveys, this time on AML-RecSys!</li>
         <li><date>Nov-2020</date> Our paper on privacy-by-design recommendation learning using federated learning accepted to ACM SAC'21!</li> 
-        <li><date>July-2020</date> Honored to contribute two book chapters on the new edition of RS handbook. Topics include MMRS and AML for security.!</li> 
+        <li><date>July-2020</date> Honored to contribute two book chapters on the new edition of RS handbook. Topics include MMRS and AML for security of RS.!</li> 
         <li><date>July-2020</date> Our paper on recommender systems fairness evaluation is accepted to UMUAI!</li> 
         <li><date>July-2020</date> Our tutorial on adversarial machine learning in RecSys is accepted to RecSys'20.</li>
         <li><date>July-2020</date> Our paper session-based hotel recommendations dataset done in collobration with Trivago is accepted at ACM TIST.</li>
