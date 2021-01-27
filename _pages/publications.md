@@ -10,11 +10,11 @@ author_profile: true
 <ul style="list-style-type:circle;">
 
 
-<li> <a href="">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) </i>
+<li> <a href="">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i>
 </li>
 
 <li> <a href=""> Adversarial Learning for Recommendation
- </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) </i>
+ </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Tutorial) </i>
 </li>	
 
 <li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted to ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
