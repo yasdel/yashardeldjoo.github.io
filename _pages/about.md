@@ -78,6 +78,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <div class="news">
 <h2>news</h2>
         <ul>
+        <li><date>dEC-2020</date> Two papers accepted to ECIR'21, a full paper and a tutroial!</li>
         <li><date>Nov-2020</date> The second literature review in 2020 is accepted to ACM Computing Surveys, this time on AML-RecSys!</li>
         <li><date>Nov-2020</date> Our paper on privacy-by-design recommendation learning using federated learning accepted to ACM SAC'21!</li> 
         <li><date>July-2020</date> Honored to contribute two book chapters on the new edition of RS handbook. Topics include MMRS and AML for security of RS.!</li> 
