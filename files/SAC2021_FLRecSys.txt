@@ -1,0 +1,9 @@
+@inproceedings{anelli2021put,
+  title={How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank},
+  author={Anelli, Vito Walter and Deldjoo, Yashar and Di Noia, Tommaso and Ferrara, Antonio and Narducci, Fedelucio},
+  booktitle={Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, SAC},
+  publisher={Springer International Publishing},
+  year={2021},
+  pages={32--47}
+}
+
