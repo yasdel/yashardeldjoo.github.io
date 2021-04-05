@@ -1,0 +1,10 @@
+@article{deldjoo2021survey,
+  title={A survey on adversarial recommender systems: from attack/defense strategies to generative adversarial networks},
+  author={Deldjoo, Yashar and Noia, Tommaso Di and Merra, Felice Antonio},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={54},
+  number={2},
+  pages={1--38},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
