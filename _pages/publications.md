@@ -9,6 +9,8 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
+<li> <a href="">  Multi-Step Adversarial Perturbations on Recommender Systems Embeddings </a><br> Vito Walter Anelli, Alejandro Bellogin, <b>Yashar Deldjoo</b> Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 34th International FLAIRS Conference, 2021, (FLAIRS'21)</i>
+</li>
 
 <li> <a href="">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i>
 </li>
