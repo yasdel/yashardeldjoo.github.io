@@ -23,7 +23,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 </p>
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> Out tutorial <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">AL4REC</a> "Adversarial Machine Learning for Security of Recommender Systems" presented at ECIR'21 is availiable here. [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Introduction (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
+<p><span style="color:red"><b>NEW:</b></span> Out tutorial <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">AL4REC</a> "Adversarial Machine Learning for Security of Recommender Systems" presented at ECIR'21 is availiable here. [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://bit.ly/2A3TlAo" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">https://bit.ly/3jTlJY5</a>
@@ -70,9 +70,9 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 <ul>
   <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
-  <li> PC Member: SIGIR'20, ACM MM'20, ECIR'20, UMAP'20, RecSys'19, ACM MM'19, UMAP'19, ECIR'19, MMSys'19
+  <li> PC Member: RecSys'19-21, SIGIR'19-21, ACM MM'19-21, ECIR'19-21, UMAP'19-2121, MMSys'19
   </li>
-  <li> Journal Reviewer: ACM Computing Surveys (CSUR), Journal of User Modeling and User-Adapted Interaction (UMUAI), Elsevier Expert Systems with Applications, IEEE Access </li>
+  <li> Journal Reviewer: ACM Computing Surveys, UMUAI, TOIS, Frontiers, Expert Systems with Applications, IEEE Access </li>
 </ul>
 
 
@@ -81,6 +81,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <div class="news">
 <h2>news</h2>
         <ul>
+        <li><date>March-2021</date> One paper accepted to FLAIR'21, on Multi-Step Adversarial Perturbations against Recommender Systems!</li>
         <li><date>Dec-2020</date> Two papers accepted to ECIR'21, a full paper and a tutroial!</li>
         <li><date>Nov-2020</date> The second literature review in 2020 is accepted to ACM Computing Surveys, this time on AML-RecSys!</li>
         <li><date>Nov-2020</date> Our paper on privacy-by-design recommendation learning using federated learning accepted to ACM SAC'21!</li> 
