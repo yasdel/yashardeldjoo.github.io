@@ -19,8 +19,8 @@ author_profile: true
  </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Tutorial) </i>
 </li>	
 
-<li> <a href="">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted to ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
-[<a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">prePrint</a>] 
+<li> <a href="https://dl.acm.org/doi/10.1145/3439729">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted to ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
+[<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] 
 </li>
 
 <li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2021 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
