@@ -43,6 +43,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <ul>
   <li> Recommender systems and personalization (RecSys) </li>
   <li> Multimedia Recommender Systems (MM-RecSys) </li>
+  <li> Multimodal conversational Information Seeking (MM-CIS) </li>
   <li> Fairness in Recommender Systems (Fair-RecSys)</li>
   <li> Advarsarial Machine Learning in Recommender Systems (Security-RecSys) </li>
   <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
