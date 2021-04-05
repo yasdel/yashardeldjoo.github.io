@@ -12,7 +12,7 @@ author_profile: true
 <li> <a href="">  Multi-Step Adversarial Perturbations on Recommender Systems Embeddings </a><br> Vito Walter Anelli, Alejandro Bellogin, <b>Yashar Deldjoo</b> Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 34th International FLAIRS Conference, 2021, (FLAIRS'21)</i>
 </li>
 
-<li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-72113-8_3" style="color: #B509AC">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_FLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/SAC2021_FLRecSys.txt" style="color: #B509AC">bibtex</a>]
+<li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-72113-8_3" style="color: #B509AC">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i> <br> [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.txt" style="color: #B509AC">bibtex</a>]
 </li>
 
 <li> <a href=""> Adversarial Learning for Recommendation
@@ -23,7 +23,7 @@ author_profile: true
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
 
-<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2021 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
+<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2021 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_FLRecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
 
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook (under review) </i> <br>
 </li>
