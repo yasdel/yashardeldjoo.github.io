@@ -17,7 +17,8 @@ author_profile: true
 
 
 <li> <a href=""> Adversarial Learning for Recommendation
- </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Tutorial) </i>
+ </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Tutorial) </i> [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
+</p>
 </li>	
 
 <li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
