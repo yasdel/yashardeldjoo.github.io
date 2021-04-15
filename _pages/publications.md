@@ -23,15 +23,16 @@ author_profile: true
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-72113-8_3" style="color: #B509AC">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i> <br> [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.txt" style="color: #B509AC">bibtex</a>]
 </li>
 
-<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
-</a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br>
-[<a href="" style="color:">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]</li>
-
-
 
 <li> <a href="https://www.ecir2021.eu/tutorials/" style="color: #B509AC"> Adversarial Learning for Recommendation (AL4Rec Tutorial)
  </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Tutorial) </i> <br> [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
 </li>	
+
+
+<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
+</a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br>
+[<a href="" style="color:">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]</li>
+
 
 <li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
