@@ -12,9 +12,9 @@ author_profile: true
 <li> <a href="" style=""> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br></li>
 
 
-<li> <a href="" style=""> A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR'21) (Full, accept rate: 21%) </i> <br>[<a href="" style="color: #B509AC">PrePrint</a>] [<a href="" style="color: #B509AC">bibtex</a>] [<a href="https://github.com/sisinflab/Visual-Adversarial-Recommendation" style="color: #B509AC">code</a>]</li>
+<li> <a href="" style=""> A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR'21) (Full, accept rate: 21%) </i> <br>[<a href="https://github.com/sisinflab/Visual-Adversarial-Recommendation" style="color: #B509AC">code</a>]</li>
 
-<li> <a href="" style=""> A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems. </a><br> <b>Yashar Deldjoo</b>, Daniele Malitesta, Tommaso Di Noia, Felice Antonio Merra <br><i>The 4th CVPR Workshop on Computer Vision for Fashion, Art, and Design, 2021 (CVFAD@CVPR'21) </i> <br>[<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>] [<a href="https://lnkd.in/dyi5q6z" style="color: #B509AC">bibtex</a>]</li>
+<li> <a href="" style=""> A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems. </a><br> <b>Yashar Deldjoo</b>, Daniele Malitesta, Tommaso Di Noia, Felice Antonio Merra <br><i>The 4th CVPR Workshop on Computer Vision for Fashion, Art, and Design, 2021 (CVFAD@CVPR'21) </i> <br> [<a href="https://lnkd.in/dyi5q6z" style="color: #B509AC">code</a>]</li>
 
 
 <li> <a href="">  Multi-Step Adversarial Perturbations on Recommender Systems Embeddings </a><br> Vito Walter Anelli, Alejandro Bellogin, <b>Yashar Deldjoo</b> Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 34th International FLAIRS Conference, 2021, (FLAIRS'21)</i>
@@ -30,8 +30,7 @@ author_profile: true
 
 
 <li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
-</a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br>
-[<a href="" style="color:">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]</li>
+</a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br></li>
 
 
 <li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
