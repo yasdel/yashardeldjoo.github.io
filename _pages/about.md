@@ -82,7 +82,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <div class="news">
 <h2>news</h2>
         <ul>
-        <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Prospective and one Full!</li>
+        <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
         <li><date>April-2021</date> One paper accepted to the Italian Conf. On Cyber-Security (ITASEC'21)!</li>
         <li><date>March-2021</date> One paper accepted to FLAIR'21, on Multi-Step Adversarial Perturbations against Recommender Systems!</li>
