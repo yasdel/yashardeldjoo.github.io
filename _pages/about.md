@@ -54,7 +54,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <h3> Seleted Publications</h3>
 
 <ul>
-  
+   <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamni. <a href="" style="color:">"Toward Multi-modal Conversational Information Seeking (MMCIS)."</a>, SIGIR 2021. </li>
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content."</a>, ACM Computing Surveys 2020.  </li>
    <li> (Fair-RecSys) <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
    <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://arxiv.org/pdf/2005.10322.pdf" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys 2021.  </li>
@@ -70,8 +70,8 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
-  <li> PC Member: RecSys'19-21, SIGIR'19-21, ACM MM'19-21, ECIR'19-21, UMAP'19-2121, MMSys'19
+  <li> Organizer: Italian Workshop on Information Retrieval (IIR'21) <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
+  <li> PC Member (regularly since 2019): ACM RecSys, SIGIR, ACM Multimedia, ECIR, UMAP, MMSys
   </li>
   <li> Journal Reviewer: ACM Computing Surveys, UMUAI, TOIS, Frontiers, Expert Systems with Applications, IEEE Access </li>
 </ul>
