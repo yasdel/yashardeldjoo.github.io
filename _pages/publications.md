@@ -9,11 +9,24 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
+<li> <a href="" style=""> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br></li>
+
+
+<li> <a href="" style=""> A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR'21) (Full, accept rate: 21%) </i> <br>[<a href="" style="color: #B509AC">PrePrint</a>] [<a href="" style="color: #B509AC">bibtex</a>] [<a href="https://github.com/sisinflab/Visual-Adversarial-Recommendation" style="color: #B509AC">code</a>]</li>
+
+<li> <a href="" style=""> A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems. </a><br> <b>Yashar Deldjoo</b>, Daniele Malitesta, Tommaso Di Noia, Felice Antonio Merra <br><i>The 4th CVPR Workshop on Computer Vision for Fashion, Art, and Design, 2021 (CVFAD@CVPR'21) </i> <br>[<a href="" style="color: #B509AC">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>] [<a href="https://lnkd.in/dyi5q6z" style="color: #B509AC">bibtex</a>]</li>
+
+
 <li> <a href="">  Multi-Step Adversarial Perturbations on Recommender Systems Embeddings </a><br> Vito Walter Anelli, Alejandro Bellogin, <b>Yashar Deldjoo</b> Tommaso Di Noia, Felice Antonio Merra <br><i> Proc. of the 34th International FLAIRS Conference, 2021, (FLAIRS'21)</i>
 </li>
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-72113-8_3" style="color: #B509AC">  FedeRank: User Controlled Feedback with Federated Recommender Systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b> Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci <br><i> Proc. of the 43rd European Conference on IR Research, 2021, (ECIR'21) (Full, accept rate: 24.17%) </i> <br> [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/ECIR21_FLRecSys.txt" style="color: #B509AC">bibtex</a>]
 </li>
+
+<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
+</a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br>
+[<a href="" style="color:">PDF</a>] [<a href="" style="color: #B509AC">bibtex</a>]</li>
+
 
 
 <li> <a href="https://www.ecir2021.eu/tutorials/" style="color: #B509AC"> Adversarial Learning for Recommendation (AL4Rec Tutorial)
