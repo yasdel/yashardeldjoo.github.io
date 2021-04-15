@@ -29,7 +29,7 @@ author_profile: true
 </li>	
 
 
-<li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
+<li> <a href="" style=""> Revisiting Security Threat on Smart Grids: Accurate and Interpretable Fault Location Prediction and Type Classification
 </a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br></li>
 
 
