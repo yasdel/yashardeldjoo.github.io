@@ -63,7 +63,6 @@ I am an active member of the recommender systems (RS) community and regularly pu
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Mihai Gabriel Constantin, Hamid Eghbal-zadeh, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi.<a href="https://doi.org/10.1145/3240323.3240407" style="color: #B509AC">"Audio-Visual Encoding of Multimedia Content to Enhance Movie Recommendations"</a>, RecSys 2018. </li>
    <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci. <a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">"How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank"</a>, ACM SAC 2021.  </li>
-  <li> (Privacy-RecSys) Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara. <a href="https://arxiv.org/pdf/1908.07420.pdf" style="color: #B509AC">"Towards Effective Device-Aware Federated Learning"</a>, AIIA 2019.  </li>
 </ul>
 
 <hr/>
