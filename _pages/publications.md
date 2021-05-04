@@ -38,7 +38,7 @@ author_profile: true
 </a><br>Carmelo Ardito, <b>Yashar Deldjoo</b>, Eugenio Di Sciascio, Fatemeh Nazary, <br><i> Italian Conference on CyberSecurity, 2021 (ITASEC’21) </i> <br></li>
 
 
-<li> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2021 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_FLRecSys.pdf" style="color: #B509AC">prePrint</a>] </li>
+<li>  <a href="https://doi.org/10.1145/3412841.3442010" style="color: #B509AC"> How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci<br><i>Proc. of the 36th ACM/SIGAPP Symposium On Applied Computing, 2021 (ACM SAC’21) (Short) </i> <br> [<a href="https://yasdel.github.io/files/SAC2021_FLRecSys.pdf" style="color: #B509AC">PDF</a>] </li>
 
 <li> <a href="">  Multimedia Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> Book chapter on the 3rd Edition of Recommender Systems Handbook (under review) </i> <br>
 </li>
