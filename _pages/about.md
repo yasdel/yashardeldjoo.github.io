@@ -22,6 +22,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <br> 
 </p>
 
+
 <hr/>
 <p><span style="color:red"><b>NEW:</b></span> Out tutorial <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">AL4REC</a> "Adversarial Machine Learning for Security of Recommender Systems" presented at ECIR'21 is availiable here. [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
 </p>
@@ -82,6 +83,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <div class="news">
 <h2>news</h2>
         <ul>
+        <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
         <li><date>April-2021</date> One paper accepted to the Italian Conf. On Cyber-Security (ITASEC'21)!</li>
