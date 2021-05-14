@@ -16,7 +16,7 @@ author_profile: true
 </li>
 
 <li> <a href="" style=""> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br>
-[<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC"> prePrint</a>] 
+[<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">prePrint</a>] 
 </li>
 
 
