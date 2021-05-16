@@ -24,6 +24,11 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 
 <hr/>
+<p><span style="color:red"><b>NEW:</b></span> <strong> "Towards Multi-Modal Conversational Information Seeking"</strong>  accepted to SIGIR'21, a brave-new work on conversational systems research is now available online!<a href="https://lnkd.in/dZB8t-y" target="\_blank" style="color: #B509AC">https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf</a>
+</p>
+
+
+
 <p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
 Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 </p>
