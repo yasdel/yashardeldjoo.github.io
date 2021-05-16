@@ -37,7 +37,7 @@ Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 <p><span style="color:red"><b>NEW:</b></span> <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research, is now online! It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! <a href="https://lnkd.in/dZB8t-y" target="\_blank" style="color: #B509AC">https://lnkd.in/dZB8t-y</a>
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong> accepted to ACM Computing Surveys. <a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3439729</a> 
+<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong> accepted to ACM Computing Surveys is available. <a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3439729</a> 
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is available. <a href="https://dl.acm.org/doi/10.1145/3407190" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3407190</a>
