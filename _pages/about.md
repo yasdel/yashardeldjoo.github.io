@@ -13,7 +13,7 @@ redirect_from:
 </header>
 
 
-<p> I am an assistant professor at <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy, affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, led by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>, the head of the group. My research focuses on (i) designing multimodal information-seeking systems (recommender systems, interactive QA and conversational recommender systems), and (ii) designing and evaluating machine learning models to understand their robustness, fairness, generalizability, and interpretability. Recent and ongoing projects consider multimedia recommendation systems, multimodal conversational information-seeking, fairness and biases in recommender systems, adversarial machine learning for the security of recommender systems, and federated learning to maintain user privacy in recommender systems. <br> <br> 
+<p> I am an assistant professor at <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy, affiliated with the  <a href="http://sisinflab.poliba.it/research/" target="\_blank" style="color: #B509AC">Information Systems Laboratory (SisInf Lab)</a>, led by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>, the head of the group. My research focuses on (i) designing multimodal information-seeking systems (recommender systems, interactive QA and conversationalsystems), and (ii) designing and evaluating machine learning models to understand their robustness, fairness, generalizability, and interpretability. Recent and ongoing projects consider multimedia recommendation systems, multimodal conversational information-seeking, fairness and biases in recommender systems, adversarial machine learning for the security of recommender systems, and federated learning to maintain user privacy in recommendation learning. <br> <br> 
 
 
 I defended my Ph.D. dissertation, with "con lode" (highest distinction in Italy) in July 2018! I have received two bachelor's degrees one a B.Sc. in Electrical Engineering from the University of Guilan, and the other a B.A. degree in English, Linguistics from the University of Gothenburg, Sweden. I completed my M.Sc. in Electrical Engineering with straight A+ GPA (First Rank) at the Chalmers University of Technology, Sweden and obtained a Ph.D. degree in Computer Science from <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Milan</a> (Politecnico di Milano), Italy. During my Ph.D., I was a visiting researcher at <a href="https://www.jku.at/en/institute-of-computational-perception/" target="\_blank" style="color: #B509AC"> Johannes Kepler University (JKU) Linz</a>, Austria for a period of 6 months.<br> <br> 
@@ -37,7 +37,6 @@ Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 <p><span style="color:red"><b>NEW:</b></span> Our tutorial <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">AL4REC</a> "Adversarial Machine Learning for Security of Recommender Systems" presented at ECIR'21 is availiable here. [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
 </p>
 
-
 <p><span style="color:red"><b>NEW:</b></span> <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research, is now online! It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! <a href="https://lnkd.in/dZB8t-y" target="\_blank" style="color: #B509AC">https://lnkd.in/dZB8t-y</a>
 </p>
 
@@ -53,7 +52,7 @@ Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 <ul>
   <li> Recommender systems and personalization (RecSys) </li>
   <li> Multimedia Recommender Systems (MM-RecSys) </li>
-  <li> Multimodal conversational Information Seeking (MM-CIS) </li>
+  <li> Multimodal Conversational Information Seeking (MM-CIS) </li>
   <li> Fairness in Recommender Systems (Fair-RecSys)</li>
   <li> Advarsarial Machine Learning in Recommender Systems (Security-RecSys) </li>
   <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
