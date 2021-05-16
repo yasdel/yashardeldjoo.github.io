@@ -24,6 +24,8 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 
 <hr/>
+<p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "Towards Multimodal Coversational Information Seeking" </strong>  is accepted to SIGIR'21.
+</p>
 
 <p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
 Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
