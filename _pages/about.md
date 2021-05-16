@@ -24,7 +24,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 
 <hr/>
-<p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "Towards Multimodal Coversational Information Seeking" </strong>  is accepted to SIGIR'21.
+<p><span style="color:red"><b>NEW:</b></span> <strong> "Towards Multimodal Coversational Information Seeking" </strong>  accepted to SIGIR'21 is now available online. This is a key research in which we highlight the importance of moving towards developing and evaluating multi-modal conversational information seeking (MMCIS) systems. We bridge the gap between the multi-modal and CIS research and provide a formal definition for MMCIS.<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" target="\_blank" style="color: #B509AC">https://bit.ly/3w7Gxks</a>
 </p>
 
 <p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
