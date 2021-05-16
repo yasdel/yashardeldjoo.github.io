@@ -40,7 +40,7 @@ Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 <p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong> accepted to ACM Computing Surveys. <a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3439729</a> 
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is now availiable online. Domains studied in this work include: fashion, audio (music, sounds), video (movie, user-generated videos), news, social media, food, e-commerce, tourism, among others: <a href="https://dl.acm.org/doi/10.1145/3407190" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3407190</a>
+<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is available. <a href="https://dl.acm.org/doi/10.1145/3407190" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3407190</a>
 </p>
 <hr/>
 
