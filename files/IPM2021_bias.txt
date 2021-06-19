@@ -1,0 +1,6 @@
+@article{deldjoo2021explaining,
+  title={Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics},
+  author={Deldjoo, Yashar and Bellogin, Alejandro and Di Noia, Tommaso},
+  journal={Information Processing \& Management},
+  year={2021}
+}
