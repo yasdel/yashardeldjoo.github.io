@@ -9,7 +9,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="" style="color:">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
+<li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color:">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">prePrint</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
 <li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
