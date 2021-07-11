@@ -44,9 +44,6 @@ I am an active member of the recommender systems (RS) community and regularly pu
 Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> Our tutorial <a href="https://bit.ly/3jTlJY5" target="\_blank" style="color: #B509AC">AL4REC</a> "Adversarial Machine Learning for Security of Recommender Systems" presented at ECIR'21 is availiable here. [<a href="https://www.youtube.com/watch?v=wihRYrA_qYU&t=1s" target="\_blank" style="color: #B509AC">Short Intro. (by Tommaso)</a>], [<a href="https://www.youtube.com/watch?v=8V4TLdYMit8" target="\_blank" style="color: #B509AC">Full video</a>], [<a href="https://cutt.ly/IxNrsS9" target="\_blank" style="color: #B509AC">Slides </a>], [<a href="https://lnkd.in/d-8J8q9" target="\_blank" style="color: #B509AC">ELIOT Framework</a>], [<a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">AML-RecSys Survey</a>]
-</p>
-
 <p><span style="color:red"><b>NEW:</b></span> <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research, is now online! It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! <a href="https://lnkd.in/dZB8t-y" target="\_blank" style="color: #B509AC">https://lnkd.in/dZB8t-y</a>
 </p>
 
