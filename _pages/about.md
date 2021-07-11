@@ -28,7 +28,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 
 <hr/>
 
-<p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">Privacy tutorial at RecSys</a> <strong> A brave new tutorial is accepted to RecSys'21 "Pursuing Privacy in Recommender Systems: the View of Users and Researchers from Regulations to Applications" </strong> <a href="https://recsys.acm.org/recsys21/tutorials/#content-tab-1-3-tab" target="\_blank" style="color: #B509AC">https://recsys.acm.org/recsys21/tutorials/#content-tab-1-3-tab</a>!
+<p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">Tutorial at RecSys21</a>  A brave new tutorial is accepted to RecSys21 <strong> "Pursuing Privacy in Recommender Systems: the View of Users and Researchers from Regulations to Applications" </strong> <a href="https://recsys.acm.org/recsys21/tutorials/#content-tab-1-3-tab" target="\_blank" style="color: #B509AC">https://recsys.acm.org/recsys21/tutorials/#content-tab-1-3-tab</a>!
 </p>
 
 
