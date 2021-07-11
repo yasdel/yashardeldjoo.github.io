@@ -40,7 +40,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 "</strong> is accepted to the journal of IP&M! <a href="https://www.sciencedirect.com/science/article/pii/S0306457321001503?via%3Dihub" target="\_blank" style="color: #B509AC">https://bit.ly/3yJWQVU</a>
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> <a href="" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
+<p><span style="color:red"><b>NEW:</b></span> <a href="https://sisinflab.github.io/adverse2021/" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
 Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
 </p>
 
