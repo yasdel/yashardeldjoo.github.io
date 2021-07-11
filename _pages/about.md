@@ -36,7 +36,7 @@ I am an active member of the recommender systems (RS) community and regularly pu
 <p><span style="color:red"><b>NEW:</b></span> <strong> "Towards Multimodal Coversational Information Seeking (MMCIS)" </strong>  accepted to SIGIR'21 is now available online. In this key research, we highlight the importance of moving towards developing and evaluating MMCIS systems, and provide a formal framework for it. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" target="\_blank" style="color: #B509AC">https://bit.ly/3w7Gxks</a>
 </p>
 
-<p><span style="color:red"><b>NEW:</b></span> <strong> Our work "Explaining recommender systems fairness and accuracy through the lens of data characteristics
+<p><span style="color:red"><b>NEW:</b></span>  Our work <strong>"Explaining recommender systems fairness and accuracy through the lens of data characteristics
 "</strong> is accepted to the journal of IP&M! <a href="https://www.sciencedirect.com/science/article/pii/S0306457321001503?via%3Dihub" target="\_blank" style="color: #B509AC">https://bit.ly/3yJWQVU</a>
 </p>
 
