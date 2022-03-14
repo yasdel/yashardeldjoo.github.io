@@ -37,7 +37,7 @@ redirect_from:
 <h3>Academic Services</h3>
 
 <ul>
-  <li> Organizer: Italian Workshop on Information Retrieval 2021 (IIR'21) <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
+  <li> Organizer:  <a href="https://icwe2022.webengineering.org/organizing-committee/" style="color: #B509AC">International Conference on Web Engineering 2022 (ICWE'22)</a>, Italian Workshop on Information Retrieval 2021 (IIR'21) <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
   <li> PC Member (regularly since 2019): ACM RecSys, SIGIR, ACM Multimedia, ECIR, UMAP, MMSys
   </li>
   <li> Journal Reviewer: ACM Computing Surveys, UMUAI, TOIS, Frontiers, Expert Systems with Applications, IEEE Access </li>
