@@ -25,19 +25,18 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
-
-
-<li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
+<li> <a href="https://doi.org/10.1145/3404835.3462806" style="color: #B509AC"> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br>
+[<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">PDF</a>] 
+</li>
 
 <li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted to ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
 
-<li> <a href="https://doi.org/10.1145/3404835.3462806" style="color: #B509AC"> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br>
-[<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">PDF</a>] 
-</li>
+<li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
 
+
+<li> <a href="https://link.springer.com/article/10.1007/s11257-020-09285-1" style="color: #B509AC">  A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems </a><br> <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia <br><i> User Modeling and User-Adapted Interaction, The Journal of Personalization Research, 2021 (UMUAI) (IF: 5.383)</i>  <br> [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/UMUAI2021_FatRec__Deldjoo.txt" style="color: #B509AC">bibtex</a>] </li>
 
 <li> <a href="https://doi.org/10.1145/3404835.3462848" style="color: #B509AC"> A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra <br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR'21) (Full, accept rate: 21%) </i> <br>[<a href="https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images" style="color: #B509AC">prePrint</a>] [<a href="https://github.com/sisinflab/Visual-Adversarial-Recommendation" style="color: #B509AC">code</a>]</li>
 
