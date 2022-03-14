@@ -12,7 +12,7 @@ author_profile: true
  </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
-User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> <i>Journal of Intelligent Information Systems  </i><br> [<a href="https://link.springer.com/article/10.1007/s10844-021-00688-zf" style="color: #B509AC">PrePrint</a>] 
+User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> <i>Journal of Intelligent Information Systems  </i><br>
  </li>
 
 <li> <a href="" style="color: #B509AC"> The Unfairness of Active Users and Popularity Bias in Point-of-Interest Recommendation </a><br> Hossein A Rahmani, <b>Yashar Deldjoo</b>, Ali Tourani, Mohammadmehdi Naghiaei <br><i>BIAS@ECIR 2022  </i><br> [<a href="https://arxiv.org/abs/2202.13307" style="color: #B509AC">PrePrint</a>] 
