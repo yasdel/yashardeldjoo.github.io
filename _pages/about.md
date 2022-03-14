@@ -13,52 +13,11 @@ redirect_from:
 </header>
 
 
-<p> I am currently on a visit to UC San Diego, where I have the pleasure of working with <a href="https://scholar.google.com/citations?hl=en&user=icbo4M0AAAAJ" target="\_blank" style="color: #B509AC">  Julian McAuley</a>. I am an assistant professor at <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy, affiliated with the Information Systems Laboratory (SisInf Lab)</a>, led by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>.  My research focuses on (i) designing trust-worthy machine learning for information-seeking (recommendation, search, and conversational agents) to understand their robustness, fairness, explaination generalizability, and interpretability, and (ii) multi-media/multi-modal information seeking systems. <br> 
+<p> I am currently on a visit to UC San Diego, where I have the pleasure of working with <a href="https://scholar.google.com/citations?hl=en&user=icbo4M0AAAAJ" target="\_blank" style="color: #B509AC">  Julian McAuley</a>. I am an assistant professor at <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> (Politecnico di Bari), Italy, affiliated with the Information Systems Laboratory (SisInf Lab)</a>, led by <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Prof. Tommaso di Noia</a>.  My research focuses on (i) designing trust-worthy machine learning for information-seeking (recommendation, search, and conversational agents) to understand their robustness, fairness, explaination generalizability, and interpretability, and (ii) multi-media/multi-modal information seeking systems. <br> <br> 
 
   I am an active member of the recommender systems community, having published/presented tutorials at key conferences such as RecSys, SIGIR, WSDM, and ECIR, as well as top-tier journals such as ACM Computing Surveys, IP&M UMUAI, TKDE, and TIST. I have published several monographs on MM-RecSys, AML-Recys, Fashion RecSys, Music-RecSys (<a href="https://dl.acm.org/doi/abs/10.1145/3407190" target="\_blank" style="color: #B509AC">CSUR20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3439729" target="\_blank" style="color: #B509AC">CSUR21-a</a>, <a href="https://arxiv.org/pdf/2202.02757.pdf" target="\_blank" style="color: #B509AC">CSUR21-b</a>, <a href="https://link.springer.com/article/10.1007/s13735-018-0154-2" target="\_blank" style="color: #B509AC">IJMIR-18</a>) and had the honor of co-authoring two book chapters for the RS handbook's third edition. From 2017 to 2020, I was active in organizing ACM Recommender System Challenges as part of the RecSys conference (as a chair or advisor). Additionally, I planned two tasks during the 2018 and 2019 MediaEval benchmarking event.
 <br> 
 </p>
-
-
-<hr/>
-
-<p><span style="color:red"><b>NEW:</b></span> <a href="https://recsys.acm.org/recsys21/tutorials/#content-tab-1-3-tab" target="\_blank" style="color: #B509AC">Tutorial at RecSys21.</a>  A brave new tutorial on <strong>Privacy of Recommender Systems</strong> is accepted to RecSys21! 
-
-
-
-<p><span style="color:red"><b>NEW:</b></span> <strong> "Towards Multimodal Coversational Information Seeking (MMCIS)" </strong>  accepted to SIGIR'21 is now available online. In this key research, we highlight the importance of moving towards developing and evaluating MMCIS systems, and provide a formal framework for it. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" target="\_blank" style="color: #B509AC">https://bit.ly/3w7Gxks</a>
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span>  Our work <strong>"Explaining recommender systems fairness and accuracy through the lens of data characteristics
-"</strong> is accepted to the journal of IP&M! <a href="https://www.sciencedirect.com/science/article/pii/S0306457321001503?via%3Dihub" target="\_blank" style="color: #B509AC">https://bit.ly/3yJWQVU</a>
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span> <a href="https://sisinflab.github.io/adverse2021/" target="\_blank" style="color: #B509AC">AdveRSe 2021</a> <strong> "The International Workshop on Adversarial Machine
-Learning for Recommendation and Search" </strong>  is accepted to CIKM 2021.
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span> <strong> "A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</strong>  accepted to UMUAI, the main journal for personalization research, is now online! It extends our RMSE@RecSys'19 paper in several dimensions: large-scale experiment, theoretical support and extensive literature review! <a href="https://lnkd.in/dZB8t-y" target="\_blank" style="color: #B509AC">https://lnkd.in/dZB8t-y</a>
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</strong> accepted to ACM Computing Surveys is available. <a href="https://dl.acm.org/doi/10.1145/3439729" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3439729</a> 
-</p>
-
-<p><span style="color:red"><b>NEW:</b></span> The comprehensive survey on <strong> "Multimedia Recommender Systems"</strong>  accepted to ACM Computing Surveys is available. <a href="https://dl.acm.org/doi/10.1145/3407190" target="\_blank" style="color: #B509AC">https://dl.acm.org/doi/10.1145/3407190</a>
-</p>
-<hr/>
-
-<h3>Current Research Topics</h3>
-
-<ul>
-  <li> Recommender systems and personalization (RecSys) </li>
-  <li> Multimedia Recommender Systems (MM-RecSys) </li>
-  <li> Multimodal Conversational Information Seeking (MM-CIS) </li>
-  <li> Fairness in Recommender Systems (Fair-RecSys)</li>
-  <li> Advarsarial Machine Learning in Recommender Systems (Security-RecSys) </li>
-  <li> Federated and Privacy-Aware Recommender Systems (Privacy-RecSys)</li>
-</ul>
-
-<hr/>
 
 <h3> Seleted Publications</h3>
 
