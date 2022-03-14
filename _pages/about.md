@@ -49,8 +49,8 @@ redirect_from:
 <div class="news">
 <h2>news</h2>
         <ul>
-        <li><date>May-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
-        <li><date>May-2021</date> Two awards for our papers at CIKM 21 and AdvML-RecSys!</li>
+        <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
+        <li><date>Nov-2021</date> Two awards for our papers at CIKM'21 and AdvML@KDD'21!</li>
         <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
