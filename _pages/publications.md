@@ -14,7 +14,7 @@ author_profile: true
 <li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  	
 User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> [<a href="https://link.springer.com/article/10.1007/s10844-021-00688-zf" style="color: #B509AC">PrePrint</a>] 
 
-<li> <a href="" style="color: #B509AC"> The Unfairness of Active Users and Popularity Bias in Point-of-Interest Recommendation </a><br> Hossein A Rahmani, <b>Yashar Deldjoo</b>, Ali Tourani, Mohammadmehdi Naghiaei <br>,<i>BIAS@ECIR 2022  <br> [<a href="https://arxiv.org/abs/2202.13307" style="color: #B509AC">PrePrint</a>] 
+<li> <a href="" style="color: #B509AC"> The Unfairness of Active Users and Popularity Bias in Point-of-Interest Recommendation </a><br> Hossein A Rahmani, <b>Yashar Deldjoo</b>, Ali Tourani, Mohammadmehdi Naghiaei <br><i>BIAS@ECIR 2022  <br> [<a href="https://arxiv.org/abs/2202.13307" style="color: #B509AC">PrePrint</a>] 
 
 <li> <a href="" style="color: #B509AC"> Leveraging Content-Style Item Representation for Visual Recommendation </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Danielle Malitesta, Felice Merra, Antonio <br><i>ECIR 2022  <br> [<a href="https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation" style="color: #B509AC">PrePrint</a>] 
 
