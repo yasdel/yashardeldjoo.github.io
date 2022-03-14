@@ -8,7 +8,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="2" style="color: #B509AC">  A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/abs/2202.13307f" style="color: #B509AC">PrePrint</a>] 
+<li> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/abs/2202.13307" style="color: #B509AC">PrePrint</a>] 
  </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
