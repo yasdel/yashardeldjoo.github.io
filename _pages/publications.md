@@ -7,7 +7,8 @@ author_profile: true
 <h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">
-
+ 
+ 
 <li> <a href="" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">PrePrint</a>] 
  </li>
 
@@ -36,10 +37,18 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 [<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">PDF</a>] 
 </li>
 
-<li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Accepted to ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
+<li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
 
+  <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> CIKM 2021. 🏆</i> <br>
+  [<a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482046?casa_token=VEMYxPiEcUsAAAAA:V7iDe8lHtHlvkZculU59xA7alkjspgqxQ_j1zOWxWCE6hfVTCDsFVoPrDNG6BCO53sOQkd0onAw" style="color: #B509AC">PDF</a>]
+   </li>
+  
+   <li> <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a><br> Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ADvML@KDD 2021. 🏆</li>
+   [<a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">PDF</a>]
+   </li>
+ 
 <li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
 
 
