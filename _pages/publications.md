@@ -44,8 +44,7 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
   <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21). 🏆</i> <br>
  </li>
   
-   <li> <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a><br> Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ADvML@KDD 2021. 🏆</li>
-   [<a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">PDF</a>]
+   <li> <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a><br> Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ADvML@KDD 2021. 🏆
    </li>
  
 <li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics </a><br> <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia <br><i> Information Processing & Management 2021 (IPM) (IF: 4.787)</i>  <br> [<a href="https://yasdel.github.io/files/IPM_SI_Bias_Fairness_final.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/IPM2021_bias.txt" style="color: #B509AC">bibtex</a>] </li>
