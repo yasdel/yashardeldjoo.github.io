@@ -8,7 +8,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="2" style="color: #B509AC">  A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br>, <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/abs/2202.13307f" style="color: #B509AC">PrePrint</a>] 
+<li> <a href="2" style="color: #B509AC">  A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/abs/2202.13307f" style="color: #B509AC">PrePrint</a>] 
  </li>
 
 <li> <a href="https://doi.org/10.1016/j.ipm.2021.102662" style="color: #B509AC">  	
@@ -21,7 +21,7 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <li> <a href="" style="color: #B509AC"> Leveraging Content-Style Item Representation for Visual Recommendation </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Danielle Malitesta, Felice Merra, Antonio <br><i>ECIR 2022 <br> [<a href="https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation" style="color: #B509AC">PrePrint</a>] 
  </li>
 
-<li> <a href="2" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He  <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+<li> <a href="2" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
 <li> <a href="2" style="color: #B509AC">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
