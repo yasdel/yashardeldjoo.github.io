@@ -41,7 +41,7 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
 
-  <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21). 🏆</i> <br>
+  <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21) (Short, accept rate: 28.3%) 🏆</i> <br>
  </li>
   
    <li> <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a><br> Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ADvML@KDD 2021. 🏆
