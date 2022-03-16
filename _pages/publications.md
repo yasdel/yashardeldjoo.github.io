@@ -9,10 +9,10 @@ author_profile: true
 <ul style="list-style-type:circle;">
  
  
-<li> <a href="" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> [<a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">PrePrint</a>] 
+<li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR </i> <br> 
  </li>
  
- <li> <a href="" style="color: #B509AC">  Content-driven Music Recommendation: Evolution, State of the Art, and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees<br> <i> Under Review at Computer Science Review </i> <br> [<a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC">PrePrint</a>] 
+ <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC">  Content-driven Music Recommendation: Evolution, State of the Art, and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees<br> <i> Under Review at Computer Science Review </i> <br>
  </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
