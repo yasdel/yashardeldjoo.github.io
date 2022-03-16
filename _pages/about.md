@@ -21,7 +21,7 @@ redirect_from:
 
 <h3> Seleted Monographs:</h3>
 <ul>
-   <li> (Fair-RecSys) Yashar Deldjoo et al. <a href="" style="color: #B509AC">"A Survey of Research on Fair Recommender Systems"</a>, PrePrint version to appear online in April 2022 </li>
+   <li> (Fair-RecSys) Yashar Deldjoo, Dietmar Jannach,  Alejandro Bellogin et al. <a href="" style="color: #B509AC">"A Survey of Research on Fair Recommender Systems"</a>, PrePrint version to appear online in April 2022 </li>
    <li> (Fashion-RecSys) <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022 </li>
    <li> (Security-RecSys) <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys, 2021.</li>
    <li> (MM-RecSys) <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
