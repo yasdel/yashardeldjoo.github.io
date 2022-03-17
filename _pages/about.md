@@ -67,6 +67,4 @@ redirect_from:
         <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
-</div>
-
 <hr/>
