@@ -67,25 +67,6 @@ redirect_from:
         <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
-        <li><date>April-2021</date> One paper accepted to the Italian Conf. On Cyber-Security (ITASEC'21)!</li>
-        <li><date>March-2021</date> One paper accepted to FLAIR'21, on Multi-Step Adversarial Perturbations against Recommender Systems!</li>
-        <li><date>Dec-2020</date> Two papers accepted to ECIR'21, a full paper and a tutroial!</li>
-        <li><date>Nov-2020</date> The second literature review in 2020 is accepted to ACM Computing Surveys, this time on AML-RecSys!</li>
-        <li><date>Nov-2020</date> Our paper on privacy-by-design recommendation learning using federated learning accepted to ACM SAC'21!</li> 
-        <li><date>July-2020</date> Honored to contribute two book chapters on the new edition of RS handbook. Topics include MMRS and AML for security of RS.!</li> 
-        <li><date>July-2020</date> Our paper on recommender systems fairness evaluation is accepted to UMUAI!</li> 
-        <li><date>July-2020</date> Our tutorial on adversarial machine learning in RecSys is accepted to RecSys'20.</li>
-        <li><date>July-2020</date> Our paper session-based hotel recommendations dataset done in collobration with Trivago is accepted at ACM TIST.</li>
-        <li><date>July-2020</date> Our paper federated learning is accepted to Italian journal of Intelligenza Artificiale.</li>
-        <li><date>June-2020</date> Our comprehensive literature review about recommender systems leveraging multimedia content is accepted to ACM Computing Surveys.</li>
-        <li><date>May-2020</date> Our literature review on adversarial machine learning in recommender systems has a preprint version.</li>
-        <li><date>Jan-2020</date> One full paper accepted to SIGIR 2020.</li>
-        <li><date>Dec-2019</date> One full paper accepted to ESWC 2020.</li>
-        <li><date>Oct-2019</date> Our tutorial on adversarial machine learning in RecSys accepted to WSDM'20.</li>
-        <li><date>Oct-2019</date> A US patent accepted.</li>
-        <li><date>July-2019</date> Our paper on federated learning accepted to AIIA'19.</li>
-        <li><date>Jan-2019</date> Our paper accepted to UMUAI.</li>
-        </ul>
 </div>
 
 <hr/>
