@@ -14,7 +14,7 @@ author_profile: true
  
  <li> <a href="" style="color: #B509AC">  Fault Prediction in
 Electrical Smart Grids: State-of-the-art and Future Trends under a Computational
-Perspective </a><br> <b>Yashar Deldjoo</b>, Carmelo Ardito, Aneglo Cataldi, <b>Yashar Deldjoo</b>, Tommaso di Noia, Eugenio Di Sciascio and Fatemeh Nazary<br> <i> Under Review, 2022 </i> <br>
+Perspective </a><br>Carmelo Ardito, Aneglo Cataldi, <b>Yashar Deldjoo</b>, Tommaso di Noia, Eugenio Di Sciascio and Fatemeh Nazary<br> <i> Under Review, 2022 </i> <br>
  </li>
 
  <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR, 2022 </i> <br> 
