@@ -45,7 +45,9 @@ redirect_from:
    <li>  <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
 </ul>
 
-
+<h3>Invited Keynotes</h3>
+     <li><date>Nov-2021</date> "Fairness of Machine Learning in Recommender Systems" at Vector Instoute for AI, Toronto, Canada</li>
+     <li><date>Oct-2021</date> "Fairness of Machine Learning in Recommender Systems" at BMW Intelligence Center, Germany</li>
 
 <h3>Academic Services</h3>
 
@@ -59,13 +61,15 @@ redirect_from:
 
 
 
+
 <div class="news">
 <h2>news</h2>
         <ul>
-        <li><date>Non-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
+        <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
         <li><date>Oct-2021</date>Our paper on visual content explaination accepted to ECIR'22.</li>
         <li><date>August-2021</date> Two <b>awards</b> for our papers at CIKM'21 and AdvML@KDD'21!</li>
         <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
         <li><date>April-2021</date> One paper accepted to the CVPR'21 Workshop on Computer Vision for Fashion, Art, and Design!</li>
 <hr/>
+</ul>
