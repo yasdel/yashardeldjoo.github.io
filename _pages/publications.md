@@ -8,7 +8,9 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
  
- 
+ <li> <a href="" style="color: #B509AC">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
+ </li>
+
 <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR, 2022 </i> <br> 
  </li>
 
