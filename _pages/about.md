@@ -45,10 +45,10 @@ redirect_from:
    <li>  <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
 </ul>
 
-<h3>Invited Keynotes</h3>
+<h3>Invited Keynotes/Talks</h3>
 <ul>
-     <li><date>Nov-2021</date> "Fairness of Machine Learning in Recommender Systems" at Vector Instoute for AI, Toronto, Canada</li>
-     <li><date>Oct-2021</date> "Fairness of Machine Learning in Recommender Systems" at BMW Intelligence Center, Germany</li>
+     <li><date>Nov-2021</date> "Fairness of Machine Learning in Recommender Systems" at the Vector Institute for AI, Toronto, Canada</li>
+     <li><date>Oct-2021</date> "Fairness of Machine Learning in Recommender Systems" at the BMW Intelligence Center, Germany</li>
 </ul>
 <h3>Academic Services</h3>
 
