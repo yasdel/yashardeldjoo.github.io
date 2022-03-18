@@ -8,7 +8,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
  
- <li> <a href="" style="color: #B509AC">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
+ <li> <a href="" style="color:">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
  </li>
 
 <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR, 2022 </i> <br> 
@@ -18,7 +18,7 @@ author_profile: true
 Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review at the Computer Science Review, 2022 </i> <br> 
  </li>
  
- <li> <a href="" style="color: #B509AC">  Fault Prediction in
+ <li> <a href="" style="color:">  Fault Prediction in
 Electrical Smart Grids: State-of-the-art and Future Trends under a Computational
 Perspective </a><br>Carmelo Ardito, Aneglo Cataldi, <b>Yashar Deldjoo</b>, Tommaso di Noia, Eugenio Di Sciascio and Fatemeh Nazary<br> <i> Under Review, 2022 </i> <br>
  </li>
@@ -33,10 +33,10 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <li> <a href="" style="color: #B509AC"> Leveraging Content-Style Item Representation for Visual Recommendation </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Danielle Malitesta, Felice Merra, Antonio <br><i>ECIR 2022  </i><br> [<a href="https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation" style="color: #B509AC">PrePrint</a>] 
 </li>
 
-<li> <a href="2" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+<li> <a href="2" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
-<li> <a href="2" style="color: #B509AC">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+<li> <a href="2" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
  </ul>
