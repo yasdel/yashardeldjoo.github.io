@@ -46,9 +46,10 @@ redirect_from:
 </ul>
 
 <h3>Invited Keynotes</h3>
+<ul>
      <li><date>Nov-2021</date> "Fairness of Machine Learning in Recommender Systems" at Vector Instoute for AI, Toronto, Canada</li>
      <li><date>Oct-2021</date> "Fairness of Machine Learning in Recommender Systems" at BMW Intelligence Center, Germany</li>
-
+</ul>
 <h3>Academic Services</h3>
 
 <ul>
