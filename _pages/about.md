@@ -67,7 +67,9 @@ redirect_from:
 <h2>news</h2>
         <ul>
         <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
+        <li><date>Nov-2021</date>Delivered a TALK at the Vector Institute for AI, Toronto, Canada.</li>
         <li><date>Oct-2021</date>Our paper on visual content explaination accepted to ECIR'22.</li>
+        <li><date>Oct-2021</date>Delivered a keynote at BMW Intelligence Center, Munich, Germany.</li>
         <li><date>August-2021</date> Two <b>awards</b> for our papers at CIKM'21 and AdvML@KDD'21!</li>
         <li><date>May-2021</date> The AdveRSe2021 workshop on Adversarial Machine Learning for Recommendation and Search accepted to CIKM!</li>
         <li><date>April-2021</date> Two papers accepted to SIGIR'21, one Perspective and one Full!</li>
