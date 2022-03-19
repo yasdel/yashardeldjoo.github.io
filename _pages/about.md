@@ -19,6 +19,10 @@ major industry players such as Twitter, Xing or Spotify.
 <br> 
 </p>
 
+  <li> <p style="color:red;"><b>New:</b></p> Special Issue on Fairness and Explainability of Information Access Systems (Deadline: March 31, 2022) a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good
+" target="\_blank" style="color: #B509AC">Call for papers</a> </li>
+
+
 
 <h3> Systematic Literature Reviews:</h3>
 <ul>
