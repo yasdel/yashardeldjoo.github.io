@@ -20,7 +20,7 @@ major industry players such as Twitter, Xing or Spotify.
 </p>
 
 
-<h3> Specialized Monographs:</h3>
+<h3> Systematic Literature Reviews:</h3>
 <ul>
   <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. "A Survey of Research on Fair Recommender Systems", PrePrint version to appear online in April 2022 </li>
    <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022 </li>
