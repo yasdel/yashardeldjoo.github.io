@@ -58,7 +58,7 @@ major industry players such as Twitter, Xing or Spotify.
 
 <ul>
   <li> Organizer:  <a href="https://icwe2022.webengineering.org/organizing-committee/" style="color: #B509AC">International Conference on Web Engineering 2022 (ICWE'22)</a>, <a href="https://sisinflab.github.io/iir2021/organization/" style="color: #B509AC"> Italian Workshop on Information Retrieval 2021 (IIR'21)</a>, <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
-  <li> Editorship: IP&M (guest editor to special issue)
+  <li> Journal Editorship: IP&M 
   <li> PC Member (regularly since 2019) 
   <ul> <li> RecSys </li>
        <li> SIGIR </li>
