@@ -15,9 +15,10 @@ redirect_from:
 <p> I am currently on a sabbatical at the University of California, San Diego, where I am working with <a href="https://cseweb.ucsd.edu/~jmcauley/" target="\_blank" style="color: #B509AC">  Julian McAuely</a>. I work as an assistant professor at <a href="http://www.en.poliba.it/" target="\_blank" style="color: #B509AC">Polytechnic University of Bari</a> in Italy, where I am a member of the Information Systems Laboratory (SisInf Lab), under the direction of <a href="http://sisinflab.poliba.it/dinoia/" target="\_blank" style="color: #B509AC">Tommaso di Noia</a>. Specifically, my research focuses on developing trustworthy machine learning for information-seeking (in particular recommendation, QA, and conversational agents) in order to better understand their robustness, fairness, privacy, generalizability, and interpretability, as well as (ii) developing multimodal recommendation and conversational systems. A number of our recent publications, including SIGIR'21, CIKM'21, and AdvML@KDD'21, have received <u>recognition</u> and appreciation from the scientific community. <br> <br> 
  
   I am an active member of the recommender systems community, having published/presented tutorials at key conferences and top-tier journals. I have published several systematic literature reviews on <i>adversarial machine learning in RecSys</i>, <i>algorithmic fairness in RecSys</i>, and domain-specific tasks such as <i>multimedia recommendation</i>, <i>interactive QA</i> and <i>music recommender system</i> (see specialized monographs). I have further had the honor of contributing two book chapters to the RS handbooks, the <u>best book</u> currently on RecSys. From 2017 to 2020, I was an organizer of a series of machine-learning challenges in cooperation with 
-major industry players such as Twitter, Xing or Spotify. 
+major industry players such as Twitter, Xing or Spotify. <br> 
 <br> 
 </p>
+
 
 <p style="color:red;"><b> New:</b></p> Special Issue on Fairness and Explainability of Information Access Systems (Deadline: March 31, 2022). <br> <a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good" target="\_blank" style="color: #B509AC">Call for papers</a>
 
