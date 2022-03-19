@@ -19,7 +19,7 @@ major industry players such as Twitter, Xing or Spotify.
 <br> 
 </p>
 
-<p style="color:red;"><b>New:</b></p> Special Issue on Fairness and Explainability of Information Access Systems (Deadline: March 31, 2022) <a> href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good
+<p style="color:red;"><b>New:</b></p> Special Issue on Fairness and Explainability of Information Access Systems (Deadline: March 31, 2022) <a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good
 " target="\_blank" style="color: #B509AC">Call for papers</a>
 
 
@@ -59,6 +59,7 @@ major industry players such as Twitter, Xing or Spotify.
 
 <ul>
   <li> Organizer:  <a href="https://icwe2022.webengineering.org/organizing-committee/" style="color: #B509AC">International Conference on Web Engineering 2022 (ICWE'22)</a>, <a href="https://sisinflab.github.io/iir2021/organization/" style="color: #B509AC"> Italian Workshop on Information Retrieval 2021 (IIR'21)</a>, <a href="https://recsys.acm.org/recsys19/" style="color: #B509AC">ACM RecSys Challenge 2019</a> (session-based hotel recommendation/Trivago), <a href="https://recsys.acm.org/recsys17/challenge/" style="color: #B509AC">ACM RecSys Challenge 2017</a> (Job Recommendation/Xing), <a href="http://www.multimediaeval.org/mediaeval2019/mmrecsys/" style="color: #B509AC">MediaEval 2019</a> (MovieRec and NEWSReel), <a href="http://www.multimediaeval.org/mediaeval2018/content4recsys/index.html" style="color: #B509AC">MediaEval 2018</a> (MovieRec)</li>
+  <li> Editorship: IP&M (guest editor to special issue)
   <li> PC Member (regularly since 2019) 
   <ul> <li> RecSys </li>
        <li> SIGIR </li>
@@ -66,7 +67,17 @@ major industry players such as Twitter, Xing or Spotify.
        <li> ECIR </li>
        <li> UMAP </li>
    </ul>
-  <li> Journal Reviewer: ACM Computing Surveys, UMUAI, TOIS, Frontiers, Expert Systems with Applications, IEEE Access </li>
+   </li>
+    <li> Journal Reviewer:
+  <ul> <li> ACM Computing Surveys </li>
+       <li> UMUAI </li>
+       <li> IPM&M </li>
+       <li> ACM TOIS </li>
+       <li> Expert Systems with Applications </li>
+       <li>  IEEE Access </li>
+       <li> Frontiers </li>
+   </ul>
+   </li>
 </ul>
 
 
