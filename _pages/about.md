@@ -70,7 +70,7 @@ major industry players such as Twitter, Xing or Spotify.
     <li> Journal Reviewer:
   <ul> <li> ACM Computing Surveys </li>
        <li> UMUAI </li>
-       <li> IPM&M </li>
+       <li> IP&M </li>
        <li> ACM TOIS </li>
        <li> Expert Systems with Applications </li>
        <li>  IEEE Access </li>
