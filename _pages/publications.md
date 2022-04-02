@@ -13,10 +13,16 @@ author_profile: true
  
  <li> <a href="" style="color:">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
  </li>
+ 
+<li> <a href="2" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+</li>
 
- <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC"> Content-driven Music Recommendation:
-Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review at the Computer Science Review, 2022 </i> <br> 
+<li> <a href="2" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+</li>
+
+ <li>CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems<br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
  </li>
+
  
  <li> <a href="" style="color:">  Fault Prediction in
 Electrical Smart Grids: State-of-the-art and Future Trends under a Computational
@@ -33,11 +39,9 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <li> <a href="" style="color: #B509AC"> Leveraging Content-Style Item Representation for Visual Recommendation </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Danielle Malitesta, Felice Merra, Antonio <br><i>ECIR 2022  </i><br> [<a href="https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation" style="color: #B509AC">PrePrint</a>] 
 </li>
 
-<li> <a href="2" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
-</li>
+ <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC"> Content-driven Music Recommendation:
+Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review at the Computer Science Review, 2022 </i> <br> </li>
 
-<li> <a href="2" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
-</li>
 
  </ul>
 <h1 class="year">2021</h1>
@@ -50,10 +54,7 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 
 <li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
-</li>
- 
-   <li> <a href=" style="color">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"� </a> <br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
- </li>
+</li> 
 
   <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"🏆</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21) (Short, accept rate: 28.3%)</i> <br>
  </li>
