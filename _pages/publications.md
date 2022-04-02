@@ -8,6 +8,9 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
+ 
+ <li>CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems<br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
+ </li>
  <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review, 2022 </i> <br> 
  </li>
  
@@ -20,8 +23,6 @@ author_profile: true
 <li> <a href="2" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
- <li>CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems<br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
- </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
 User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> <i>Journal of Intelligent Information Systems, 2022  </i><br>
