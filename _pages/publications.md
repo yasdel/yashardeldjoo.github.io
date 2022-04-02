@@ -23,12 +23,6 @@ author_profile: true
  <li>CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems<br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
  </li>
 
- 
- <li> <a href="" style="color:">  Fault Prediction in
-Electrical Smart Grids: State-of-the-art and Future Trends under a Computational
-Perspective </a><br>Carmelo Ardito, Aneglo Cataldi, <b>Yashar Deldjoo</b>, Tommaso di Noia, Eugenio Di Sciascio and Fatemeh Nazary<br> <i> Under Review, 2022 </i> <br>
- </li>
-   
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
 User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> <i>Journal of Intelligent Information Systems, 2022  </i><br>
  </li>
