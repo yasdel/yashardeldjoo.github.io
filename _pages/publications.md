@@ -7,11 +7,11 @@ author_profile: true
 <h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">
+
+ <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review, 2022 </i> <br> 
+ </li>
  
  <li> <a href="" style="color:">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
- </li>
-
-<li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review at ACM CSUR, 2022 </i> <br> 
  </li>
 
  <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC"> Content-driven Music Recommendation:
@@ -51,6 +51,9 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2021 (CSUR) (IF: 8.960) </i> <br>
 [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
 </li>
+ 
+   <li> <a href=" style="color">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"� </a> <br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
+ </li>
 
   <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"🏆</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21) (Short, accept rate: 28.3%)</i> <br>
  </li>
