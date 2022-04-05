@@ -26,7 +26,7 @@ major industry players such as Twitter, Xing or Spotify. <br>
 
 <h3> Literature Reviews:</h3>
 <ul>
-  <li> Mohammadmehdi Naghiaei, Hossein A. Rahmani,<b>Yashar Deldjoo</b>"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems", SIGIR, 2022 (Accepted) </li>
+  <li> Mohammadmehdi Naghiaei, Hossein A. Rahmani,<b>Yashar Deldjoo</b>"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems", SIGIR, 2022 (FULL - Accepted) </li>
   <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. "A Survey of Research on Fair Recommender Systems", PrePrint version to appear online in April 2022 </li>
    <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022 </li>
     <li> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He. Multimedia Recommender Systems: Algorithms and Challenges", Recommender Systems handbook (3rd Edition), To Appear online in April 2022. </li>
@@ -86,6 +86,8 @@ major industry players such as Twitter, Xing or Spotify. <br>
 <div class="news">
 <h2>news</h2>
         <ul>
+          <li><date>Marc-2022</date> One Full paper on Multi-sided fairness optimization in RecSys accepted to SIGIR'22! </li>
+
         <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
         <li><date>Nov-2021</date> Delivered a TALK at the Vector Institute for AI, Toronto, Canada.</li>
         <li><date>Oct-2021</date> Our paper on visual content explaination accepted to ECIR'22.</li>
