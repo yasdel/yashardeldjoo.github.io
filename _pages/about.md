@@ -86,7 +86,7 @@ major industry players such as Twitter, Xing or Spotify. <br>
 <div class="news">
 <h2>news</h2>
         <ul>
-          <li><date>Marc-2022</date> One Full paper on Multi-sided fairness optimization in RecSys accepted to SIGIR'22! </li>
+          <li><date>Marc-2022</date> One Full paper on "Multi-sided fairness optimization" in RecSys accepted to SIGIR'22! </li>
 
         <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
         <li><date>Nov-2021</date> Delivered a TALK at the Vector Institute for AI, Toronto, Canada.</li>
