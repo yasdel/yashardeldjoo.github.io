@@ -59,7 +59,6 @@ Multimodality in RecSys and Conversation.
      <li>  Vito W. Anelli, <b>Yashar Deldjoo</b>, Tommaso di Noia, Daniele Malitesta, Felice A. Merra. <a href="https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/html/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.html" style="color: #B509AC">A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems"</a>, CVPR 2021. </li>
   </ul>
  Security and Privacy in RecSys (Adversarial + Federated ML).
-  
   <ul>
    <li>  Vito W. Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a>, CIKM 2021. 🏆</li>
    <li>  Vito W. Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a>, ADvML@KDD 2021. 🏆</li>
