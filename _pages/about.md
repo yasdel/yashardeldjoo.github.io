@@ -47,17 +47,23 @@ If you need a personal copy of these book chapters, just drop me an email at del
 
 Fairness and Data Characteristics.
 <ul>
-Fairness and Data Characteristics.
   <li> M. Mehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <a href="https://arxiv.org/pdf/2204.08085.pdf" style="color: #B509AC">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"</a>, SIGIR, 2022 (FULL). </li>
+   <li>  <b>Yashar Deldjoo</b>, Vito W. Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
      <li>  <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia. <a href="https://www.sciencedirect.com/science/article/pii/S0306457321001503" style="color: #B509AC">"Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics"</a>, IP&M 2021. </li>
     <li>  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020 (FULL).  </li>
   Multimodality.
-   <li> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">"Toward Multi-modal Conversational Information Seeking"</a>, SIGIR 2021. (perspective, honorable meta-review)</li>
+  </ul>
+Multimodality in RecSys and Conversation.
+  <ul>
+<li> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">"Toward Multi-modal Conversational Information Seeking"</a>, SIGIR 2021. (perspective, honorable meta-review)</li>
+        <li>  <b>Yashar Deldjoo</b>, Tommaso di Noia, Daniele Malitesta, Felice A. Merra. <a href="https://link.springer.com/chapter/10.1007/978-3-030-99739-7_10" style="color: #B509AC">Leveraging Content-Style Item Representation for Visual Recommendation"</a>, ECIR 2022. </li>
+     <li>  Vito W. Anelli, <b>Yashar Deldjoo</b>, Tommaso di Noia, Daniele Malitesta, Felice A. Merra. <a href="https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/html/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.html" style="color: #B509AC">A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems"</a>, CVPR 2021. </li>
+  </ul>
+ Security and Privacy in RecSys (Adversarial + Federated ML).
+    <ul>
    <li>  Vito W. Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a>, CIKM 2021. 🏆</li>
    <li>  Vito W. Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a>, ADvML@KDD 2021. 🏆</li>
   <li>  Vito W. Anelli, <b>Yashar Deldjoo</b>, Tommaso di Noia, Daniele Malitesta, Felice A. Merra. <a href="https://yasdel.github.io/files/SIGIR2021b.pdf" style="color: #B509AC">"A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images"</a>, SIGIR 2021 (FULL). </li>
-  <li>  Vito W. Anelli, <b>Yashar Deldjoo</b>, Tommaso di Noia, Daniele Malitesta, Felice A. Merra. <a href="https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/html/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.html" style="color: #B509AC">A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems"</a>, CVPR 2021. </li>
-   <li>  <b>Yashar Deldjoo</b>, Vito W. Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
   <li>  Vito W. Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci. <a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">"How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank"</a>, ACM SAC 2021.  </li>
 </ul>
 
