@@ -29,6 +29,8 @@ redirect_from:
 <li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition), pp 335–379, Springer 2022. </li> 
 </ul>
 
+If you need a personal draft of these book chapters, just drop me an email at deldjooy@acm.org.
+
 <h3> Literature Reviews:</h3>
 <ul>
   <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. <a href="https://arxiv.org/pdf/2205.11127.pdf" style="color: #B509AC">"A Survey of Research on Fair Recommender Systemss"</a>, Under Review at the IP&M journal, 2022 .</li>
