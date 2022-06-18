@@ -44,7 +44,7 @@ major industry players such as Twitter, Xing or Spotify. <br>
 
 
 <ul>
-    <li> M.Mehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <a href="https://arxiv.org/pdf/2204.08085.pdf" style="color: #B509AC">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems", SIGIR, 2022 (FULL - Accepted) </li>
+    <li> M.Mehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <a href="https://arxiv.org/pdf/2204.08085.pdf" style="color: #B509AC">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"</a>, SIGIR, 2022 (FULL - Accepted) </li>
    <li> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">"Toward Multi-modal Conversational Information Seeking"</a>, SIGIR 2021. (honorable meta-review)</li>
    <li>  Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a>, CIKM 2021. 🏆</li>
    <li>  Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a>, ADvML@KDD 2021. 🏆</li>
