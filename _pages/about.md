@@ -27,7 +27,7 @@ major industry players such as Twitter, Xing or Spotify. <br>
 <h3> Highlighted Book Chapters:</h3>
 <ul>
 <li> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">" Multimedia Recommender Systems: Algorithms and Challenges"</a>, Recommender Systems handbook (3rd Edition), pp 973–1014, Springer 2022. </li>
-<li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition)", pp 335–379, Springer 2022 </li> 
+<li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition)", pp 335–379, Springer 2022. </li> 
 </ul>
 
 <h3> Literature Reviews:</h3>
