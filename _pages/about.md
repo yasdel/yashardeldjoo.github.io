@@ -48,6 +48,7 @@ If you need a personal copy of these book chapters, just drop me an email at del
 
 <ul>
     <li> M.Mehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <a href="https://arxiv.org/pdf/2204.08085.pdf" style="color: #B509AC">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"</a>, SIGIR, 2022 (FULL - Accepted) </li>
+    <li>  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
    <li> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani. <a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">"Toward Multi-modal Conversational Information Seeking"</a>, SIGIR 2021. (honorable meta-review)</li>
    <li>  Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"</a>, CIKM 2021. 🏆</li>
    <li>  Vito Walter Anelli,  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://arxiv.org/abs/2107.13876" style="color: #B509AC">"Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality"</a>, ADvML@KDD 2021. 🏆</li>
@@ -56,8 +57,6 @@ If you need a personal copy of these book chapters, just drop me an email at del
    <li>  <b>Yashar Deldjoo</b>, Alejandro Bellogin, Tommaso Di Noia. <a href="https://www.sciencedirect.com/science/article/pii/S0306457321001503" style="color: #B509AC">"Explaining Recommender Systems Fairness and Accuracy through the Lens of Data Characteristics"</a>, IP&M 2021. </li>
    <li>  <b>Yashar Deldjoo</b>, Vito Walter Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
   <li>  Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci. <a href="https://yasdel.github.io/files/SAC2021_RecSys.pdf" style="color: #B509AC">"How to Put Users in Control of their Data in Federated Top-N Recommendation with Learning to Rank"</a>, ACM SAC 2021.  </li>
-   <li>  <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra. <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC">"How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models"</a>, SIGIR 2020.  </li>
-   <li>  <b>Yashar Deldjoo</b>, Maurizio Ferrari Dacrema, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" style="color: #B509AC">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.  </li>
 </ul>
 
 <h3>Invited Keynotes/Talks</h3>
