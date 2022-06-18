@@ -29,7 +29,7 @@ redirect_from:
 <li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition), pp 335–379, Springer 2022. </li> 
 </ul>
 
-If you need a personal draft of these book chapters, just drop me an email at deldjooy@acm.org.
+If you need a personal copy of these book chapters, just drop me an email at deldjooy@acm.org.
 
 <h3> Literature Reviews:</h3>
 <ul>
