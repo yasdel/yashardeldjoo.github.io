@@ -32,15 +32,20 @@ redirect_from:
 If you need a personal copy of these book chapters, just drop me an email at deldjooy@acm.org.
 
 <h3> Literature Reviews:</h3>
+Focoused on Recommender Systems.
 <ul>
-  <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. <a href="https://arxiv.org/pdf/2205.11127.pdf" style="color: #B509AC">"A Survey of Research on Fair Recommender Systemss"</a>, Under Review at the IP&M journal, 2022 .</li>
+  <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. <a href="https://arxiv.org/pdf/2205.11127.pdf" style="color: #B509AC">"Fairness in Recommender Systems: Research Landscape and Future Directions"</a>, Under Review at the UMUAI journal, 2022 .</li>
    <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022. </li>  
  <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys, 2021.</li>
   <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
      <li>  <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees. <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC">"Content-driven Music Recommendation: Evolution, State of the Art, and Challenges"</a>, Under Review, 2022. </li>
   <li> Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi. <a href="https://link.springer.com/article/10.1007/s13735-018-0154-2" style="color: #B509AC">"Current Challenges and Visions in Music Recommender Systems Research"</a>, IJMIR, 2018. </li>
-   <li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
-   <li> Giovanni Maria Biancofiore, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fedelucio Narducci. "Interactive Question Answering Systems: Literature Review", Under Review, 2022. </li>  
+
+Interactive QA and Conversational Systems.
+     <li> Giovanni Maria Biancofiore, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fedelucio Narducci. "Interactive Question Answering Systems: Literature Review", Under Review, 2022. </li> 
+  
+Trustwothiness (security, privacy) in Blockchain and Smart-Grid.
+     <li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
 </ul>
 
 <h3> Selceted Technical Papers:</h3>
@@ -101,7 +106,11 @@ Multimodality in RecSys and Conversation.
 <div class="news">
 <h2>news</h2>
         <ul>
-          <li><date>March-2022</date> One Full paper on "Multi-sided fairness optimization" in RecSys accepted to SIGIR'22! </li>
+          
+           <li><date>June 2022</date> One paper on the "security of smart grids" accepted to AdvML@KDD'22 workshop! </li>
+           <li><date>May-June 2022</date> Two papers accepted to the journal of Expert Systems with Applications! </li>
+
+          <li><date>March-2022</date> One Full paper on "Multi-sided fairness optimization in Recommender Systems" accepted to SIGIR'22! </li>
 
         <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
         <li><date>Nov-2021</date> Delivered a TALK at the Vector Institute for AI, Toronto, Canada.</li>
