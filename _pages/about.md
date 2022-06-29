@@ -43,7 +43,8 @@ Focoused on Recommender Systems.
 
 Interactive QA and Conversational Systems.
      <li> Giovanni Maria Biancofiore, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fedelucio Narducci. "Interactive Question Answering Systems: Literature Review", Under Review, 2022. </li> 
-  
+ </ul> 
+ <ul>
 Trustwothiness (security, privacy) in Blockchain and Smart-Grid.
      <li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
 </ul>
