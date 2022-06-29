@@ -45,9 +45,10 @@ Interactive QA and Conversational Systems.
   <ul>
      <li> Giovanni Maria Biancofiore, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fedelucio Narducci. "Interactive Question Answering Systems: Literature Review", Under Review, 2022. </li> 
  </ul> 
- <ul>
+
 Trustwothiness (security, privacy) in Blockchain and Smart Grids.
-     <li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
+ <ul>
+<li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
 </ul>
 
 <h3> Selceted Technical Papers:</h3>
