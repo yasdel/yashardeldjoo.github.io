@@ -23,33 +23,39 @@ redirect_from:
 
 
 
-<h3> Highlighted Book Chapters:</h3>
+<h3> Highlighted Monographs:</h3>
+Fashion and Multi-media Recommender Systems.
 <ul>
+<li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022. </li>  
+<li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
 <li> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">"Multimedia Recommender Systems: Algorithms and Challenges"</a>, Recommender Systems handbook (3rd Edition), pp 973–1014, Springer 2022. </li>
-<li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition), pp 335–379, Springer 2022. </li> 
-</ul>
-
-If you need a personal copy of these book chapters, just drop me an email at deldjooy@acm.org.
-
-<h3> Literature Reviews:</h3>
-Focoused on Recommender Systems.
+ </ul>
+ 
+Trustworthy Recommender Systems.
 <ul>
   <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. <a href="https://arxiv.org/pdf/2205.11127.pdf" style="color: #B509AC">"Fairness in Recommender Systems: Research Landscape and Future Directions"</a>, Under Review, 2022 .</li>
-   <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022. </li>  
  <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys, 2021.</li>
-  <li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
+ <li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition), pp 335–379, Springer 2022. </li> 
+ </ul>
+  
+Music Recommender Systems.
+<ul>
      <li>  <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees. <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC">"Content-driven Music Recommendation: Evolution, State of the Art, and Challenges"</a>, Under Review, 2022. </li>
   <li> Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi. <a href="https://link.springer.com/article/10.1007/s13735-018-0154-2" style="color: #B509AC">"Current Challenges and Visions in Music Recommender Systems Research"</a>, IJMIR, 2018. </li>
- </ul> 
+  
+ </ul>
+ 
+ SmartGrids and Blockhain in AI.
+ <ul>
+<li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
+</ul>
+
 Interactive QA and Conversational Systems.
   <ul>
      <li> Giovanni Maria Biancofiore, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fedelucio Narducci. "Interactive Question Answering Systems: Literature Review", Under Review, 2022. </li> 
  </ul> 
 
-Trustwothiness (security, privacy) in Blockchain and Smart Grids.
- <ul>
-<li> Carmelo Ardito, <b>Yashar Deldjoo</b>, Tommaso di Noia, Fatemeh Nazary. "Fault Prediction in Electrical Smart Grids: State-of-the-art and Future Trends under a Computational Perspective", Under Review at the IEEE Transaction of Industrial Informatices, 2022. </li>  
-</ul>
+If you need a personal copy of these book chapters, just drop me an email at deldjooy@acm.org.
 
 <h3> Selceted Technical Papers:</h3>
 
