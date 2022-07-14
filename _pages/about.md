@@ -34,9 +34,12 @@ Fashion and Multi-media Recommender Systems.
 Trustworthy Recommender Systems.
 <ul>
   <li> <b>Yashar Deldjoo</b>, Dietmar Jannach,  Alejandro Bellogin et al. <a href="https://arxiv.org/pdf/2205.11127.pdf" style="color: #B509AC">"Fairness in Recommender Systems: Research Landscape and Future Directions"</a>, Under Review, 2022 .</li>
- <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys, 2021.</li>
+    <li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Antonio Ferrara, Fedelucio Narducci <a href="" style="color: #B509AC">"Privacy in Recommender Systems"</a>, Under Review, 2022 .</li>
+
  <li> Vito Walter Anello, <b>Yashar Deldjoo</b>, Tommaso di Noia, Felice Antonio Merra. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">"Adversarial Recommender Systems: Attack, Defense, and Advances"</a>, Recommender Systems handbook (3rd Edition), pp 335–379, Springer 2022. </li> 
- </ul>
+ <li> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice A. Merra. <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">"A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks"</a>, ACM Computing Surveys, 2021.</li>
+
+</ul>
   
 Music Recommender Systems.
 <ul>
