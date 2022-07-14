@@ -27,8 +27,8 @@ redirect_from:
 Fashion and Multi-media Recommender Systems.
 <ul>
 <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, Under Review, 2022. </li>  
-<li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
 <li> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He. <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">"Multimedia Recommender Systems: Algorithms and Challenges"</a>, Recommender Systems handbook (3rd Edition), pp 973–1014, Springer 2022. </li>
+<li> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. <a href="https://dl.acm.org/doi/10.1145/3407190" style="color: #B509AC">"Recommender Systems Leveraging Multimedia Content"</a>, ACM Computing Surveys, 2020. </li>
  </ul>
  
 Trustworthy Recommender Systems.
