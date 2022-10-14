@@ -28,7 +28,7 @@ More specifically, I have been exploring problems related to *trustworthy* ML fo
 Special Issue on n Trustworthy Recommender Systems at the TORS <br> (Deadline: <ins><b>Jan 15, 2023</b></ins>). <a href="https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-SI-Trustworthy-Recommender-Systems-1659471050877.pdf" target="\_blank" style="color: #B509AC">Call for papers</a>
 
 
-Special Issue on Fairness and Explainability of Information Access Systems at the IP&M <br> (Deadline: <del>March 31, 2022</del> <ins><b>April 28, 2022</b></ins>). <a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good" target="\_blank" style="color: #B509AC">Call for papers</a>
+Special Issue on Fairness and Explainability of Information Access Systems at the IP&M <br> (Deadline: <del>March 31, 2022</del> <del><b>April 28, 2022</b></del>). <a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good" target="\_blank" style="color: #B509AC">Call for papers</a>
 
 
 
