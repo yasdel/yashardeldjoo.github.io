@@ -9,7 +9,8 @@ author_profile: true
 
   <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management </i> <br> 
  </li>
- 
+    <li> <a href="" style="color:">   Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo <br> <i>ECIR'23 (FULL, accept rate: 20%) </i>  [<a href="      https://www.researchgate.net/profile/Daniele-Malitesta/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering/links/63974defe42faa7e75b9e4ee/Auditing-Consumer-and-Producer-Fairness-in-Graph-Collaborative-Filtering.pdf" style="color: #B509AC">PrePrint</a>] <br> 
+ </li> 
   <li> <a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> ACM Computing Surveys, Accepted </i> <br> 
  </li>
  
