@@ -9,12 +9,17 @@ author_profile: true
 
   <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br> 
  </li>
-     <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI </i>  <br> 
- </li>
+
     <li> <a href="" style="color:">   Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo <br> <i>ECIR'23 (FULL, accept rate: 20%) </i> <br>  [<a href="      https://www.researchgate.net/profile/Daniele-Malitesta/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering/links/63974defe42faa7e75b9e4ee/Auditing-Consumer-and-Producer-Fairness-in-Graph-Collaborative-Filtering.pdf" style="color: #B509AC">PrePrint</a>] 
  </li> 
+
+       <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI </i>  <br> 
+ </li>
   <li> <a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i> <br> 
  </li>
+  
+  <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC"> Content-driven Music Recommendation:
+Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review at the Computer Science Review, 2022 </i> <br> </li>
  
  </ul>
 
@@ -39,10 +44,6 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 
 <li> <a href="" style="color: #B509AC"> Leveraging Content-Style Item Representation for Visual Recommendation </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Danielle Malitesta, Felice Merra, Antonio <br><i>ECIR 2022  </i><br> [<a href="https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation" style="color: #B509AC">PrePrint</a>] 
 </li>
-
- <li> <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC"> Content-driven Music Recommendation:
-Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review at the Computer Science Review, 2022 </i> <br> </li>
-
 
  </ul>
 <h1 class="year">2021</h1>
