@@ -26,10 +26,10 @@ author_profile: true
   
  <li> <a href=" https://dl.acm.org/doi/10.1145/3477495.3531959" style="color: #B509AC"> CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a><br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> [<a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531959" style="color: #B509AC">PDF</a>] <br>
  </li>
- <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+ <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> Bbook chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
-<li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+<li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
