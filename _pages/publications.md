@@ -20,8 +20,9 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-  <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC">Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review </i>  <br> 
+   <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review </i>  <br> 
  </li>
+  
  <li> <a href=" https://dl.acm.org/doi/10.1145/3477495.3531959" style="color: #B509AC"> CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a><br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> [<a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531959" style="color: #B509AC">PDF</a>] <br>
  </li>
  <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
