@@ -7,7 +7,7 @@ author_profile: true
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
 
-  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management </i> <br> 
+  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br> 
  </li>
     <li> <a href="" style="color:">   Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo <br> <i>ECIR'23 (FULL, accept rate: 20%) </i>  [<a href="      https://www.researchgate.net/profile/Daniele-Malitesta/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering/links/63974defe42faa7e75b9e4ee/Auditing-Consumer-and-Producer-Fairness-in-Graph-Collaborative-Filtering.pdf" style="color: #B509AC">PrePrint</a>] <br> 
  </li> 
