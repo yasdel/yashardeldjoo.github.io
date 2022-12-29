@@ -4,25 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h1 class="year">2023</h1>
+  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color:">A unifying and general account of fairness measurement in recommender systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i>Information Processing & Management </i> [<a href="https://reader.elsevier.com/reader/sd/pii/S0306457322002163?token=3E0FB09B243EDBC68E433E23E67FFA63916B78EDBD584CDEB6AA7DEBEDA44E32A6F490852497B5E163C7F4A73E6568A9&originRegion=eu-west-1&originCreation=20221229092041" style="color: #B509AC">PDF</a>] <br> 
+ </li>
+ 
+  <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> ACM Computing Surveys, Accepted </i> <br> 
+ </li>
+ 
 <h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">
 
- 
- <li>CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems<br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br>
+  <li> <a href="https://arxiv.org/abs/2205.11127" style="color:">Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i>Under Review </i>  <br> 
  </li>
- <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> Under Review, 2022 </i> <br> 
+ <li> <a href=" https://dl.acm.org/doi/10.1145/3477495.3531959" style="color: #B509AC"> CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a><br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> [<a href="[https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf](https://dl.acm.org/doi/pdf/10.1145/3477495.3531959)" style="color: #B509AC">PDF</a>] <br>
  </li>
- 
- <li> <a href="" style="color:">A Survey of Research on Fair Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i> PrePrint to be online in April, 2022 </i> <br> 
- </li>
- 
-<li> <a href="2" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+ <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color:">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
 
-<li> <a href="2" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+<li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color:">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> To appear as a book chapter on the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
-
 
 <li> <a href="https://link.springer.com/article/10.1007/s10844-021-00688-z" style="color: #B509AC">  	
 User-controlled federated matrix factorization for recommender systems </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Antonio Ferrara, Fedelucio Narducci  <br> <i>Journal of Intelligent Information Systems, 2022  </i><br>
