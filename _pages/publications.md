@@ -7,7 +7,7 @@ author_profile: true
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
 
-  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color:">A unifying and general account of fairness measurement in recommender systems</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i>Information Processing & Management </i> [<a href="https://reader.elsevier.com/reader/sd/pii/S0306457322002163?token=3E0FB09B243EDBC68E433E23E67FFA63916B78EDBD584CDEB6AA7DEBEDA44E32A6F490852497B5E163C7F4A73E6568A9&originRegion=eu-west-1&originCreation=20221229092041" style="color: #B509AC">PDF</a>] <br> 
+  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management </i> <br> 
  </li>
  
   <li> <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i> ACM Computing Surveys, Accepted </i> <br> 
@@ -20,7 +20,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;">
 
-  <li> <a href="https://arxiv.org/abs/2205.11127" style="color:">Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin, et al. <br> <i>Under Review </i>  <br> 
+  <li> <a href="https://arxiv.org/abs/2205.11127" style="color:">Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review </i>  <br> 
  </li>
  <li> <a href=" https://dl.acm.org/doi/10.1145/3477495.3531959" style="color: #B509AC"> CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a><br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> [<a href="[https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf](https://dl.acm.org/doi/pdf/10.1145/3477495.3531959)" style="color: #B509AC">PDF</a>] <br>
  </li>
