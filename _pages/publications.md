@@ -29,6 +29,11 @@ Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Marku
  </li>
  <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> Bbook chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
+  
+<li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2022 (CSUR) (IF: 14.32) </i> <br>
+[<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
+</li>
+  
 
 <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9" style="color: #B509AC">  Adversarial Machine Learning in Recommender Systems: Attack, Defense, and Advances </a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> Book chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
@@ -51,11 +56,11 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <li> <a href="https://doi.org/10.1145/3404835.3462806" style="color: #B509AC"> Towards Multi-Modal Conversational Information Seeking </a><br> <b>Yashar Deldjoo</b>, Johanne R. Trippas, Hamed Zamani<br><i>Proc. of the 44th ACM SIGIR Conf. on Research and Development in Information Retrieval, 2021 (SIGIR’21) (Perspective, accept rate: 27%) </i> <br>
 [<a href="https://yasdel.github.io/files/SIGIR_2021__Multi_Modal_Conversational_Information_Seeking.pdf" style="color: #B509AC">PDF</a>] 
 </li>
+  
+  <li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i>ACM Computing Surveys, 2021 (CSUR) (IF: 14.320) </i> <br>
+[<a href="https://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>]</li>
 
-<li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2021 (CSUR) (IF: 14.32) </i> <br>
-[<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR2021_AMLRecSys.txt" style="color: #B509AC">bibtex</a>] 
-</li> 
-
+ 
   <li> <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482046" style="color: #B509AC">"A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders"🏆</a> <br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021 (CIKM’21) (Short, accept rate: 28.3%)</i> <br>
  </li>
   
@@ -94,11 +99,6 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
-
-
-<li> <a href="https://doi.org/10.1145/3407190" style="color: #B509AC"> Recommender Systems Leveraging Multimedia Content </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Paolo Cremonesi, Gabriella Pasi <br><i>ACM Computing Surveys, 2020 (CSUR) (IF: 14.320) </i> <br>
-[<a href="https://yasdel.github.io/files/CSUR_MMRecSys.pdf" style="color: #B509AC">PDF</a>] [<a href="https://yasdel.github.io/files/CSUR_MMRecSys.txt" style="color: #B509AC">bibtex</a>] </li>
-
 
 <li> <a href="https://doi.org/10.1145/3412379" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology, 2020 (TIST) (IF: 3.971)</i> <br>
 [<a href="http://yasdel.github.io/files/TIST_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/TIST_2020.txt" style="color: #B509AC">bibtex</a>]</li>
