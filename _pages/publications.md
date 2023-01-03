@@ -6,9 +6,9 @@ author_profile: true
 ---
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
-       <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems &nbsp; &nbsp; &nbsp;</a>  <td style="text-align: right;">
+       <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems</a> <br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, G. Pellegrini, Alejandro Bellogin, Tommaso Di Noia &nbsp; &nbsp;<td style="text-align: right;">
       <img src="https://yasdel.github.io/assets/amazon_logo_scaled.png" alt="https://yasdel.github.io/assets/amazon_logo_scaled.png" style="width: 65px">
-    </td><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, G. Pellegrini, Alejandro Bellogin, Tommaso Di Noia   <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i>  <br> [<a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC">PrePrint</a>]  <br>
+    </td>  <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i>  <br> [<a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC">PrePrint</a>]  <br>
              
  </li>
         <li> <a href="" style=""> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> [<a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC">PrePrint</a>] 
