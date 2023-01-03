@@ -50,7 +50,7 @@ Trustworthy ML in Recommender Systems (Fairness, Security and Privacy).
   
 Music Recommender Systems.
 <ul>
-     <li>  <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees. <a href="https://arxiv.org/pdf/2107.11803.pdf" style="color: #B509AC">"Content-driven Music Recommendation: Evolution, State of the Art, and Challenges"</a>, Under Review, 2022. </li>
+     <li>  <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees. <a href="[https://arxiv.org/pdf/2107.11803.pdf](https://arxiv.org/abs/2107.11803)" style="color: #B509AC">"Content-driven Music Recommendation: Evolution, State of the Art, and Challenges"</a>, Computer Science Review, Under Review, 2023. </li>
   <li> Markus Schedl, Hamed Zamani, Ching-Wei Chen, <b>Yashar Deldjoo</b>, Mehdi Elahi. <a href="https://link.springer.com/article/10.1007/s13735-018-0154-2" style="color: #B509AC">"Current Challenges and Visions in Music Recommender Systems Research"</a>, IJMIR, 2018. </li>
   
  </ul>
