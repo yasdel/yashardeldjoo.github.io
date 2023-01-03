@@ -32,7 +32,7 @@ Special Issue on Fairness and Explainability of Information Access Systems at th
 
 
 
-<h3> Highlighted Monographs:</h3>
+<h3> Monographs:</h3>
 Multi-media and Fashion Recommender Systems.
 <ul>
 <li> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia. <a href="https://arxiv.org/pdf/2202.02757.pdf" style="color: #B509AC">"A Review of Modern Fashion Recommender Systems"</a>, ACM Computing Surveys, 2023. </li>  
