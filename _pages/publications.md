@@ -6,9 +6,9 @@ author_profile: true
 ---
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
-       <li> <a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i> <br> 
+       <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i> <br> [<a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC">PrePrint</a>] 
  </li>
-        <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> 
+        <li> <a href="" style=""> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> [<a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC">PrePrint</a>] 
  </li>
   <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br>[<a href="https://yasdel.github.io/files/IPM23_FairnessRSFramework.pdf">PDF</a>] 
  </li>
