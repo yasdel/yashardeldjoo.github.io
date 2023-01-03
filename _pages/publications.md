@@ -6,16 +6,15 @@ author_profile: true
 ---
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
-
-  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br> 
+       <li> <a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i> <br> 
+ </li>
+        <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> 
+ </li>
+  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> [<a href="https://yasdel.github.io/files/IPM23_FairnessRSFramework.pdf">PDF</a>]<br> 
  </li>
     <li> <a href="" style="color:">   Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo <br> <i>ECIR'23 (FULL, accept rate: 20%) </i> <br>  [<a href="      https://www.researchgate.net/profile/Daniele-Malitesta/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering/links/63974defe42faa7e75b9e4ee/Auditing-Consumer-and-Producer-Fairness-in-Graph-Collaborative-Filtering.pdf" style="color: #B509AC">PrePrint</a>] 
  </li> 
-       <li> <a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC"> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> 
- </li>
-  <li> <a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC"> A Review of Modern Fashion Recommender Systems</a><br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i> <br> 
- </li>
-  
+
   <li> <a href="https://arxiv.org/abs/2107.11803" style="color: #B509AC"> Content-driven Music Recommendation:
 Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review, Computer Science Review, 2023 </i> <br> </li>
  
@@ -27,7 +26,7 @@ Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Marku
 <ul style="list-style-type:circle;">  
  <li> <a href=" https://dl.acm.org/doi/10.1145/3477495.3531959" style="color: #B509AC"> CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a><br> Mohammadmehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <br><i>SIGIR, 2022 (FULL, accept rate: 20%)</i> <br> [<a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531959" style="color: #B509AC">PDF</a>] 
  </li>
- <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> Bbook chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
+ <li> <a href="https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_25" style="color: #B509AC">  Multimedia Recommender Systems: Algorithms and Challenges </a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Balasz Hidasi, Yinwei Wei, Xiangnan He <br><i> Book chapter to the 3rd Edition of Recommender Systems Handbook, 2022 </i> <br>
 </li>
   
 <li> <a href="https://dl.acm.org/doi/10.1145/3439729" style="color: #B509AC">  A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i> ACM Computing Surveys, 2022 (CSUR) (IF: 14.32) </i> <br>
