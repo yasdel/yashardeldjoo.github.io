@@ -10,13 +10,13 @@ author_profile: true
  </li>
         <li> <a href="" style=""> Fairness in Recommender Systems: Research Landscape and Future Directions</a><br> <b>Yashar Deldjoo</b>, Dietmar Jannach, Alejandro Bellogin,  Alessandro Difonzo, Dario Zanzonelli <br> <i>Under Review, UMUAI, 2023 </i>  <br> [<a href="https://arxiv.org/abs/2205.11127" style="color: #B509AC">PrePrint</a>] 
  </li>
-  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br>[<a href="https://yasdel.github.io/files/IPM23_FairnessRSFramework.pdf">PDF</a>] 
+  <li> <a href="https://www.sciencedirect.com/science/article/pii/S0306457322002163" style="color: #B509AC"> A unifying and general account of fairness measurement in recommender systems</a><br> Enrique Amigó, <b>Yashar Deldjoo</b>, Stefano Mizzaro, Alejandro Bellogín <br> <i>Information Processing & Management, 2023 (IP&M) (IF: 6.222)  </i> <br>[<a href="https://yasdel.github.io/files/IPM23_FairnessRSFramework.pdf" tyle="color: #B509AC">PDF</a>] 
  </li>
     <li> <a href="" style="color:">   Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering</a><br> Vito Walter Anelli, <b>Yashar Deldjoo</b>, Tommaso Di Noia, Daniele Malitesta, Vincenzo Paparella, Claudio Pomo <br> <i>ECIR'23 (FULL, accept rate: 20%) </i> <br>  [<a href="      https://www.researchgate.net/profile/Daniele-Malitesta/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering/links/63974defe42faa7e75b9e4ee/Auditing-Consumer-and-Producer-Fairness-in-Graph-Collaborative-Filtering.pdf" style="color: #B509AC">PrePrint</a>] 
  </li> 
 
-  <li> <a href="https://arxiv.org/abs/2107.11803" style="color: #B509AC"> Content-driven Music Recommendation:
-Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review, Computer Science Review, 2023 </i> <br> </li>
+  <li> <a href="" style="color:"> Content-driven Music Recommendation:
+Evolution, State of the Art, and Challenges</a><br> <b>Yashar Deldjoo</b>, Markus Schedl, Peter Knees <br> <i> Under Review, Computer Science Review, 2023 </i> <br> [<a href="https://arxiv.org/abs/2107.11803" style="color: #B509AC">PrePrint</a>]  </li>
  
  </ul>
 
