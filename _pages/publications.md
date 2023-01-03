@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
-       <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems</a> <br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, G. Pellegrini, Alejandro Bellogin, Tommaso Di Noia &nbsp; &nbsp;<td style="text-align: right;">
+       <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems</a> <br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, G. Pellegrini, A. Bellogin, T. Di Noia &nbsp; &nbsp;<td style="text-align: right;">
       <img src="https://yasdel.github.io/assets/amazon_logo_scaled.png" alt="https://yasdel.github.io/assets/amazon_logo_scaled.png" style="width: 65px">
     </td>  <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i>  <br> [<a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC">PrePrint</a>]  <br>
              
