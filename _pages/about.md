@@ -126,10 +126,8 @@ Multimodality in RecSys and Conversation.
 <h2>news</h2>
         <ul>
            <li><date>Dec 2022</date> Our survey co-partnered with Amazon on "modern fashion RS" accepted to ACM CSUR, directly in the first submission! (IF: 14)</li>
-
            <li><date>June 2022</date> One paper on the "security of smart grids" accepted to AdvML@KDD'22 workshop! </li>
            <li><date>May-June 2022</date> Two papers accepted to the journal of Expert Systems with Applications! </li>
-
           <li><date>March-2022</date> One Full paper on "Multi-sided fairness optimization in Recommender Systems" accepted to SIGIR'22! </li>
 
         <li><date>Nov-2021</date> I am on a visiting period at <a href="https://cse.ucsd.edu/" target="\_blank" style="color: #B509AC">  UC San Diego</a>, since Fall 2021!</li>
