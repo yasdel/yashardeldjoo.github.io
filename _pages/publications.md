@@ -7,7 +7,7 @@ author_profile: true
 <h1 class="year">2023</h1>
 <ul style="list-style-type:circle;">
        <li> <a href="" style="color:"> A Review of Modern Fashion Recommender Systems</a> <br> <b>Yashar Deldjoo</b>, Fatemeh Nazary, Arnau Ramisa, Julian Mcauley, G. Pellegrini, Alejandro Bellogin, T. Di Noia &nbsp; &nbsp;<td style="text-align: right;">
-      <img src="https://yasdel.github.io/assets/amazon_logo_scaled.png" alt="https://yasdel.github.io/assets/amazon_logo_scaled.png" style="width: 65px">
+      <img src="https://yasdel.github.io/assets/amazon_logo_scaled.png" alt="https://yasdel.github.io/assets/amazon_logo_scaled.png" style="width: 80px">
     </td>  <br> <i>ACM Computing Surveys, 2023 (Accepted) (IF: 14.32)  </i>  <br> [<a href="https://arxiv.org/abs/2202.02757" style="color: #B509AC">PrePrint</a>]  <br>
              
  </li>
@@ -102,7 +102,9 @@ User-controlled federated matrix factorization for recommender systems </a><br> 
 
 <ul style="list-style-type:circle;">
 
-<li> <a href="https://doi.org/10.1145/3412379" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal <br><i>ACM Transactions on Intelligent Systems and Technology, 2020 (TIST) (IF: 3.971)</i> <br>
+<li> <a href="https://doi.org/10.1145/3412379" style="color: #B509AC"> Session-Based Hotel Recommendations Dataset</a><br>Jens Adamczak, <b>Yashar Deldjoo</b>, Farshad Bakhshandegan Moghaddam, Peter Knees, Gerard-Paul Leyson, Philipp Monreal &nbsp; &nbsp;<td style="text-align: right;">
+      <img src="https://yasdel.github.io/assets/logo_trivago.png" alt="https://yasdel.github.io/assets/logo_trivago.png" style="width: 80px">
+    </td <br><i>ACM Transactions on Intelligent Systems and Technology, 2020 (TIST) (IF: 3.971)</i> <br>
 [<a href="http://yasdel.github.io/files/TIST_2020.pdf" style="color: #B509AC">PDF</a>] [<a href="http://yasdel.github.io/files/TIST_2020.txt" style="color: #B509AC">bibtex</a>]</li>
 
 <li> <a href="https://doi.org/10.1145/3397271.3401046" style="color: #B509AC"> How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models </a><br> <b>Yashar Deldjoo</b>, Tommaso Di Noia, Felice Antonio Merra <br><i>Proc. of the 43rd ACM SIGIR Conf. on Research and Development in Information Retrieval, 2020 (SIGIR’20) (Full, accept rate: 26%) </i> <br>
