@@ -25,7 +25,7 @@ From 2017 to 2020, I organized a series of machine-learning competitions in coll
 
 <p style="color:red;"><b> New:</b></p> 
 
-Special Issue on n Trustworthy Recommender Systems at the Transaction of Recommender Systems (TORS) <br> (Deadline: <ins><b>Jan 15, 2023</b></ins>). <a href="https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-SI-Trustworthy-Recommender-Systems-1659471050877.pdf" target="\_blank" style="color: #B509AC">Call for papers</a>
+Special Issue on n Trustworthy Recommender Systems at the Transaction of Recommender Systems (TORS) <br> (Deadline: <del>Jan 15, 2023</del>, <ins>Feb 28, 2023</ins>). <a href="https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-SI-Trustworthy-Recommender-Systems-1659471050877.pdf" target="\_blank" style="color: #B509AC">Call for papers</a>
 
 
 Special Issue on Fairness and Explainability of Information Access Systems at the Information Processing and Management (IP&M) (Deadline: <del>March 31, 2022</del> <del>April 28, 2022</del>). <a href="https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-fair-and-explainable-information-access-systems-for-social-good" target="\_blank" style="color: #B509AC">Call for papers</a>
