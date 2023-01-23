@@ -12,25 +12,6 @@ redirect_from:
 <h1 class="post-title">About me</h1>
 </header>
 
-                
-                
-                <div class="col-md-7" style="text-align:justify; ">                
-					<p> My name is Azin Ghazimatin. I am a Research Scientist at Spotify, Berlin, Germany. 
-						My research focuses on applying principles of responsible AI, such as explainability and 
-						fairness, to search and recommender systems. </br> 
-		    				I completed my PhD in 2021 at the Max Planck Institute for Informatics, 
-		    				Saarbrücken, Germany. The focus of my PhD research was on 
-		    				<a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/">Transparency and Explanainability of Recommender Systems</a>. 
-		    				After my PhD, I worked for half a year as an Applied Scientist Intern at Amazon, 
-		    				Berlin, Germany, investigating fairness-related problems in search systems. Prior to my PhD, 
-		    				I worked for six months as a Research Assistant at the Max Planck Institute for Software Systems, 
-		    				contributing to enhancing privacy in search systems.</p>
-                </div>
-
-
-
-
-
 <p> My name is Yashar Deldjoo. I am a tenure-track assistant professor at Polytechnic University of Bari (Italy). I advise a team of PhD and MSc level students on  various aspects of recommender systems (RS) . My research focuses on applying principles of trustworthy ML, such as explainability and fairness, adversarial robustness and prviacy to RS and other PML applications. contributing to enhancing privacy in search systems. I have been recetnly visiting univeristy of San Diego, USA contributing to research on trustworthy ML. <br/> <br/>
   I completed my PhD in 2018 at the Polytechnic University of Milan, Italy. I have been a visiting researcher to the University of San Diego (USA). The focus of my PhD research was on Recommender Systems Leveraging Multimedia Content. During my PhD, I was a visting research to Johannes Kepler University Linz, Austria, contributing to enhancing recommender systems by leveraging multi-modal representation. <br/> <br/>
   
