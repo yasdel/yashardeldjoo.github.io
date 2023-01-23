@@ -12,18 +12,6 @@ redirect_from:
 <h1 class="post-title">About me</h1>
 </header>
 
-
-    <div class="container" style="margin-top: 80px">
-
-        <div class="row">
-
-            <!-- Entries Column -->
-            <div class="col-md-8">
-                
-                <!-- Main Image -->
-                <div class="col-md-5">
-                <img class="img-responsive" src="" alt="My photo">
-                 </div>
                 
                 
                 <div class="col-md-7" style="text-align:justify; ">                
@@ -39,16 +27,7 @@ redirect_from:
 		    				contributing to enhancing privacy in search systems.</p>
                 </div>
 
-                <!--
-                <div  id="" class="col-md-7" style="text-align:justify; margin-top:20px">
-                	<h3 style="font-family: Philosopher, sans-serif;">Projects</h3>
-                	<ul>
-                		<li>I created <a href="https://text2app.github.io/">Text2App</a>, a framework that can turn a natural language text into functional Android applications.</li>
-                		<li>I created an introductory <a href="https://interactivecares-courses.com/courses/machine-learning/">Machine Learning</a> course in my native language Bengali that dives into theory, practice, and intuition behind neural networks. (Email me for free access)</li>
-                	</ul>
-                </div>
-                -->
-            </div> 
+
 
 
 
