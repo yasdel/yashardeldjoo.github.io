@@ -70,7 +70,7 @@ If you need a personal copy of these book chapters, just drop me an email at del
 
 Fairness and Data Characteristics.
 <ul>
-    <li> Oleg Lesota, Gustavo Escobedo, Yashar Deldjoo, Bruce Ferwerda, Simone Kopeinik, Elisabeth Lex, Navid Rekabsa, Markus Schedl <a href="" style="color: #B509AC">"Computational Versus Perceived Popularity Miscalibration in Recommender Systems"</a>, SIGIR, 2023. </li>
+    <li> Oleg Lesota, Gustavo Escobedo, Yashar Deldjoo, Bruce Ferwerda, Simone Kopeinik, Elisabeth Lex, Navid Rekabsaz, Markus Schedl <a href="" style="color: #B509AC">"Computational Versus Perceived Popularity Miscalibration in Recommender Systems"</a>, SIGIR, 2023. </li>
 
   <li> M. Mehdi Naghiaei, Hossein A. Rahmani, <b>Yashar Deldjoo</b> <a href="https://arxiv.org/pdf/2204.08085.pdf" style="color: #B509AC">"CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems"</a>, SIGIR, 2022 (FULL). </li>
    <li>  <b>Yashar Deldjoo</b>, Vito W. Anelli, Hamed Zamani, Alejandro Bellogin, Tommaso Di Noia. <a href="https://yasdel.github.io/files/UMUAI2020_FatRec__Deldjoo.pdf" style="color: #B509AC">"A Flexible Framework for Evaluating User and Item Fairness in Recommender Systems"</a>, UMUAI 2020. </li>
